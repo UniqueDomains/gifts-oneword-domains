@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .gifts one-word domains from Uniqu
 
 **Public extract:** 9,280 rows · **Live catalog:** 9,280 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/gifts`  
 **Best for:** founders, investors, studios
 
@@ -69,7 +69,7 @@ print(df.head())
 | ace.gifts      | premium   | $82.50    | $82.50        | 88             | 57     | 3      | name.com         |
 | mark.gifts     | available | $9.99     | $46.99        | 66             | 42     | 4      | name.com         |
 | home.gifts     | resell    | —         | —             | 100            | 62     | 4      | Porkbun LLC      |
-| alpha.gifts    | premium   | $250      | $250          | 90             | 54     | 5      | name.com         |
+| alpha.gifts    | premium   | $250      | $250          | 90             | 53     | 5      | name.com         |
 | agile.gifts    | available | $9.99     | $46.99        | 92             | 41     | 5      | name.com         |
 | cloud.gifts    | resell    | —         | —             | 70             | 59     | 5      | GoDaddy.com, LLC |
 | abc.gifts      | premium   | $42.90    | $42.90        | 102            | 50     | 3      | namecheap        |
@@ -77,7 +77,7 @@ print(df.head())
 | search.gifts   | resell    | —         | —             | 70             | 57     | 6      | GoDaddy.com, LLC |
 | tech.gifts     | premium   | $500      | —             | 86             | 50     | 4      | name.com         |
 | unity.gifts    | available | $9.99     | $46.99        | 70             | 40     | 5      | name.com         |
-| bloom.gifts    | resell    | —         | —             | 72             | 52     | 5      | Sav.com, LLC     |
+| bloom.gifts    | resell    | —         | —             | 72             | 53     | 5      | Sav.com, LLC     |
 | air.gifts      | premium   | $260      | $260          | 84             | 49     | 3      | namecheap        |
 | research.gifts | available | $47.48    | —             | 92             | 39     | 8      | namecheap        |
 | human.gifts    | resell    | —         | —             | 74             | 51     | 5      | Dynadot Inc      |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GIFTS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GIFTS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
