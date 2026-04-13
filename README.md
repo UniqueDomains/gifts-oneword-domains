@@ -64,24 +64,24 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| forge.gifts    | available | $9.99     | $46.99        | 62             | 45     | 5      | name.com         |
+| forge.gifts    | available | $9.99     | $46.99        | 62             | 44     | 5      | name.com         |
 | now.gifts      | resell    | —         | —             | 68             | 66     | 3      | GoDaddy.com, LLC |
 | ace.gifts      | premium   | $82.50    | $82.50        | 88             | 57     | 3      | name.com         |
-| mark.gifts     | available | $9.99     | $46.99        | 66             | 42     | 4      | name.com         |
+| agile.gifts    | available | $9.99     | $46.99        | 92             | 41     | 5      | name.com         |
 | home.gifts     | resell    | —         | —             | 100            | 62     | 4      | Porkbun LLC      |
 | alpha.gifts    | premium   | $250      | $250          | 90             | 53     | 5      | name.com         |
-| agile.gifts    | available | $9.99     | $46.99        | 92             | 41     | 5      | name.com         |
+| mark.gifts     | available | $9.99     | $46.99        | 66             | 41     | 4      | name.com         |
 | cloud.gifts    | resell    | —         | —             | 70             | 59     | 5      | GoDaddy.com, LLC |
 | abc.gifts      | premium   | $42.90    | $42.90        | 102            | 50     | 3      | namecheap        |
-| content.gifts  | available | $9.99     | $46.99        | 138            | 40     | 7      | name.com         |
+| unity.gifts    | available | $9.99     | $46.99        | 70             | 40     | 5      | name.com         |
 | search.gifts   | resell    | —         | —             | 70             | 57     | 6      | GoDaddy.com, LLC |
 | tech.gifts     | premium   | $500      | —             | 86             | 50     | 4      | name.com         |
-| unity.gifts    | available | $9.99     | $46.99        | 70             | 40     | 5      | name.com         |
+| content.gifts  | available | $9.99     | $46.99        | 138            | 39     | 7      | name.com         |
 | bloom.gifts    | resell    | —         | —             | 72             | 53     | 5      | Sav.com, LLC     |
-| air.gifts      | premium   | $260      | $260          | 84             | 49     | 3      | namecheap        |
+| simple.gifts   | premium   | $500      | $500          | 128            | 49     | 6      | name.com         |
 | research.gifts | available | $47.48    | —             | 92             | 39     | 8      | namecheap        |
 | human.gifts    | resell    | —         | —             | 74             | 51     | 5      | Dynadot Inc      |
-| simple.gifts   | premium   | $500      | $500          | 128            | 48     | 6      | name.com         |
+| air.gifts      | premium   | $260      | $260          | 84             | 49     | 3      | namecheap        |
 | unify.gifts    | available | $9.99     | $46.99        | 72             | 38     | 5      | name.com         |
 | clear.gifts    | resell    | —         | —             | 90             | 49     | 5      | Dynadot Inc      |
 
