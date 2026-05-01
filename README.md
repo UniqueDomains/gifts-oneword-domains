@@ -1,10 +1,10 @@
-# Available .GIFTS One-Word Domains (11,662)
+# Available .GIFTS One-Word Domains (12,221)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C662%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C221%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .gifts one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,662 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,221 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,662 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,221 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/gifts`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| agents.gifts     | available | $9.99     | —             | 56             | 50     | 6      | name.com  |
-| jobs.gifts       | premium   | $1,000    | —             | 79             | 42     | 4      | name.com  |
-| skills.gifts     | available | $9.99     | —             | 58             | 47     | 6      | name.com  |
-| Tools.gifts      | premium   | $46.20    | $46.20        | 56             | 40     | 5      | namecheap |
-| Ryan.gifts       | available | $47.48    | —             | 60             | 44     | 4      | namecheap |
-| events.gifts     | premium   | $250      | —             | 68             | 37     | 6      | name.com  |
-| matcha.gifts     | available | $9.99     | —             | 86             | 39     | 6      | name.com  |
-| homes.gifts      | premium   | $82.50    | —             | 86             | 34     | 5      | name.com  |
-| lets.gifts       | available | $9.99     | —             | 77             | 39     | 4      | name.com  |
-| SanDiego.gifts   | premium   | $78.54    | $78.54        | 74             | 29     | 9      | namesilo  |
-| whynot.gifts     | available | $9.99     | —             | 74             | 39     | 7      | name.com  |
-| backyard.gifts   | premium   | $82.50    | —             | 80             | 27     | 9      | name.com  |
-| justin.gifts     | available | $9.99     | —             | 58             | 38     | 7      | name.com  |
-| unicorns.gifts   | premium   | $82.50    | —             | 73             | 21     | 8      | name.com  |
-| trends.gifts     | available | $9.99     | —             | 60             | 32     | 6      | name.com  |
-| children.gifts   | premium   | $250      | —             | 68             | 21     | 8      | name.com  |
-| William.gifts    | available | $47.48    | —             | 74             | 31     | 7      | namecheap |
-| bills.gifts      | premium   | $45.99    | —             | 54             | 19     | 5      | name.com  |
-| popup.gifts      | available | $9.99     | —             | 84             | 29     | 6      | name.com  |
-| videogames.gifts | premium   | $82.50    | —             | 66             | 18     | 11     | name.com  |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| agents.gifts      | available | $9.99     | —             | 56             | 50     | 6      | name.com  |
+| Tools.gifts       | premium   | $46.20    | $46.20        | 56             | 40     | 5      | namecheap |
+| skills.gifts      | available | $9.99     | —             | 58             | 47     | 6      | name.com  |
+| events.gifts      | premium   | $250      | —             | 68             | 37     | 6      | name.com  |
+| Ryan.gifts        | available | $47.48    | —             | 60             | 44     | 4      | namecheap |
+| homes.gifts       | premium   | $82.50    | —             | 86             | 34     | 5      | name.com  |
+| matcha.gifts      | available | $9.99     | —             | 86             | 39     | 6      | name.com  |
+| SanDiego.gifts    | premium   | $78.54    | $78.54        | 74             | 29     | 9      | namesilo  |
+| lets.gifts        | available | $9.99     | —             | 77             | 39     | 4      | name.com  |
+| backyard.gifts    | premium   | $82.50    | —             | 80             | 27     | 9      | name.com  |
+| justin.gifts      | available | $9.99     | —             | 58             | 38     | 7      | name.com  |
+| unicorns.gifts    | premium   | $82.50    | —             | 73             | 21     | 8      | name.com  |
+| trends.gifts      | available | $9.99     | —             | 60             | 32     | 6      | name.com  |
+| children.gifts    | premium   | $250      | —             | 68             | 21     | 8      | name.com  |
+| popup.gifts       | available | $9.99     | —             | 84             | 29     | 6      | name.com  |
+| bills.gifts       | premium   | $45.99    | —             | 54             | 19     | 5      | name.com  |
+| quotes.gifts      | available | $9.99     | —             | 58             | 29     | 6      | name.com  |
+| videogames.gifts  | premium   | $82.50    | —             | 66             | 18     | 11     | name.com  |
+| cams.gifts        | available | $9.99     | —             | 52             | 29     | 4      | name.com  |
+| landscaping.gifts | premium   | $45.99    | —             | 80             | 16     | 11     | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,662 live domains                              |
+| 1,000-row public sample | 12,221 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GIFTS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GIFTS One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
