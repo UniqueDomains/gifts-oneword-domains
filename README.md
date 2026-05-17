@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .gifts one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,227 domains · **Median ask:** $19.95 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/gifts`  
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,7 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| popup.gifts    | available | $9.99     | —             | 84             | 29     | 6      | name.com  |
+| popup.gifts    | available | $9.99     | —             | 84             | 28     | 6      | name.com  |
 | matcha.gifts   | available | $9.99     | —             | 86             | 39     | 6      | name.com  |
 | Apples.gifts   | available | $47.48    | —             | 90             | 16     | 6      | namecheap |
 | useit.gifts    | available | $9.99     | —             | 94             | 7      | 6      | name.com  |
@@ -72,7 +72,7 @@ print(df.head())
 | playon.gifts   | available | $9.99     | —             | 80             | 14     | 7      | name.com  |
 | QandA.gifts    | available | $47.48    | —             | 80             | 10     | 7      | namecheap |
 | toneup.gifts   | available | $9.99     | —             | 80             | 5      | 7      | name.com  |
-| makeit.gifts   | available | $9.99     | —             | 82             | 22     | 7      | name.com  |
+| makeit.gifts   | available | $9.99     | —             | 82             | 21     | 7      | name.com  |
 | stirup.gifts   | available | $9.99     | —             | 82             | 3      | 7      | name.com  |
 | dogsick.gifts  | available | $9.99     | —             | 90             | 1      | 7      | name.com  |
 | getlife.gifts  | available | $9.99     | —             | 80             | 5      | 8      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GIFTS One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GIFTS One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
