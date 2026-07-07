@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .gifts one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,227 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,227 domains · **Median ask:** $19.95 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,227 domains · **Median ask:** $22.02 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/gifts`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/gifts`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .GIFTS one-word domain
 
 ### Files
 
-- `gifts.csv` — public CSV extract (1,000 rows)
-- `gifts.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `gifts.csv`, public CSV extract (1,000 rows)
+- `gifts.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| popup.gifts    | available | $9.99     | —             | 84             | 28     | 6      | name.com  |
-| matcha.gifts   | available | $9.99     | —             | 86             | 39     | 6      | name.com  |
-| Apples.gifts   | available | $47.48    | —             | 90             | 16     | 6      | namecheap |
-| useit.gifts    | available | $9.99     | —             | 94             | 7      | 6      | name.com  |
-| dogsit.gifts   | available | $9.99     | —             | 96             | 2      | 6      | name.com  |
-| playon.gifts   | available | $9.99     | —             | 80             | 14     | 7      | name.com  |
-| QandA.gifts    | available | $47.48    | —             | 80             | 10     | 7      | namecheap |
-| toneup.gifts   | available | $9.99     | —             | 80             | 5      | 7      | name.com  |
-| makeit.gifts   | available | $9.99     | —             | 82             | 21     | 7      | name.com  |
-| stirup.gifts   | available | $9.99     | —             | 82             | 3      | 7      | name.com  |
-| dogsick.gifts  | available | $9.99     | —             | 90             | 1      | 7      | name.com  |
-| getlife.gifts  | available | $9.99     | —             | 80             | 5      | 8      | name.com  |
-| messages.gifts | available | $9.99     | —             | 80             | 16     | 8      | name.com  |
-| agents.gifts   | available | $9.99     | —             | 56             | 50     | 6      | name.com  |
-| Tools.gifts    | premium   | $46.20    | $46.20        | 56             | 40     | 5      | namecheap |
-| skills.gifts   | available | $9.99     | —             | 58             | 47     | 6      | name.com  |
-| events.gifts   | premium   | $250      | —             | 68             | 37     | 6      | name.com  |
-| Ryan.gifts     | available | $47.48    | —             | 60             | 44     | 4      | namecheap |
-| homes.gifts    | premium   | $82.50    | —             | 86             | 34     | 5      | name.com  |
-| SanDiego.gifts | premium   | $78.54    | $78.54        | 74             | 29     | 9      | namesilo  |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| BJP.gifts       | available | $9.99     | —             | medium         | low    | 3      | name.com         |
+| gag.gifts       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
+| aaa.gifts       | premium   | $520      | $520          | high           | medium | 3      | namecheap        |
+| shh.gifts       | available | $9.99     | —             | medium         | low    | 3      | name.com         |
+| kid.gifts       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
+| add.gifts       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| acre.gifts      | available | $9.99     | —             | medium         | low    | 4      | name.com         |
+| Bets.gifts      | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
+| aim.gifts       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| atop.gifts      | available | $9.99     | —             | medium         | low    | 4      | name.com         |
+| tons.gifts      | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| are.gifts       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| avon.gifts      | available | $9.99     | —             | high           | low    | 4      | name.com         |
+| fashion.gifts   | resell    | —         | —             | high           | medium | 7      | Dynadot Inc      |
+| btw.gifts       | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
+| axis.gifts      | available | $9.99     | —             | medium         | medium | 4      | name.com         |
+| anonymous.gifts | resell    | —         | —             | medium         | low    | 9      | GoDaddy.com, LLC |
+| cot.gifts       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| blob.gifts      | available | $9.99     | —             | medium         | low    | 4      | name.com         |
+| cup.gifts       | premium   | $82.50    | —             | high           | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .gifts domains, a niche extension that works best when the word and the TLD reinforce each other. Strong names usually read naturally as a gifting brand, product line, campaign, or seasonal offer. Examples like matcha.gifts, popup.gifts, and WiFi.gifts show the range: product-led, event-led, and novelty-led use cases. When comparing these domains, focus on whether the word feels memorable, whether it can carry commercial intent inside a .gifts ending, and whether the asking price is justified by clarity and resale flexibility. The median ask is 19.95, so discipline matters more than hype.
+This is a set of 12,227 .gifts domain names, updated daily, spanning short phrases and compound words such as getjiggy.gifts, makehistory.gifts, and forces.gifts. The median ask across the selection is about $22, making .gifts one of the more accessible extensions to secure a brandable, gift-themed name. These domains suit founders building gifting, celebration, or occasion-based products, as well as investors tracking affordable, high-volume TLD coverage.
 
-- Best fits pair naturally with gifting, occasions, or products
-- Median ask is 19.95 across 12,226 listed domains
-- Check if the keyword still reads cleanly with .gifts
-- Be careful with trademark-heavy words and novelty terms
+- 12,227 .gifts domain names in this selection
+- Median ask near $22 across listed .gifts domains
+- Short, phrase-style names like getjiggy.gifts, makeit.gifts
+- Ideal for gift, celebration, and occasion-focused brands
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GIFTS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GIFTS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
