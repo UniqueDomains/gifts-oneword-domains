@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .gifts one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 24,857 domains · **Median ask:** $23.72 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-17
 **Canonical page:** `https://unique.domains/domains/tld/gifts`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| BJP.gifts       | available | $9.99     | —             | medium         | low    | 3      | name.com         |
-| gag.gifts       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
-| aaa.gifts       | premium   | $520      | $520          | high           | medium | 3      | namecheap        |
-| clv.gifts       | available | $14.99    | $46.99        | low            | low    | 3      | name.com         |
-| kid.gifts       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
-| add.gifts       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
-| lii.gifts       | available | $14.99    | $46.99        | low            | low    | 3      | name.com         |
-| Bets.gifts      | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
-| aim.gifts       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
-| shh.gifts       | available | $9.99     | —             | medium         | low    | 3      | name.com         |
-| tons.gifts      | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
-| are.gifts       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
-| acre.gifts      | available | $9.99     | —             | medium         | low    | 4      | name.com         |
-| fashion.gifts   | resell    | —         | —             | high           | medium | 7      | Dynadot Inc      |
-| btw.gifts       | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
-| alky.gifts      | available | $14.99    | $46.99        | low            | low    | 4      | name.com         |
-| natural.gifts   | resell    | —         | —             | medium         | low    | 7      | Dynadot Inc      |
-| bum.gifts       | premium   | $78.54    | $78.54        | low            | low    | 3      | namesilo         |
-| atop.gifts      | available | $9.99     | —             | medium         | low    | 4      | name.com         |
-| anonymous.gifts | resell    | —         | —             | medium         | low    | 9      | GoDaddy.com, LLC |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| out.gifts     | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
+| off.gifts     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| simple.gifts  | premium   | $500      | $500          | high           | medium | 6      | name.com         |
+| BJP.gifts     | available | $9.99     | —             | medium         | low    | 3      | name.com         |
+| gag.gifts     | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
+| aaa.gifts     | premium   | $520      | $520          | high           | medium | 3      | namecheap        |
+| clv.gifts     | available | $14.99    | $46.99        | low            | low    | 3      | name.com         |
+| kid.gifts     | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
+| add.gifts     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| lii.gifts     | available | $14.99    | $46.99        | low            | low    | 3      | name.com         |
+| Bets.gifts    | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
+| aim.gifts     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| shh.gifts     | available | $9.99     | —             | medium         | low    | 3      | name.com         |
+| tons.gifts    | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| are.gifts     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| acre.gifts    | available | $9.99     | —             | medium         | low    | 4      | name.com         |
+| fashion.gifts | resell    | —         | —             | high           | medium | 7      | Dynadot Inc      |
+| btw.gifts     | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
+| alky.gifts    | available | $14.99    | $46.99        | low            | low    | 4      | name.com         |
+| natural.gifts | resell    | —         | —             | medium         | low    | 7      | Dynadot Inc      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GIFTS One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GIFTS One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
