@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .gifts one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,021 domains · **Median ask:** $25.61 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/gifts`
 **Best for:** founders, investors, studios
 
@@ -64,14 +64,14 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| BJP.gifts       | available | $9.99     | —             | medium         | low    | 3      | name.com         |
+| bjp.gifts       | available | $9.99     | —             | medium         | low    | 3      | name.com         |
 | gag.gifts       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
 | aaa.gifts       | premium   | $520      | $520          | high           | medium | 3      | namecheap        |
 | clv.gifts       | available | $14.99    | $46.99        | low            | low    | 3      | name.com         |
 | kid.gifts       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
 | add.gifts       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
 | lii.gifts       | available | $14.99    | $46.99        | low            | low    | 3      | name.com         |
-| Bets.gifts      | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
+| bets.gifts      | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
 | aim.gifts       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
 | shh.gifts       | available | $9.99     | —             | medium         | low    | 3      | name.com         |
 | tons.gifts      | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GIFTS One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GIFTS One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
