@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .gifts one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,321 domains · **Median ask:** $28.58 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/gifts`
 **Best for:** founders, investors, studios
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GIFTS One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GIFTS One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
