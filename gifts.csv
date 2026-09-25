@@ -1,1001 +1,1001 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-60d50811-3b00-4c32-9296-05ab2cecdc04,hexad.gifts,available,14.99,46.99,low,low,5,name.com,,,
+60d50811-3b00-4c32-9296-05ab2cecdc04,hexad.gifts,available,14.99,46.99,medium,low,5,name.com,,,
 6046e484-bddd-42ba-86a0-8ddcc4f6dc56,prioritize.gifts,available,9.99,,high,low,10,name.com,,,
-52a3eaf3-01ed-4b8f-8251-eb3043b4963f,enwrapped.gifts,available,14.99,46.99,low,low,9,name.com,,,
-8d34f15f-51e2-45ba-8392-3a1379c2d276,exhaustsystem.gifts,available,9.99,,medium,low,14,name.com,,,
-0ba1f467-8f4b-4f71-9767-3101fc51f67d,inreturn.gifts,available,9.99,,medium,low,9,name.com,,,
-95f43e7c-6dff-4e5e-824a-59007659e2f2,hokey.gifts,available,14.99,46.99,low,low,5,name.com,,,09/08/2026 00:37
-87af5384-c605-4a4a-936a-42dc187354f3,timeworn.gifts,available,14.99,46.99,low,low,8,name.com,,,08/08/2026 11:14
-09d158e5-83f7-4f6f-a9e6-0c6da981e713,annelidan.gifts,available,14.99,46.99,low,low,9,name.com,,,
-8e08c989-f038-405b-8a3d-3909fcc30de2,aeschylean.gifts,available,14.99,46.99,low,low,10,name.com,,,
+52a3eaf3-01ed-4b8f-8251-eb3043b4963f,enwrapped.gifts,available,14.99,46.99,high,low,9,name.com,,,
+95f43e7c-6dff-4e5e-824a-59007659e2f2,hokey.gifts,available,14.99,46.99,medium,low,5,name.com,,,09/08/2026 00:37
+87af5384-c605-4a4a-936a-42dc187354f3,timeworn.gifts,available,14.99,46.99,medium,low,8,name.com,,,08/08/2026 11:14
+09d158e5-83f7-4f6f-a9e6-0c6da981e713,annelidan.gifts,available,14.99,46.99,medium,low,9,name.com,,,
 a505b15e-99cf-46b4-a858-c7cbfdff5bad,gusto.gifts,available,9.99,,high,low,5,name.com,,,
-42129a0a-5bbc-432c-b40f-2614e149081e,generally.gifts,available,9.99,,medium,low,9,name.com,,,
-eb085308-4b52-43cb-8acc-e252192d6242,annualreport.gifts,available,9.99,,high,low,13,name.com,,,
-f0eeb110-bce3-4208-8e1b-a0a78cc55fc3,interviewee.gifts,available,9.99,,medium,low,11,name.com,,,
-b77f4d8c-70b2-4dbf-a0ca-31a330baed4b,anadromous.gifts,available,14.99,46.99,low,low,10,name.com,,,
+42129a0a-5bbc-432c-b40f-2614e149081e,generally.gifts,available,9.99,,high,low,9,name.com,,,
+f0eeb110-bce3-4208-8e1b-a0a78cc55fc3,interviewee.gifts,available,9.99,,high,low,11,name.com,,,
 d6798ec5-02b8-45f2-a1bd-4c6105ebb96c,cameraman.gifts,available,9.99,,high,low,9,name.com,,,
-55838eca-712f-44e5-a466-062d6dc0454e,setup.gifts,available,9.99,,high,low,6,name.com,,,
-f0f22e8d-fc41-4fe6-a2c4-689d677fb561,anodic.gifts,available,36.99,36.99,low,low,6,namesilo,,,
+f0f22e8d-fc41-4fe6-a2c4-689d677fb561,anodic.gifts,available,36.99,36.99,high,low,6,namesilo,,,
 02a79f94-c5a2-440e-8e94-09f75e56b1e3,stuck.gifts,available,9.99,,medium,low,5,name.com,,,
 d22589be-2585-4e69-99c6-c7778d68b4e8,whichever.gifts,available,9.99,,medium,low,9,name.com,,,
-0ac002b4-1674-4eef-98bc-d2207ddd47c7,plaguy.gifts,available,14.99,46.99,low,low,6,name.com,,,
-49208695-360a-4a1a-bf4f-52962482eea5,wellcovered.gifts,available,9.99,,high,low,12,name.com,,,
-df26fa5f-5438-4fb4-8eb0-f06b38f325c8,goforthegold.gifts,available,9.99,,high,low,15,name.com,,,
-7b85210b-1fce-4e65-98e0-436267c277f9,balanced.gifts,available,36.99,36.99,medium,low,8,namesilo,,,22/09/2026 16:28
+0ac002b4-1674-4eef-98bc-d2207ddd47c7,plaguy.gifts,available,14.99,46.99,medium,low,6,name.com,,,
 62cceba4-7bc4-4f7c-8a9b-854913b2e5c2,england.gifts,premium,242,242,high,low,7,namesilo,,,
-e6a21ae7-cb78-41c6-8734-4e942ee5f584,blueish.gifts,available,36.99,36.99,low,low,7,namesilo,,,22/09/2026 22:51
-d78ec713-20eb-41bd-bb75-772f924d30d5,supervisor.gifts,available,9.99,,medium,low,10,name.com,,,
-f0bbae91-5c78-4b27-9b48-be822392f5e3,aleatory.gifts,available,14.99,46.99,low,low,8,name.com,,,
-99cb4bc5-35de-491e-8b6c-b0732e78aa0f,wintersun.gifts,available,9.99,,medium,low,10,name.com,,,
-9c90df73-ffc0-422b-882b-6463765285c2,radical.gifts,available,14.99,46.99,medium,low,7,name.com,,,08/08/2026 21:21
-9af31de8-056c-4f76-9b03-0603a98085ba,summoned.gifts,available,9.99,,low,low,8,name.com,,,
+d78ec713-20eb-41bd-bb75-772f924d30d5,supervisor.gifts,available,9.99,,high,low,10,name.com,,,
+f0bbae91-5c78-4b27-9b48-be822392f5e3,aleatory.gifts,available,14.99,46.99,medium,low,8,name.com,,,
+9c90df73-ffc0-422b-882b-6463765285c2,radical.gifts,available,14.99,46.99,high,low,7,name.com,,,08/08/2026 21:21
+9af31de8-056c-4f76-9b03-0603a98085ba,summoned.gifts,available,9.99,,medium,low,8,name.com,,,
 f40ab8f3-6c33-46aa-9205-b3633e4b9fa4,chatbot.gifts,available,9.99,,high,medium,7,name.com,,,
-8245200d-4996-4c72-815f-3d9f02ae57eb,gee.gifts,premium,78.54,78.54,medium,low,3,namesilo,,,
+8245200d-4996-4c72-815f-3d9f02ae57eb,gee.gifts,premium,78.54,78.54,high,low,3,namesilo,,,
 1b60059f-6b2f-4a27-a1a6-0012a6364f46,somesing.gifts,available,9.99,,medium,low,8,name.com,,,
 743b83d9-8393-4559-8678-7aed075ae855,float.gifts,available,9.99,,high,low,5,name.com,,,
-17a69da7-2418-4bc1-ae96-efff4b8cba58,trimback.gifts,available,9.99,,medium,low,9,name.com,,,
 2c63421e-74f2-428f-ae33-c1d10188a01d,impulse.gifts,available,9.99,,high,low,7,name.com,,,
-a0e02c6e-ab74-47a0-b65d-40e9644bfd2a,votingage.gifts,available,9.99,,low,low,10,name.com,,,
-bcf7031e-9c0d-456e-ad15-283ecd8cff2f,glinting.gifts,available,14.99,46.99,low,low,8,name.com,,,
+bcf7031e-9c0d-456e-ad15-283ecd8cff2f,glinting.gifts,available,14.99,46.99,high,low,8,name.com,,,
 af01b03e-cde4-458e-8c01-08fae21c24a4,amuse.gifts,available,9.99,,high,low,5,name.com,,,
-87bb4c3b-9507-4034-b2fa-f874bca3985b,agrestic.gifts,available,14.99,46.99,low,low,8,name.com,,,
-21ab883d-1f18-4597-95bc-2e9387d94bdd,aminic.gifts,available,14.99,46.99,low,low,6,name.com,,,
-a5c2d520-b14f-4c04-8fb1-2a5a30b5832b,chair.gifts,available,9.99,,medium,low,5,name.com,,,
+87bb4c3b-9507-4034-b2fa-f874bca3985b,agrestic.gifts,available,14.99,46.99,medium,low,8,name.com,,,
+a5c2d520-b14f-4c04-8fb1-2a5a30b5832b,chair.gifts,available,9.99,,high,low,5,name.com,,,
 70936667-e798-4a7e-a950-6eb653ba6e03,those.gifts,available,9.99,,medium,low,5,name.com,,,
-b68842ba-8d08-4285-b25e-f8201b2e1260,fortyone.gifts,available,14.99,46.99,low,low,9,name.com,,,
-e702ce97-ed2b-42ee-9557-67e84833c5d8,aramaic.gifts,available,14.99,46.99,low,low,7,name.com,,,06/08/2026 12:13
-ced66182-364c-48d1-a979-a4e6fbf4b55c,evaluative.gifts,available,14.99,46.99,low,low,10,name.com,,,06/08/2026 08:13
-9acd0f11-8ea0-4b59-8eda-8e78cb929378,allocable.gifts,available,14.99,46.99,low,low,9,name.com,,,
-9184394c-75d5-4c10-b003-348d89a6702a,keen.gifts,available,36.99,36.99,low,low,4,namesilo,,,22/09/2026 16:55
+e702ce97-ed2b-42ee-9557-67e84833c5d8,aramaic.gifts,available,14.99,46.99,high,low,7,name.com,,,06/08/2026 12:13
+ced66182-364c-48d1-a979-a4e6fbf4b55c,evaluative.gifts,available,14.99,46.99,medium,low,10,name.com,,,06/08/2026 08:13
 c2309fd5-d748-4688-b770-3ed9bdf3df2d,limitation.gifts,available,9.99,,medium,low,10,name.com,,,
-9f6fce6e-08b0-4508-9b9c-97c713867dff,receipts.gifts,available,9.99,,medium,low,8,name.com,,,
+9f6fce6e-08b0-4508-9b9c-97c713867dff,receipts.gifts,available,9.99,,high,low,8,name.com,,,
 2b1aa3c8-e88b-4ea8-aa20-b16936afdbf1,guts.gifts,available,9.99,,high,low,4,name.com,,,
-6ba2e17a-d83c-48dd-a05e-1b4fc73fda6a,mouthcare.gifts,available,9.99,,low,low,9,name.com,,,
-40b8b45a-5203-409d-8f11-eb127c0c4e9b,detestable.gifts,available,14.99,46.99,low,low,10,name.com,,,
+6ba2e17a-d83c-48dd-a05e-1b4fc73fda6a,mouthcare.gifts,available,9.99,,medium,low,9,name.com,,,
+40b8b45a-5203-409d-8f11-eb127c0c4e9b,detestable.gifts,available,14.99,46.99,medium,low,10,name.com,,,
 d9e21860-abad-4fda-819c-71a2b25a80dd,etch.gifts,available,9.99,,high,low,4,name.com,,,
-40d70a80-2a45-4407-95c7-633778499e27,pesky.gifts,available,14.99,46.99,low,low,5,name.com,,,
-e6a6952a-fe4c-4b0e-8bf6-32b9471f8df4,ambulant.gifts,available,14.99,46.99,low,low,8,name.com,,,
-7c841147-fcc6-4402-8183-4f94b54c00d5,auld.gifts,available,14.99,46.99,low,low,4,name.com,,,07/08/2026 17:21
+40d70a80-2a45-4407-95c7-633778499e27,pesky.gifts,available,14.99,46.99,high,low,5,name.com,,,
+e6a6952a-fe4c-4b0e-8bf6-32b9471f8df4,ambulant.gifts,available,14.99,46.99,high,low,8,name.com,,,
+7c841147-fcc6-4402-8183-4f94b54c00d5,auld.gifts,available,14.99,46.99,medium,low,4,name.com,,,07/08/2026 17:21
 4fc1df23-c785-4a00-890d-f58e45ecfe8a,katy.gifts,available,9.99,,high,low,4,name.com,,,
-8788be7d-62ea-4bcb-8cf4-10ddcb46f1be,taxation.gifts,available,9.99,,medium,low,8,name.com,,,
-06f4704b-f29a-4ccf-aa0d-b68cd0133713,tel.gifts,premium,854,854,medium,low,3,namesilo,,,
-33e6dd7e-b50e-47e6-8a5c-ca7ea03eea72,diverted.gifts,available,14.99,46.99,low,low,8,name.com,,,
-c9194984-d179-4d5e-bed5-51a3bbfb3540,southkorea.gifts,available,9.99,,low,low,11,name.com,,,
-bdeb828f-448c-4d5c-847a-ff3a8523b60c,bluish.gifts,available,36.99,36.99,low,low,6,namesilo,,,22/09/2026 22:47
-adee94c3-6588-4f9d-be33-9cdb73f09f1f,letterofthelaw.gifts,available,9.99,,medium,low,17,name.com,,,
-051d81ee-e328-4587-bf46-f87f6c22a65d,troll.gifts,available,9.99,,medium,low,5,name.com,,,
+8788be7d-62ea-4bcb-8cf4-10ddcb46f1be,taxation.gifts,available,9.99,,high,low,8,name.com,,,
+06f4704b-f29a-4ccf-aa0d-b68cd0133713,tel.gifts,premium,854,854,high,low,3,namesilo,,,
+33e6dd7e-b50e-47e6-8a5c-ca7ea03eea72,diverted.gifts,available,14.99,46.99,medium,low,8,name.com,,,
+051d81ee-e328-4587-bf46-f87f6c22a65d,troll.gifts,available,9.99,,high,low,5,name.com,,,
 27b68da6-c858-4200-a096-c754705be962,intend.gifts,available,9.99,,high,low,6,name.com,,,
-1bded6f3-c6ab-4f9a-9960-a2498b6a2221,letterofguarantee.gifts,available,9.99,,medium,low,19,name.com,,,
 d87ce906-8db1-43c3-92f4-7d46b288356d,duchess.gifts,available,9.99,,high,low,7,name.com,,,
 8d6691a8-5e51-4cb9-95a7-7665925ba073,truffle.gifts,available,9.99,,high,low,7,name.com,,,
 401fd98f-6fab-4d46-a74b-410185902997,unbearable.gifts,available,9.99,,medium,low,10,name.com,,,
-62c023f2-33c0-42e7-b7ba-fea42f2e7706,arbitrary.gifts,available,14.99,46.99,low,low,9,name.com,,,06/08/2026 12:54
-4eaf3721-1b67-4369-8f23-0bf6a73ff79c,aaa.gifts,premium,520,520,medium,medium,3,namecheap,,,
-ccd6c8f9-b050-4ae0-92bb-2b788f0f9457,autogenous.gifts,available,14.99,46.99,low,low,10,name.com,,,07/08/2026 20:16
+62c023f2-33c0-42e7-b7ba-fea42f2e7706,arbitrary.gifts,available,14.99,46.99,high,low,9,name.com,,,06/08/2026 12:54
+4eaf3721-1b67-4369-8f23-0bf6a73ff79c,aaa.gifts,premium,520,520,high,medium,3,namecheap,,,
+ccd6c8f9-b050-4ae0-92bb-2b788f0f9457,autogenous.gifts,available,14.99,46.99,medium,low,10,name.com,,,07/08/2026 20:16
 5ed9f29f-e667-4c60-8214-9abe9e124035,poorly.gifts,available,9.99,,medium,low,6,name.com,,,
-ae848774-c0d7-4734-8a6e-5c948c5c5c90,worsened.gifts,available,9.99,,medium,low,8,name.com,,,
-3f135036-e2e6-47d6-aea3-e206e3b44d39,flipthebird.gifts,available,9.99,,medium,low,13,name.com,,,
-3cd0db9a-a900-4e06-bc26-3ce02b5398d9,exercisebicycle.gifts,available,9.99,,high,low,16,name.com,,,
-7742783b-7faf-4773-b708-bfc0d82a5d75,agreeable.gifts,available,38.48,47.48,medium,low,9,namecheap,,,21/09/2026 23:17
-b5be3e7f-56dd-42d3-89bc-f2f134423026,desktopcomputer.gifts,available,9.99,,high,low,16,name.com,,,
-f4087152-0abf-4e84-932e-34bc277b5443,agonizing.gifts,available,14.99,46.99,low,low,9,name.com,,,
+f4087152-0abf-4e84-932e-34bc277b5443,agonizing.gifts,available,14.99,46.99,high,low,9,name.com,,,
 5381e04a-14f8-4d51-8ed9-78dbae9c389b,embrace.gifts,available,9.99,,high,low,7,name.com,,,
 96aac944-6f72-4f2a-b3eb-4dcfe81c224a,wound.gifts,available,9.99,,high,low,5,name.com,,,
-de30f304-5c39-429f-aa20-bd3c3de3bc1f,knowwhat.gifts,available,9.99,,medium,low,9,name.com,,,
 960b336e-5350-4349-8165-4c5e8056f48f,kindness.gifts,premium,78.54,78.54,high,low,8,namesilo,,,
 9e5c71bd-d6e2-44c6-a9a1-5b383974ddff,twin.gifts,premium,78.54,78.54,high,low,4,namesilo,,,
 f9f5d0f9-efdd-41d7-8db8-a3a08b081c1f,roast.gifts,available,9.99,,high,low,5,name.com,,,
-e2bed8f1-9c14-4c65-880f-9e98b0703513,getin.gifts,available,9.99,,high,low,6,name.com,,,
-5f583817-c912-45cb-9050-bbb0f11cd713,angelic.gifts,available,36.99,36.99,medium,low,7,namesilo,,,22/09/2026 04:25
 8116af91-510d-4c28-a6db-b28c68fbdcfc,thing.gifts,available,9.99,,high,low,5,name.com,,,
-23387822-0b2a-4f46-84de-a7f7090df8ac,thisway.gifts,available,9.99,,low,low,8,name.com,,,
 74bf6843-67e5-4a80-ac79-487253337f6c,potential.gifts,available,9.99,,high,low,9,name.com,,,
 79829490-7683-4a1a-baf8-01cf3bc3f2d9,strong.gifts,available,9.99,,high,low,6,name.com,,,
-99a7c364-989f-4bca-9f60-d5396ec15659,pissabout.gifts,available,9.99,,low,low,10,name.com,,,
-5ccfc2cb-4a50-4c3c-9cb6-1f8c2789aac9,xxii.gifts,available,36.99,36.99,low,low,4,namesilo,,,21/09/2026 12:40
 4b9347ca-eb01-49ef-a895-1d2a16238d6d,country.gifts,premium,78.54,78.54,high,low,7,namesilo,,,
-f8070a42-f002-46f9-b5d6-0f73333a2fbc,bedfast.gifts,available,14.99,46.99,low,low,7,name.com,,,09/08/2026 06:56
-3fcdfcaa-45b5-4c14-892e-964002858060,alight.gifts,available,14.99,46.99,low,low,6,name.com,,,
+3fcdfcaa-45b5-4c14-892e-964002858060,alight.gifts,available,14.99,46.99,high,low,6,name.com,,,
 2ad0fb27-2149-47f8-872d-9ee98aedb7ac,replace.gifts,available,9.99,,high,low,7,name.com,,,
-30491c2b-4168-4dad-b9e2-5672e72c9cec,relieved.gifts,available,14.99,46.99,low,low,8,name.com,,,
-9d01f6f0-dfd4-4f6e-8c00-1d80d6be136f,elaborate.gifts,available,9.99,,high,low,9,name.com,,,
-8d76997a-88ee-4735-9c1c-2f6296432bb3,adagio.gifts,available,14.99,46.99,low,low,6,name.com,,,
-28db7a10-4acb-4525-840e-734530ccbf7a,gross.gifts,available,9.99,46.99,medium,low,5,name.com,,,
+30491c2b-4168-4dad-b9e2-5672e72c9cec,relieved.gifts,available,14.99,46.99,high,low,8,name.com,,,
+8d76997a-88ee-4735-9c1c-2f6296432bb3,adagio.gifts,available,14.99,46.99,high,low,6,name.com,,,
 a6331575-4650-4950-8d64-96361c7d23fb,ready.gifts,available,,,high,low,5,,,,
-b57527e8-6b5c-4633-bb77-b34ca4fc1326,anopheline.gifts,available,36.99,36.99,low,low,10,namesilo,,,
-5579c823-9c2a-4e11-a5a7-2c85e9e72ec2,concentrated.gifts,available,9.99,,medium,low,12,name.com,,,
-255b2e2f-9cc6-42e4-a6b3-f0d9f886669e,tall.gifts,available,9.99,,high,low,4,name.com,,,
-244f23e7-8c94-42b4-bb8e-edbe72e7ff7b,trainup.gifts,available,9.99,,low,low,8,name.com,,,
-f277bc31-b508-4e79-8fb7-d827cb8eaa8a,acceptive.gifts,available,14.99,46.99,low,low,9,name.com,,,
+5579c823-9c2a-4e11-a5a7-2c85e9e72ec2,concentrated.gifts,available,9.99,,high,low,12,name.com,,,
+f277bc31-b508-4e79-8fb7-d827cb8eaa8a,acceptive.gifts,available,14.99,46.99,medium,low,9,name.com,,,
 892fa46e-1cb6-463d-a734-21b6a69b57f8,jewellery.gifts,premium,242,242,high,low,9,namesilo,,,
-2b5b0e9d-062a-4285-a0bd-7b1c5c4feceb,redvelvet.gifts,available,9.99,,medium,low,10,name.com,,,
-72ac97e7-1748-4e29-b2ef-38abdb8a146b,ing.gifts,premium,38.94,38.94,medium,low,3,namesilo,,,
-355be613-f617-41aa-b7e7-04d198e1935a,decumbent.gifts,available,14.99,46.99,low,low,9,name.com,,,
+72ac97e7-1748-4e29-b2ef-38abdb8a146b,ing.gifts,premium,38.94,38.94,high,low,3,namesilo,,,
 2a2ebf1a-c8e3-4eb5-9470-fcce7e36543c,zone.gifts,premium,78.54,78.54,high,low,4,namesilo,,,
 e575c6fc-cc6c-429e-b999-b83de5769447,dispose.gifts,available,9.99,,high,low,7,name.com,,,
-edcec157-6b53-4637-868d-4f43fd4d5e13,romanfoot.gifts,available,9.99,,low,low,10,name.com,,,
-455914af-b09f-4178-ac18-997793dc361e,keepscore.gifts,available,9.99,,high,low,10,name.com,,,
-1a61cde4-0945-43bb-a461-ddc89eb6102d,determined.gifts,available,9.99,46.99,high,low,10,name.com,,,
 8100e875-2096-4124-8ddc-e117040a968f,packing.gifts,available,9.99,,high,low,7,name.com,,,
-3a53a16c-ee32-46b1-8ca6-9a033f1eb025,getoutofmyface.gifts,available,9.99,,medium,low,18,name.com,,,
-00a29e70-b7d6-4dca-a308-2f737368c97a,flightpath.gifts,available,9.99,,medium,low,11,name.com,,,
-bf973795-7757-4185-8518-d15b3920225e,awned.gifts,available,14.99,46.99,low,low,5,name.com,,,08/08/2026 01:16
-a00deada-4eaf-4d39-a748-0160b37a31bb,amoebous.gifts,available,14.99,46.99,low,low,8,name.com,,,
-76e30bd9-8d90-4465-bb2a-1b3fc9f62243,seventh.gifts,available,14.99,46.99,low,low,7,name.com,,,
-9e5180d9-d7e7-4646-8f03-3fab3007bc82,nationalconvention.gifts,available,9.99,,medium,low,19,name.com,,,
-e39729dc-2a0d-48fb-bb1f-c3355aa60eff,silvery.gifts,available,14.99,46.99,low,low,7,name.com,,,06/08/2026 17:56
-59ef8351-6ac4-4ee9-beac-51e65a86a89b,deserted.gifts,available,14.99,46.99,low,low,8,name.com,,,
+76e30bd9-8d90-4465-bb2a-1b3fc9f62243,seventh.gifts,available,14.99,46.99,high,low,7,name.com,,,
+e39729dc-2a0d-48fb-bb1f-c3355aa60eff,silvery.gifts,available,14.99,46.99,high,low,7,name.com,,,06/08/2026 17:56
+59ef8351-6ac4-4ee9-beac-51e65a86a89b,deserted.gifts,available,14.99,46.99,high,low,8,name.com,,,
 160c623b-676a-4ac6-b839-953c90eeeeae,freedom.gifts,available,9.99,,high,medium,7,name.com,,,
-007f0f8f-254d-43d4-ba6b-3cc70be22227,lookupanddown.gifts,available,9.99,,medium,low,16,name.com,,,
-3e4f49a2-975e-47ab-8881-a56879f23115,old.gifts,premium,250,,high,low,3,name.com,,,
-9fb175b2-c537-4886-abc5-7ee783e17b4a,aciduric.gifts,available,14.99,46.99,low,low,8,name.com,,,
-893bb009-8a5b-4e33-b766-50834007ec54,engagementring.gifts,available,9.99,,high,low,15,name.com,,,
 f9bb25f2-527c-4a19-8fed-9084d9beed89,often.gifts,available,9.99,,high,low,5,name.com,,,
-5a4b7b94-40d3-4385-979e-af670e20aa7a,parkingspot.gifts,available,9.99,,high,low,12,name.com,,,
-749fd4af-1920-4fa5-8ccb-983b6269fc59,actiondoll.gifts,available,9.99,,high,low,11,name.com,,,
-2ac9e512-deec-4c15-8943-88942dc9bb48,accountability.gifts,available,9.99,,medium,low,14,name.com,,,
-c8f3036f-74f8-4017-8877-4e6085d6bab0,clipthewingsof.gifts,available,9.99,,high,low,17,name.com,,,
-aa4641a7-79a8-4d33-9d84-df0de6e8e110,aligned.gifts,available,,,medium,low,7,,,,
+2ac9e512-deec-4c15-8943-88942dc9bb48,accountability.gifts,available,9.99,,high,low,14,name.com,,,
+aa4641a7-79a8-4d33-9d84-df0de6e8e110,aligned.gifts,available,,,high,low,7,,,,
 433caceb-4f1e-4192-8972-330ac818c8c4,bets.gifts,resell,,,high,low,4,Dynadot Inc,06/04/2026 11:38,06/04/2027 11:38,
 5f2dfc83-dcde-4719-93b5-182fed4eccb5,cabbage.gifts,available,9.99,,high,low,7,name.com,,,
-9006ebcb-54c8-4d30-8d46-90e5fbc1ba88,atthat.gifts,available,9.99,,high,low,7,name.com,,,
-4e01c836-6296-468b-ad67-f46fcc3388a6,parched.gifts,available,14.99,46.99,low,low,7,name.com,,,
-cb9b7f2a-2af7-4fee-848c-8a525360a959,cxlv.gifts,available,14.99,46.99,low,low,4,name.com,,,
-c4a00ba6-27fc-4ec1-a418-aa1f34cc9edb,motherfuckah.gifts,available,9.99,,medium,low,12,name.com,,,
-a1fcb1fc-a9d6-48a8-9870-4b2327295c69,shifting.gifts,available,9.99,,medium,low,8,name.com,,,
+4e01c836-6296-468b-ad67-f46fcc3388a6,parched.gifts,available,14.99,46.99,medium,low,7,name.com,,,
+cb9b7f2a-2af7-4fee-848c-8a525360a959,cxlv.gifts,available,14.99,46.99,high,low,4,name.com,,,
+a1fcb1fc-a9d6-48a8-9870-4b2327295c69,shifting.gifts,available,9.99,,high,low,8,name.com,,,
 a27c755c-2586-4f18-852b-06147b218768,assume.gifts,available,9.99,,high,low,6,name.com,,,
-6c7e756f-3b1c-4531-bc8b-66197eb1d14d,costofmoney.gifts,available,9.99,,medium,low,13,name.com,,,
-a815eb56-32eb-4279-ad21-82a7065cfaa8,agleam.gifts,available,14.99,46.99,low,low,6,name.com,,,
+a815eb56-32eb-4279-ad21-82a7065cfaa8,agleam.gifts,available,14.99,46.99,medium,low,6,name.com,,,
 96db48af-8c02-46c6-a84e-952226ecfd07,automobile.gifts,premium,38.94,38.94,high,low,10,namesilo,,,
-517f064b-21db-4c48-8208-89dd5c0d7298,primer.gifts,available,9.99,,medium,low,6,name.com,,,
-fb24803f-48f8-4eec-b401-b1a31d49290f,mousearound.gifts,available,9.99,,low,low,12,name.com,,,
+517f064b-21db-4c48-8208-89dd5c0d7298,primer.gifts,available,9.99,,high,low,6,name.com,,,
 14cf9514-8c10-41a8-8817-fb0214b143f0,sea.gifts,premium,242,242,high,low,3,namesilo,,,
 b3b6023c-a12a-4331-b55a-ba257d8f8cb4,eaten.gifts,available,9.99,,high,low,5,name.com,,,
-ca3b8f46-5049-4021-abc8-5c8adc73e798,childbenefit.gifts,available,9.99,,medium,low,13,name.com,,,
 24c21cd6-07c8-4f4e-9c6d-ad3292aec9d6,are.gifts,premium,78.54,78.54,high,low,3,namesilo,,,
 bac85e9f-c59d-4431-9921-934a099ae8cc,dickens.gifts,available,9.99,,high,low,7,name.com,,,
 508dd4d5-88c0-483f-a5a7-23dc9ad3baf1,swap.gifts,premium,500,,high,low,4,name.com,,,
-1fba571d-2aa8-426b-80d1-01ffc6da27e6,analeptic.gifts,available,14.99,46.99,low,low,9,name.com,,,
-f72077cb-640d-4ef1-a121-d1d98b3cf50a,perch.gifts,available,14.99,46.99,low,low,5,name.com,,,
-5708beda-0b45-4b4c-bd56-717145ba4dac,howdoyedo.gifts,available,9.99,,medium,low,12,name.com,,,
-83edd4d9-2373-46f8-84d4-f7137d1a7c57,historical.gifts,premium,82.5,82.5,high,low,10,name.com,,,
-cb21aa1b-014b-4c1b-a8e0-67809f8a4729,apneic.gifts,available,14.99,46.99,low,low,6,name.com,,,06/08/2026 00:40
+f72077cb-640d-4ef1-a121-d1d98b3cf50a,perch.gifts,available,14.99,46.99,high,low,5,name.com,,,
+cb21aa1b-014b-4c1b-a8e0-67809f8a4729,apneic.gifts,available,14.99,46.99,medium,low,6,name.com,,,06/08/2026 00:40
 801dec77-7fa2-491c-b909-80105a36d59e,overtime.gifts,available,9.99,,high,low,8,name.com,,,
-9a1fb423-1e92-4e89-b0be-7c55162c981c,madeup.gifts,available,9.99,,high,low,7,name.com,,,
-8e39578d-a793-4776-9a70-76f747f05c71,enraged.gifts,available,14.99,46.99,low,low,7,name.com,,,
-2514afa6-2b54-4698-b9a2-214ef6010da4,bum.gifts,premium,78.54,78.54,low,low,3,namesilo,,,09/08/2026 10:49
+8e39578d-a793-4776-9a70-76f747f05c71,enraged.gifts,available,14.99,46.99,medium,low,7,name.com,,,
+2514afa6-2b54-4698-b9a2-214ef6010da4,bum.gifts,premium,78.54,78.54,high,low,3,namesilo,,,09/08/2026 10:49
 00d38f04-0757-4e53-ab93-35ab78f622db,aside.gifts,available,9.99,,high,low,5,name.com,,,
 399b8a45-f24e-48b2-8a9d-87bb181ce4c7,gently.gifts,available,9.99,,high,low,6,name.com,,,
-71699d72-39f2-40a1-bfab-6e34264ffc5a,frenchpancake.gifts,available,9.99,,high,low,14,name.com,,,
-b5cc69fc-36ec-4d07-a0b7-8d80948f23fa,foursome.gifts,available,14.99,46.99,low,low,8,name.com,,,
-c7a8afea-1857-4435-a2d5-68f2251abf01,quartet.gifts,available,14.99,46.99,low,low,7,name.com,,,
-bb0ca901-5920-404f-b816-69f8c36de107,shock.gifts,available,9.99,,medium,low,5,name.com,,,
-036718b8-dc66-4f21-a2a2-d2dabb177313,angry.gifts,available,14.99,46.99,low,low,5,name.com,,,
-376eaf0c-b141-4bf3-8a5c-b531842ba949,eye.gifts,premium,38.94,38.94,low,low,3,namesilo,,,23/09/2026 13:32
+b5cc69fc-36ec-4d07-a0b7-8d80948f23fa,foursome.gifts,available,14.99,46.99,high,low,8,name.com,,,
+c7a8afea-1857-4435-a2d5-68f2251abf01,quartet.gifts,available,14.99,46.99,high,low,7,name.com,,,
+bb0ca901-5920-404f-b816-69f8c36de107,shock.gifts,available,9.99,,high,low,5,name.com,,,
+036718b8-dc66-4f21-a2a2-d2dabb177313,angry.gifts,available,14.99,46.99,high,low,5,name.com,,,
 b2366f4a-242e-466e-9e6b-5f37aabbb9e3,seem.gifts,available,9.99,,high,low,4,name.com,,,
 010a53d3-7657-4fba-a4e0-ddb92bc96ad2,much.gifts,available,9.99,,high,low,4,name.com,,,
-54e4e6cb-4c03-465b-b155-4196fae616cd,lan.gifts,premium,38.94,38.94,medium,low,3,namesilo,,,
-ea1c184f-a6e0-47be-848e-91e38ed49271,lookinto.gifts,available,9.99,,high,low,9,name.com,,,
+54e4e6cb-4c03-465b-b155-4196fae616cd,lan.gifts,premium,38.94,38.94,high,low,3,namesilo,,,
 4dc16bd4-22b1-4066-9b4e-0f2963595c9e,club.gifts,premium,78.54,78.54,high,low,4,namesilo,,,
-ebefca4d-a408-4c2d-ae8f-5bf84bfb5215,munich.gifts,premium,82.5,,medium,low,6,name.com,,,
-fa2fc707-94da-4350-8bf9-3f91b14aec32,makegoodon.gifts,available,9.99,,high,low,12,name.com,,,
-b07022c6-e7d5-4f35-a8e5-cad6db99e256,apiarian.gifts,available,14.99,46.99,low,low,8,name.com,,,05/08/2026 23:53
-184f1416-ac01-42a3-b713-3a517bb65e4f,fullofbeans.gifts,available,9.99,,medium,low,13,name.com,,,
+ebefca4d-a408-4c2d-ae8f-5bf84bfb5215,munich.gifts,premium,82.5,,high,low,6,name.com,,,
+b07022c6-e7d5-4f35-a8e5-cad6db99e256,apiarian.gifts,available,14.99,46.99,medium,low,8,name.com,,,05/08/2026 23:53
 9b375641-1b61-4e5a-ab2b-a1124d16b727,doubt.gifts,available,9.99,,high,low,5,name.com,,,
-50576580-2888-40ca-b972-59815f57d43b,nosecount.gifts,available,9.99,,low,low,10,name.com,,,
-e5d6ecc1-ab23-41bd-aed7-07aea9052a97,alexic.gifts,available,14.99,46.99,low,low,6,name.com,,,
-b3d3980f-50cb-433a-912d-165ac7ef2cee,tackabout.gifts,available,9.99,,low,low,10,name.com,,,
-18da75f4-c34b-469b-be19-8b27199e164c,atheart.gifts,available,9.99,,medium,low,8,name.com,,,
-cc0b78f7-34c6-42a4-ace7-0ee0b9a91a9c,standby.gifts,available,36.99,36.99,low,low,8,namesilo,,,10/09/2026 18:37
-739fbffb-197e-4928-9906-773c4e9902ce,anile.gifts,available,14.99,46.99,low,low,5,name.com,,,
-7c17218b-af20-44fb-8a4d-374d05f3f5e1,stairs.gifts,available,9.99,,medium,low,6,name.com,,,
+cc0b78f7-34c6-42a4-ace7-0ee0b9a91a9c,standby.gifts,available,36.99,36.99,high,low,8,namesilo,,,10/09/2026 18:37
+739fbffb-197e-4928-9906-773c4e9902ce,anile.gifts,available,14.99,46.99,medium,low,5,name.com,,,
+7c17218b-af20-44fb-8a4d-374d05f3f5e1,stairs.gifts,available,9.99,,high,low,6,name.com,,,
 34b61e3c-42a8-4c11-a960-7699e878d901,ought.gifts,available,9.99,,high,low,5,name.com,,,
-7ea5aa69-045b-4e83-aa42-1eb7e95c9c67,amniotic.gifts,available,14.99,46.99,low,low,8,name.com,,,
-bf2a625b-464e-48f6-8da8-92d50bc0fab3,inthefastlane.gifts,available,9.99,,medium,low,16,name.com,,,
-2ace4de4-a1e7-47e2-8673-b5e36b9fec7c,policies.gifts,available,36.99,36.99,low,low,8,namesilo,,,04/09/2026 07:55
-5b2330b8-f703-45f7-8a34-af493eddb00d,toe.gifts,premium,82.5,,medium,low,3,name.com,,,
-094b953a-43de-44c2-b997-d980dde20a86,superbly.gifts,available,9.99,,medium,low,8,name.com,,,
-b7b10780-58b9-44fc-9fae-51e3b28b974b,clicking.gifts,available,9.99,,medium,low,8,name.com,,,
+7ea5aa69-045b-4e83-aa42-1eb7e95c9c67,amniotic.gifts,available,14.99,46.99,medium,low,8,name.com,,,
+2ace4de4-a1e7-47e2-8673-b5e36b9fec7c,policies.gifts,available,36.99,36.99,medium,low,8,namesilo,,,04/09/2026 07:55
+5b2330b8-f703-45f7-8a34-af493eddb00d,toe.gifts,premium,82.5,,high,low,3,name.com,,,
+094b953a-43de-44c2-b997-d980dde20a86,superbly.gifts,available,9.99,,high,low,8,name.com,,,
+b7b10780-58b9-44fc-9fae-51e3b28b974b,clicking.gifts,available,9.99,,high,low,8,name.com,,,
 21fbdff0-7d28-4957-97b4-4a8e356af4c2,attempt.gifts,available,9.99,,high,low,7,name.com,,,
-37298030-3d9d-468f-903e-1e4c862011c6,off.gifts,premium,85.8,85.8,medium,low,3,namecheap,,,22/09/2026 14:54
-1c8263b3-797a-4d9b-8bfb-5219f5de67a3,tonguesushi.gifts,available,9.99,,low,low,12,name.com,,,
-fdf52c7f-7b32-4352-a685-38d94788fbef,fascinated.gifts,available,9.99,,high,low,10,name.com,,,
-013211a5-1f93-497f-ae30-20543f296cbd,stigmatic.gifts,available,14.99,46.99,low,low,9,name.com,,,
-c101c72a-8c88-43b5-b084-39cdeb81c6d1,baccate.gifts,available,14.99,46.99,low,low,7,name.com,,,08/08/2026 04:03
-4a921674-6da8-4f8c-b2fc-c5d9480e3a29,twentysix.gifts,available,36.99,36.99,medium,low,10,namesilo,,,21/09/2026 12:53
-5eee27cf-9223-4cf8-9be7-22b58e99c151,foreign.gifts,available,14.99,46.99,low,low,7,name.com,,,
-e83f6ec1-0ba9-4253-a969-93dd8c95fe61,magnifyingglass.gifts,available,9.99,,high,low,16,name.com,,,
-e1b1e542-43d6-4bef-a896-7d5701158759,datatable.gifts,available,9.99,,high,low,10,name.com,,,
-1b88c4d7-01ce-4b92-948b-114557f39e3b,beautifully.gifts,available,9.99,,medium,low,11,name.com,,,
-e5f1e3e9-c17d-4761-b505-653e8132cd7d,iseeyou.gifts,available,9.99,,medium,low,9,name.com,,,
+5eee27cf-9223-4cf8-9be7-22b58e99c151,foreign.gifts,available,14.99,46.99,high,low,7,name.com,,,
+1b88c4d7-01ce-4b92-948b-114557f39e3b,beautifully.gifts,available,9.99,,high,low,11,name.com,,,
 291a1340-eb72-4f53-879d-c653a7aa8eb3,friend.gifts,premium,242,242,high,low,6,namesilo,,,
-1a3486da-10b9-402a-b840-c78d2c8459c0,absolutely.gifts,available,9.99,,medium,low,10,name.com,,,
-087dcab6-ab29-4851-baa0-4b97537150d9,battleful.gifts,available,14.99,46.99,low,low,9,name.com,,,09/08/2026 01:39
+1a3486da-10b9-402a-b840-c78d2c8459c0,absolutely.gifts,available,9.99,,high,low,10,name.com,,,
 631da7a4-4fd5-468f-a608-bde52c260967,roots.gifts,available,9.99,,high,low,5,name.com,,,
 847ecbbb-84f0-4ba8-907b-e87132faafef,vegetarian.gifts,premium,78.54,78.54,high,low,10,namesilo,,,
 1ff06802-ab6d-438b-912b-8749336c1d77,year.gifts,available,9.99,,high,low,4,name.com,,,
-cd4cfdb4-2fe3-47a7-bf41-d2a2a937f39d,releaseversion.gifts,available,9.99,,high,low,15,name.com,,,
-5c63a5bc-4d35-4e3c-bcfb-86cbe89aae2d,hindend.gifts,available,14.99,46.99,low,low,8,name.com,,,09/08/2026 11:03
 34c518e9-0a68-4e60-a6c6-551eb9381fbe,nearer.gifts,available,9.99,,medium,low,6,name.com,,,
-536f073a-c0d2-4fc0-ba0c-37fb42451599,clumsy.gifts,available,36.99,36.99,low,low,6,namesilo,,,23/09/2026 11:20
-5d508058-156b-4707-969b-42d63d6c9b5e,atoxic.gifts,available,14.99,46.99,low,low,6,name.com,,,07/08/2026 14:04
 c9df3a38-d0d7-4d91-8239-732151003a95,speculate.gifts,available,9.99,,high,low,9,name.com,,,
-2a9716cc-b2ad-418e-8998-003c0117979e,main.gifts,premium,242,242,medium,low,4,namesilo,,,23/09/2026 09:34
 577f8bac-c2b3-4f7f-836a-faffd88529be,anguine.gifts,available,14.99,46.99,low,low,7,name.com,,,
-83b48cd2-185d-498b-bcee-5e290554476c,crossroads.gifts,available,9.99,,medium,low,10,name.com,,,
+83b48cd2-185d-498b-bcee-5e290554476c,crossroads.gifts,available,9.99,,high,low,10,name.com,,,
 5a4d0b31-f51e-4185-91af-783e3606ae14,point.gifts,available,9.99,,high,low,5,name.com,,,
-6d118e73-dd51-40d7-bddf-391e64d9ac61,xxvii.gifts,available,14.99,46.99,low,low,5,name.com,,,
-c6c9331c-82e3-4902-9f8b-c918a03ad462,autonomic.gifts,available,14.99,46.99,low,low,9,name.com,,,07/08/2026 20:52
-d36eb3ab-dfc9-4ece-9ea9-e25f5a1013be,unhappy.gifts,available,9.99,46.99,high,low,7,name.com,,,
-d3c9dc98-999f-413c-8718-c4a86086a564,wellworn.gifts,available,14.99,46.99,low,low,9,name.com,,,08/08/2026 11:24
-3feaf1c4-eb12-4130-867e-395745cb4b76,rotation.gifts,available,9.99,,medium,low,8,name.com,,,
-edaca544-ae30-4e2e-b306-b85cdaaa9737,natural.gifts,resell,,,medium,low,7,Dynadot Inc,04/12/2017 10:59,04/12/2026 10:59,08/09/2026 12:12
-a0945ab5-b010-430f-9e0a-171932c91358,texas.gifts,premium,78.54,78.54,medium,medium,5,namesilo,,,
-a55e1f31-32d3-4fc2-b2bc-8135ca49368d,childofthekitchen.gifts,available,9.99,,medium,low,20,name.com,,,
-c30abbf9-53f0-4ec2-b76b-075a42b6403e,banging.gifts,available,14.99,46.99,low,low,7,name.com,,,08/08/2026 13:03
+6d118e73-dd51-40d7-bddf-391e64d9ac61,xxvii.gifts,available,14.99,46.99,medium,low,5,name.com,,,
+c6c9331c-82e3-4902-9f8b-c918a03ad462,autonomic.gifts,available,14.99,46.99,high,low,9,name.com,,,07/08/2026 20:52
+3feaf1c4-eb12-4130-867e-395745cb4b76,rotation.gifts,available,9.99,,high,low,8,name.com,,,
+edaca544-ae30-4e2e-b306-b85cdaaa9737,natural.gifts,resell,,,high,low,7,Dynadot Inc,04/12/2017 10:59,04/12/2026 10:59,08/09/2026 12:12
+a0945ab5-b010-430f-9e0a-171932c91358,texas.gifts,premium,78.54,78.54,high,medium,5,namesilo,,,
+c30abbf9-53f0-4ec2-b76b-075a42b6403e,banging.gifts,available,14.99,46.99,high,low,7,name.com,,,08/08/2026 13:03
 dd0f6011-673f-4726-8012-5c258e54950f,alabama.gifts,available,9.99,,high,low,7,name.com,,,
 e8bba3a2-341b-49c0-b2e6-61ec07f62dd8,huge.gifts,premium,78.54,78.54,high,low,4,namesilo,,,
-cd288d2e-8f80-4dbc-a9f0-4fca71745896,anonymous.gifts,premium,38.94,38.94,low,low,9,namesilo,,,22/09/2026 05:30
-5edd882b-cf58-4bb9-b0a8-1d8fcdc5e7a6,lordly.gifts,available,14.99,46.99,low,low,6,name.com,,,07/08/2026 17:05
-2a92a671-c80a-4195-aec6-dd45007c14f3,intersection.gifts,available,9.99,,medium,low,12,name.com,,,
-f9ba30c8-455c-46c8-a328-8ca9b6e7ca93,contingent.gifts,available,38.48,47.48,low,low,10,namecheap,,,23/09/2026 22:07
-82af41fa-310e-468b-a6e2-3373d9e06279,conceal.gifts,available,9.99,,medium,low,7,name.com,,,
-ab063270-df5f-4dc8-9013-432e77b971ed,acherontic.gifts,available,14.99,46.99,low,low,10,name.com,,,
-28a1ac90-36c8-44b9-86d0-59ff17fb0063,swallow.gifts,available,9.99,,medium,low,7,name.com,,,
-4a06c28d-1b77-4c48-8561-6ad03625a89d,transfer.gifts,premium,78.54,78.54,medium,low,8,namesilo,,,19/09/2026 03:42
-92d44da8-5527-421f-89a3-a635f9041037,spoof.gifts,available,36.99,36.99,medium,low,5,namesilo,,,23/09/2026 11:26
+5edd882b-cf58-4bb9-b0a8-1d8fcdc5e7a6,lordly.gifts,available,14.99,46.99,high,low,6,name.com,,,07/08/2026 17:05
+2a92a671-c80a-4195-aec6-dd45007c14f3,intersection.gifts,available,9.99,,high,low,12,name.com,,,
+82af41fa-310e-468b-a6e2-3373d9e06279,conceal.gifts,available,9.99,,high,low,7,name.com,,,
+ab063270-df5f-4dc8-9013-432e77b971ed,acherontic.gifts,available,14.99,46.99,medium,low,10,name.com,,,
+28a1ac90-36c8-44b9-86d0-59ff17fb0063,swallow.gifts,available,9.99,,high,low,7,name.com,,,
 6ed68907-b8b8-4da3-8ec1-6603408ef3bd,rookie.gifts,available,9.99,,high,low,6,name.com,,,
-81f2c30f-8286-4ad9-8db8-7e0549a5a08b,riseabove.gifts,available,9.99,,medium,low,10,name.com,,,
-2406306d-8c0c-4765-a912-b6a94df9e77b,antitrust.gifts,available,14.99,46.99,low,low,9,name.com,,,
-31f652bd-71c8-455b-a897-b861a9aa207d,eachandevery.gifts,available,9.99,,medium,low,14,name.com,,,
-ad965fae-50af-459a-b23c-5f03086229d6,charactertrait.gifts,available,9.99,,high,low,15,name.com,,,
+2406306d-8c0c-4765-a912-b6a94df9e77b,antitrust.gifts,available,14.99,46.99,high,low,9,name.com,,,
 66afcec4-8399-4701-bc01-540934e43bf3,switch.gifts,available,,,high,low,6,,,,
 4c5fd6d9-9612-45d1-b8d9-7203456ff815,singapore.gifts,available,,,high,low,9,,,,
-146db723-a275-4cb9-971b-0a38d12dbacd,gotothetoilet.gifts,available,9.99,,medium,low,16,name.com,,,
-a30ac61f-6e31-4c73-a7a0-3db1a7bdba47,blessing.gifts,available,14.99,46.99,medium,low,8,name.com,,,06/08/2026 09:29
-23b54088-d816-46eb-a218-eac3f6536c93,likewise.gifts,available,36.99,36.99,low,low,8,namesilo,,,22/09/2026 00:06
-b3100d9b-2976-4f5f-92cb-f7d2332f73bc,pieceofpaper.gifts,available,9.99,,low,low,14,name.com,,,
-487fdef4-5d5f-4afa-bb8a-154dd344e911,acquitted.gifts,available,14.99,46.99,low,low,9,name.com,,,
-9dad4366-8b11-4635-8851-1328880dd12a,beaked.gifts,available,14.99,46.99,low,low,6,name.com,,,09/08/2026 03:50
-d63f47fb-1b46-45e1-a030-c5f32392a26d,beefedup.gifts,available,14.99,46.99,low,low,9,name.com,,,09/08/2026 07:44
-1ac089c1-bfda-45e3-b24d-6b220b50161e,payfor.gifts,available,9.99,,high,low,7,name.com,,,
-a8b25686-8c6d-4e12-9148-350a03032142,improvise.gifts,available,38.48,47.48,medium,low,9,namecheap,,,21/09/2026 16:45
-03e3d38d-01f1-4a70-ac6a-12089e06a959,spry.gifts,available,14.99,46.99,low,low,4,name.com,,,
-f7a8c63e-f909-4779-96b7-ae6006578d21,choice.gifts,premium,42.9,42.9,medium,low,6,namecheap,,,22/09/2026 02:45
-87fc4d9c-4873-47da-8526-24faae6c08f4,childofcolour.gifts,available,9.99,,medium,low,15,name.com,,,
-9ce94947-99ea-43ec-bb2b-9beb9e6d1239,urgent.gifts,available,9.99,,medium,low,6,name.com,,,
-1eeaaca2-8d24-443f-9758-0024156b0ea9,banal.gifts,available,38.48,47.48,low,low,5,namecheap,,,22/09/2026 16:37
-8e54cd41-3dc2-4260-89ba-8b28184259ce,protection.gifts,premium,78.54,78.54,medium,low,10,namesilo,,,19/09/2026 09:47
-5ec26f31-abab-4be5-9d23-84ddfa33182c,earliest.gifts,available,9.99,46.99,medium,low,8,name.com,,,
-76a7ef4d-5595-401d-a20f-59dbfcf63b76,antidotal.gifts,available,14.99,46.99,low,low,9,name.com,,,
-3cc322a1-b9f6-4f0c-96ba-e3400c9ae8c6,ankylotic.gifts,available,14.99,46.99,low,low,9,name.com,,,
-8bfa02bd-f560-4ef2-a833-c7483784e8e7,foolish.gifts,available,9.99,46.99,medium,low,7,name.com,,,
-5f615477-9d22-492b-9c38-9df3b5ef1152,closerange.gifts,available,9.99,,medium,low,11,name.com,,,
-ef91cd9d-aa04-4698-9064-1fdaab0c65e4,quatern.gifts,available,14.99,46.99,low,low,7,name.com,,,
-c2c82365-12a4-400a-80d7-2a7a7f4cdf50,perforation.gifts,available,9.99,,low,low,11,name.com,,,
-6dfa4061-9dea-4840-a097-572deb0d5d3f,committee.gifts,available,9.99,,medium,low,9,name.com,,,
-022a2912-42df-47c4-b833-948be3556b7b,naturewriting.gifts,available,9.99,,low,low,14,name.com,,,
-89a24e28-a22d-4f33-a6af-726ac9b68c5e,oldtimer.gifts,available,36.99,36.99,medium,low,9,namesilo,,,08/09/2026 04:46
-2f53f8f0-1ddb-41ee-ba76-4ab1d9c26739,reasonable.gifts,available,9.99,,high,low,10,name.com,,,
-f5bdac34-4ec3-465a-93a2-fdccd752b225,blob.gifts,available,9.99,,medium,low,4,name.com,,,
-62b87396-0fda-4c85-9127-7f06f2bbac53,expert.gifts,premium,242,242,medium,low,6,namesilo,,,23/09/2026 15:34
-2008fb08-2564-4276-9114-172396cc8612,alienating.gifts,available,14.99,46.99,low,low,10,name.com,,,
-4d18a917-c32b-4a5c-8af9-2b6d77e29396,likehell.gifts,available,36.99,36.99,low,low,9,namesilo,,,15/09/2026 11:35
+a30ac61f-6e31-4c73-a7a0-3db1a7bdba47,blessing.gifts,available,14.99,46.99,high,low,8,name.com,,,06/08/2026 09:29
+487fdef4-5d5f-4afa-bb8a-154dd344e911,acquitted.gifts,available,14.99,46.99,high,low,9,name.com,,,
+9dad4366-8b11-4635-8851-1328880dd12a,beaked.gifts,available,14.99,46.99,medium,low,6,name.com,,,09/08/2026 03:50
+03e3d38d-01f1-4a70-ac6a-12089e06a959,spry.gifts,available,14.99,46.99,high,low,4,name.com,,,
+9ce94947-99ea-43ec-bb2b-9beb9e6d1239,urgent.gifts,available,9.99,,high,low,6,name.com,,,
+76a7ef4d-5595-401d-a20f-59dbfcf63b76,antidotal.gifts,available,14.99,46.99,medium,low,9,name.com,,,
+ef91cd9d-aa04-4698-9064-1fdaab0c65e4,quatern.gifts,available,14.99,46.99,medium,low,7,name.com,,,
+c2c82365-12a4-400a-80d7-2a7a7f4cdf50,perforation.gifts,available,9.99,,high,low,11,name.com,,,
+6dfa4061-9dea-4840-a097-572deb0d5d3f,committee.gifts,available,9.99,,high,low,9,name.com,,,
+f5bdac34-4ec3-465a-93a2-fdccd752b225,blob.gifts,available,9.99,,high,low,4,name.com,,,
+2008fb08-2564-4276-9114-172396cc8612,alienating.gifts,available,14.99,46.99,medium,low,10,name.com,,,
 8af79018-245a-4baa-9e3d-4d39adac5a9e,hardworking.gifts,available,9.99,,high,low,11,name.com,,,
-b49355b2-d282-4a99-8157-8d53f5934c02,violation.gifts,available,9.99,,medium,low,9,name.com,,,
-c8bbc944-0581-4f34-86a7-29026c5b5e15,discrepant.gifts,available,14.99,46.99,low,low,10,name.com,,,07/08/2026 12:21
-e66d1118-c98b-4ef8-8254-c56d154d0a53,deserter.gifts,available,14.99,46.99,low,low,8,name.com,,,06/08/2026 03:40
-771051ed-75c4-45d1-822f-ec72f85532f0,ally.gifts,available,,,medium,low,4,,,,
-8274aa5b-c886-4704-b793-38787e23cc77,accept.gifts,available,9.99,,medium,low,6,name.com,,,
-248073af-bc34-41b0-b47d-702839b3c207,board.gifts,available,9.99,,medium,low,5,name.com,,,
-bd0e1d70-f7ad-4d9e-ab34-e799df688154,beauteous.gifts,available,14.99,46.99,low,low,9,name.com,,,09/08/2026 05:58
-5fd73c5b-5f33-489f-97fe-e2def9cd251f,out.gifts,premium,242,242,medium,low,3,namesilo,,,23/09/2026 05:30
-4dea5e3c-41d9-4171-aa5f-a004bc3a5c56,clipthechurch.gifts,available,9.99,,high,low,15,name.com,,,
-e281dd32-6c2d-421d-b6da-79164cfd8466,bringing.gifts,available,9.99,,medium,low,8,name.com,,,
+b49355b2-d282-4a99-8157-8d53f5934c02,violation.gifts,available,9.99,,high,low,9,name.com,,,
+e66d1118-c98b-4ef8-8254-c56d154d0a53,deserter.gifts,available,14.99,46.99,medium,low,8,name.com,,,06/08/2026 03:40
+771051ed-75c4-45d1-822f-ec72f85532f0,ally.gifts,available,,,high,low,4,,,,
+8274aa5b-c886-4704-b793-38787e23cc77,accept.gifts,available,9.99,,high,low,6,name.com,,,
+248073af-bc34-41b0-b47d-702839b3c207,board.gifts,available,9.99,,high,low,5,name.com,,,
+bd0e1d70-f7ad-4d9e-ab34-e799df688154,beauteous.gifts,available,14.99,46.99,high,low,9,name.com,,,09/08/2026 05:58
+e281dd32-6c2d-421d-b6da-79164cfd8466,bringing.gifts,available,9.99,,high,low,8,name.com,,,
 e015f9a4-4126-48ee-8ceb-72eb942f217d,daddy.gifts,premium,242,242,high,low,5,namesilo,,,
-1f347eec-e238-4f7c-bb4b-9319f666574b,nimble.gifts,available,38.48,47.48,medium,low,6,namecheap,,,21/09/2026 23:05
 390f372c-fef9-4620-9865-b8399325ab69,mon.gifts,premium,82.5,,high,low,3,name.com,,,
-c568e9fa-ee46-47ff-82f5-c91555d5a682,amoebic.gifts,available,14.99,46.99,low,low,7,name.com,,,
-ea266776-7f62-4c1b-b4fd-289c8f95011f,bloodclot.gifts,available,9.99,,medium,low,10,name.com,,,
-4c0531b0-b8a5-4604-939d-8313996c715a,musicgame.gifts,available,9.99,,high,low,10,name.com,,,
-38114b94-c970-4f7f-916a-1cacdec79fce,californiakilowatt.gifts,available,9.99,,high,low,19,name.com,,,
-352532f1-ada2-44ab-8339-606aef16b5c1,amino.gifts,available,14.99,46.99,low,low,5,name.com,,,
-55af74a4-8e9e-4b1a-be9d-777881a5a9de,angulate.gifts,available,14.99,46.99,low,low,8,name.com,,,
-f57fb502-5768-4dae-ba55-eeb9ba6d6bf9,damned.gifts,available,36.99,36.99,low,low,6,namesilo,,,22/09/2026 21:41
-4e46269f-17d8-4e8d-9ff4-f0f3fd0ac378,rootabout.gifts,available,9.99,,low,low,10,name.com,,,
-295523de-1c3b-417f-8da2-f4b22bb2b1ca,normally.gifts,available,9.99,,medium,low,8,name.com,,,
-8712032d-0159-4023-a4e8-539eebd38577,woods.gifts,available,9.99,,medium,low,5,name.com,,,
+352532f1-ada2-44ab-8339-606aef16b5c1,amino.gifts,available,14.99,46.99,high,low,5,name.com,,,
+55af74a4-8e9e-4b1a-be9d-777881a5a9de,angulate.gifts,available,14.99,46.99,high,low,8,name.com,,,
+295523de-1c3b-417f-8da2-f4b22bb2b1ca,normally.gifts,available,9.99,,high,low,8,name.com,,,
+8712032d-0159-4023-a4e8-539eebd38577,woods.gifts,available,9.99,,high,low,5,name.com,,,
 96525d3a-27f7-412b-a98e-82a33705515d,ohio.gifts,premium,242,242,high,low,4,namesilo,,,
-fdfde0af-2572-4ee0-b3a9-3fba3368c13c,armillary.gifts,available,14.99,46.99,low,low,9,name.com,,,06/08/2026 19:44
+fdfde0af-2572-4ee0-b3a9-3fba3368c13c,armillary.gifts,available,14.99,46.99,medium,low,9,name.com,,,06/08/2026 19:44
 d60900c0-9c2f-4670-8903-63ba229c1ba2,taipei.gifts,available,9.99,,high,low,6,name.com,,,
-1d8b0ded-40cd-4dbc-9672-8bfcf0294f1e,reflexcamera.gifts,available,9.99,,medium,low,13,name.com,,,
-8ffec409-71cf-484a-8c27-72de062535c7,mydearfellow.gifts,available,9.99,,low,low,14,name.com,,,
 bf68943b-293a-455a-9c4f-c272dbcfb463,plus.gifts,premium,78.54,78.54,high,low,4,namesilo,,,
-af34290f-d72c-4a9d-9103-6d1bdc47f48b,competing.gifts,available,9.99,,medium,low,9,name.com,,,
-2f820378-d9c2-4531-b137-eb653488b363,wasnt.gifts,available,9.99,,medium,low,5,name.com,,,
+af34290f-d72c-4a9d-9103-6d1bdc47f48b,competing.gifts,available,9.99,,high,low,9,name.com,,,
+2f820378-d9c2-4531-b137-eb653488b363,wasnt.gifts,available,9.99,,low,low,5,name.com,,,
 0ad59f53-5e87-4f86-8854-b88e018685f0,again.gifts,available,9.99,,high,low,5,name.com,,,
-20f78e12-bb5f-4600-a364-294839058225,whitesox.gifts,available,,,medium,low,9,,,,
 752184b4-0d8d-409b-b89f-fe9461a54e7f,devour.gifts,available,9.99,,high,low,6,name.com,,,
 8ace78af-ccda-424e-9127-b0420834238f,beads.gifts,available,9.99,,high,low,5,name.com,,,
-b735e06a-bfb7-4dab-94b7-93493025e6ae,peak.gifts,available,9.99,,medium,medium,4,name.com,,,
-e26a3851-a189-4327-be44-d02c619be764,gymnastic.gifts,available,14.99,46.99,low,low,9,name.com,,,
-8fa2aaf3-6697-409c-97c1-7e6f8eb07828,exculpated.gifts,available,14.99,46.99,low,low,10,name.com,,,
-d6fe2101-19f9-4d68-a439-226975a222a3,alphabetic.gifts,available,38.48,47.48,low,low,10,namecheap,,,22/09/2026 02:10
+e26a3851-a189-4327-be44-d02c619be764,gymnastic.gifts,available,14.99,46.99,high,low,9,name.com,,,
 56c065b3-4a76-44c1-9f7a-84398da17b8a,irrational.gifts,available,9.99,,high,low,10,name.com,,,
 cdac32f8-e4a1-4890-bd45-2fcb5ab06dd1,anticipate.gifts,available,9.99,,high,low,10,name.com,,,
-04552783-cdc4-4866-ba58-5c0f20b1ecfd,argent.gifts,available,14.99,46.99,low,low,6,name.com,,,06/08/2026 17:51
-06736bf5-f674-4223-9145-9278b9aa3e37,springshower.gifts,available,9.99,,low,low,13,name.com,,,
-0a81779d-98e4-4b61-b215-7cabc31f5143,tipped.gifts,available,14.99,46.99,low,low,6,name.com,,,07/08/2026 13:33
-7517b98a-4156-43b0-9a2f-97244ec7a8c3,bigben.gifts,available,9.99,,high,low,7,name.com,,,
+04552783-cdc4-4866-ba58-5c0f20b1ecfd,argent.gifts,available,14.99,46.99,high,low,6,name.com,,,06/08/2026 17:51
+0a81779d-98e4-4b61-b215-7cabc31f5143,tipped.gifts,available,14.99,46.99,high,low,6,name.com,,,07/08/2026 13:33
 943556b2-6c9c-4d8d-9a74-4c88c885be25,unkeyed.gifts,available,14.99,46.99,low,low,7,name.com,,,07/08/2026 13:50
 ffd4df86-b609-486a-8a3f-877db59aded5,prolific.gifts,available,9.99,,high,low,8,name.com,,,
-12eccd49-2035-4848-b812-5cb62c03a081,hivvirus.gifts,available,9.99,,medium,low,9,name.com,,,
-a0625f69-a042-4779-8311-43381e49804d,reported.gifts,available,9.99,,medium,low,8,name.com,,,
-7a210d96-d393-4d87-bdf1-dfd98fb9e6eb,creatively.gifts,available,9.99,,medium,low,10,name.com,,,
-94a0f780-806d-4e98-9977-cf256e59f794,clustered.gifts,available,14.99,46.99,low,low,9,name.com,,,
+a0625f69-a042-4779-8311-43381e49804d,reported.gifts,available,9.99,,high,low,8,name.com,,,
+7a210d96-d393-4d87-bdf1-dfd98fb9e6eb,creatively.gifts,available,9.99,,high,low,10,name.com,,,
+94a0f780-806d-4e98-9977-cf256e59f794,clustered.gifts,available,14.99,46.99,high,low,9,name.com,,,
 076cfe5c-70ec-44e0-9aed-e17a3dc68fdc,azure.gifts,available,,,high,low,5,,,,
-e99d0cd6-5871-44f7-807e-b8959096328f,complicated.gifts,available,9.99,,medium,low,11,name.com,,,
+e99d0cd6-5871-44f7-807e-b8959096328f,complicated.gifts,available,9.99,,high,low,11,name.com,,,
 c0f2cdbf-8f3c-4f1d-ac66-8241baa836d3,aspirin.gifts,available,,,high,low,7,,,,
-0ae56f84-8fd7-4d28-abcf-d753b6ca1203,armored.gifts,available,36.99,36.99,low,low,7,namesilo,,,22/09/2026 08:00
-69696e31-9d4b-43f8-84db-a485efbfe04c,streaming.gifts,available,38.48,47.48,medium,low,9,namecheap,,,24/09/2026 02:31
-2d729994-4859-470e-9219-cbfc94abb2ba,flying.gifts,available,9.99,,high,low,6,name.com,,,
-9f48879a-7e3f-4af1-96c2-509993735233,todowith.gifts,available,9.99,,medium,low,10,name.com,,,
-a19ca2c3-0f8d-4105-8e27-2ee7c1ad39bb,inform.gifts,available,36.99,36.99,low,low,6,namesilo,,,16/09/2026 07:13
-c50a10c5-1f65-4ac3-89df-668672a9772a,clown.gifts,available,36.99,36.99,medium,low,5,namesilo,,,22/09/2026 06:35
-5a8b4760-74b4-46a9-8ff7-64b958f596d0,broached.gifts,available,14.99,46.99,low,low,8,name.com,,,
-c89720ba-6d3a-4817-854e-a6a03cac6aee,techweek.gifts,available,9.99,,medium,low,9,name.com,,,
-97d6f18f-f043-480e-8a17-c2c0b06393bf,greg.gifts,available,9.99,,medium,low,4,name.com,,,
+5a8b4760-74b4-46a9-8ff7-64b958f596d0,broached.gifts,available,14.99,46.99,medium,low,8,name.com,,,
+97d6f18f-f043-480e-8a17-c2c0b06393bf,greg.gifts,available,9.99,,high,low,4,name.com,,,
 433a8d40-3b4a-490c-a8c7-0f658a0ce290,solicit.gifts,available,9.99,,high,low,7,name.com,,,
-af8a641e-800e-48b4-b134-8866441c6d17,abovenamed.gifts,available,9.99,,low,low,11,name.com,,,
-53886368-13c8-422e-a311-0381d4545608,curse.gifts,available,9.99,46.99,high,low,5,name.com,,,
 eeb47131-aeca-430a-83d0-a3c4ed1a046e,person.gifts,available,9.99,,high,low,6,name.com,,,
 6325dff2-aa81-4af3-b722-3389ea96c456,wording.gifts,available,9.99,,high,low,7,name.com,,,
 14688053-8f23-485e-8130-8dbb327acaec,various.gifts,available,9.99,,high,low,7,name.com,,,
-e03aa939-6902-4621-9af1-a0f8f779ee51,influenced.gifts,available,9.99,,medium,low,10,name.com,,,
-2abc9fa2-d1b8-42ad-b134-257e2217c4d4,baldfaced.gifts,available,14.99,46.99,low,low,10,name.com,,,08/08/2026 09:26
-b4594a92-eaff-426f-840d-7e365d316b8c,givenotice.gifts,available,9.99,,medium,low,11,name.com,,,
-c1f53bf2-6bbb-4230-a34a-e1296b979e2c,compatible.gifts,available,38.48,47.48,medium,low,10,namecheap,,,23/09/2026 16:57
-ef974c1f-42fd-473a-8d91-6b5da1932460,thisisit.gifts,available,9.99,,low,low,10,name.com,,,
-aaa09310-548a-4010-ab31-1c6fd8660c77,thirtytwo.gifts,available,14.99,46.99,low,low,10,name.com,,,
+e03aa939-6902-4621-9af1-a0f8f779ee51,influenced.gifts,available,9.99,,high,low,10,name.com,,,
 e2488cef-7e7c-4054-8ef2-40a412314f41,pig.gifts,premium,78.54,78.54,high,low,3,namesilo,,,
-66b1994e-fbe3-4cee-b077-e4d89331bc2a,giveout.gifts,available,9.99,,medium,low,8,name.com,,,
-5182ce84-2a80-46e6-8300-a70af10cbcec,whiz.gifts,available,38.48,47.48,medium,low,4,namecheap,,,21/09/2026 18:01
-1fc04e12-9f7d-43c7-9d7a-1af123ab5cb3,defined.gifts,available,9.99,46.99,medium,low,7,name.com,,,
 f4dcebff-df57-49bc-845c-c967bb26de39,marked.gifts,available,9.99,,high,low,6,name.com,,,
-63d1f428-466a-486b-a6db-e924142e1110,inshort.gifts,available,9.99,,medium,low,8,name.com,,,
-4d6581b1-7284-4127-8fde-46302e0fca8f,wander.gifts,available,9.99,,medium,low,6,name.com,,,
-500d4436-5256-49ff-94db-9748c2200090,coldwar.gifts,available,9.99,,medium,low,8,name.com,,,
-3c04e757-1ffe-4de1-ada9-2d6e019d5c44,putterabout.gifts,available,9.99,,low,low,12,name.com,,,
-3424ad27-365b-45d0-80ab-8686162612db,tvset.gifts,available,9.99,,high,low,6,name.com,,,
-1418c258-c80b-4909-aa69-5c857b626eb4,seasonably.gifts,available,14.99,46.99,low,low,10,name.com,,,06/08/2026 10:03
-816c1f54-f132-4fc8-8f90-81cd35bf9ea6,southafrica.gifts,available,,,low,low,12,,,,
+4d6581b1-7284-4127-8fde-46302e0fca8f,wander.gifts,available,9.99,,high,low,6,name.com,,,
 bf8c8d2b-5adc-4b75-b10a-e99acb81f0d4,brainwash.gifts,available,9.99,,high,low,9,name.com,,,
-4c278a56-60a0-4a2d-9633-96ec79773fc3,acarpelous.gifts,available,14.99,46.99,low,low,10,name.com,,,
-3d9e8c0b-846c-40d2-a267-6f1ce479b16d,pencilpouch.gifts,available,9.99,,high,low,12,name.com,,,
+4c278a56-60a0-4a2d-9633-96ec79773fc3,acarpelous.gifts,available,14.99,46.99,medium,low,10,name.com,,,
 48e74aff-a7a1-41ad-a424-19483d963bff,ear.gifts,premium,78.54,78.54,high,low,3,namesilo,,,
 d687ab69-454a-42c0-9d03-d08d0a660f3b,granny.gifts,available,9.99,,high,low,6,name.com,,,
 b5a73979-9d68-437c-a42c-e36a9108d783,peninsula.gifts,available,9.99,,high,low,9,name.com,,,
-f383cb9c-7498-49c4-9a75-63decfc919a9,obtuse.gifts,available,9.99,46.99,high,low,6,name.com,,,
 99531184-f7fc-4b62-822f-07d7ad172d0d,anagram.gifts,available,9.99,,high,low,7,name.com,,,
-82d258f3-75ce-45bc-9d0e-e1e3402740fc,vanquish.gifts,available,14.99,46.99,low,low,8,name.com,,,09/08/2026 05:32
-d74fa9a1-2bba-494e-9ff6-c86f6151eb48,withering.gifts,available,14.99,46.99,low,low,9,name.com,,,
-ce359f57-d69a-4f4d-ac58-02010cbb4470,godking.gifts,available,9.99,,high,low,8,name.com,,,
+82d258f3-75ce-45bc-9d0e-e1e3402740fc,vanquish.gifts,available,14.99,46.99,high,low,8,name.com,,,09/08/2026 05:32
+d74fa9a1-2bba-494e-9ff6-c86f6151eb48,withering.gifts,available,14.99,46.99,medium,low,9,name.com,,,
 1b85993d-ab9c-47a9-91f8-de2da94c9f22,disease.gifts,available,9.99,,high,low,7,name.com,,,
-c1339d05-56c8-41ec-8f52-fdbb2f63c210,district.gifts,available,9.99,,medium,low,8,name.com,,,
+c1339d05-56c8-41ec-8f52-fdbb2f63c210,district.gifts,available,9.99,,high,low,8,name.com,,,
 4a681371-9dde-4795-8b67-1500c7c92333,entirety.gifts,available,9.99,,high,low,8,name.com,,,
 8c30bf46-2b55-49fa-a8c3-dae60b4722ec,renewal.gifts,available,9.99,,high,low,7,name.com,,,
-287646f5-a73c-44fd-8af4-5dc87e1f1bc4,youngatheart.gifts,available,9.99,,low,low,14,name.com,,,
 a6e3ee41-2b8c-4841-8f74-88091b9d8fde,steps.gifts,available,9.99,,high,low,5,name.com,,,
-d07204ac-c938-48eb-9cdc-46e7a0af2796,ruboff.gifts,available,9.99,,low,low,7,name.com,,,
-a9cf69ef-8d64-4251-a620-1b3e238794f4,depress.gifts,available,9.99,,medium,low,7,name.com,,,
-050927a7-8c39-4f73-9e7b-380df7651960,justiceofthepeace.gifts,available,9.99,,medium,low,20,name.com,,,
+a9cf69ef-8d64-4251-a620-1b3e238794f4,depress.gifts,available,9.99,,high,low,7,name.com,,,
 e72afd09-7ee5-4048-9241-1e4d43bd5b48,means.gifts,available,9.99,,high,low,5,name.com,,,
-34433426-e2dd-4288-897e-9ec58a0704dc,hamilton.gifts,available,,,medium,low,8,,,,
-239334d2-c885-4b85-82d1-7959a4a19989,chickendance.gifts,available,9.99,,high,low,13,name.com,,,
-acba081f-07e9-4aa8-a339-338dd83a9d1d,dismissed.gifts,available,9.99,46.99,medium,low,9,name.com,,,
-179bed27-6763-4438-ab0c-96c298c797e9,abashed.gifts,available,14.99,46.99,low,low,7,name.com,,,
-fca9e610-2c64-486e-a41d-0355ddb857c3,suckit.gifts,available,9.99,,medium,low,7,name.com,,,
+34433426-e2dd-4288-897e-9ec58a0704dc,hamilton.gifts,available,,,high,low,8,,,,
+179bed27-6763-4438-ab0c-96c298c797e9,abashed.gifts,available,14.99,46.99,medium,low,7,name.com,,,
 3ce93907-ac08-43f8-b6a3-bc8e2cbc439b,teeth.gifts,available,9.99,,high,low,5,name.com,,,
-a8bcdb72-9aa2-4fed-807f-958ce1d0b830,beggarly.gifts,available,14.99,46.99,low,low,8,name.com,,,09/08/2026 09:01
-3587e298-8b1f-4ef3-91b4-414d2ee2ee97,answering.gifts,available,38.48,47.48,medium,low,9,namecheap,,,22/09/2026 05:38
-280eea80-aed0-499c-b47a-2e6d9fba7ec3,blackpanther.gifts,available,9.99,,high,low,13,name.com,,,
 5cdd2c49-c60c-4864-aa29-a798c2a36332,insurance.gifts,premium,42.9,42.9,high,medium,9,namecheap,,,
-d46be490-dd1c-46bb-8381-934c23906837,tyrannical.gifts,available,14.99,46.99,low,low,10,name.com,,,07/08/2026 19:12
-6d3e5e74-b1cb-4b18-8ea3-d4e5dfa71b27,ripe.gifts,available,9.99,,medium,low,4,name.com,,,
+d46be490-dd1c-46bb-8381-934c23906837,tyrannical.gifts,available,14.99,46.99,medium,low,10,name.com,,,07/08/2026 19:12
+6d3e5e74-b1cb-4b18-8ea3-d4e5dfa71b27,ripe.gifts,available,9.99,,high,low,4,name.com,,,
 ecd9154c-4a79-425d-8418-9b7f691754ac,principled.gifts,available,9.99,,high,low,10,name.com,,,
 0a90feda-94bc-4369-84e8-27aae836e18e,susan.gifts,available,9.99,,high,low,5,name.com,,,
-eb4ea49e-b770-4913-aaff-3a2a061b86b5,buns.gifts,available,14.99,46.99,low,low,4,name.com,,,09/08/2026 10:54
-9e579f3f-9179-43c7-b7a5-267f2fc84367,link.gifts,premium,85.8,85.8,low,low,4,namecheap,,,22/09/2026 10:11
-24b021a1-a58e-479f-bf87-1dccd51a1df3,affiliated.gifts,available,14.99,46.99,low,low,10,name.com,,,
+eb4ea49e-b770-4913-aaff-3a2a061b86b5,buns.gifts,available,14.99,46.99,medium,low,4,name.com,,,09/08/2026 10:54
+24b021a1-a58e-479f-bf87-1dccd51a1df3,affiliated.gifts,available,14.99,46.99,high,low,10,name.com,,,
 d58098e5-8f1b-43f5-81eb-f35bb55ad702,stan.gifts,available,9.99,,high,low,4,name.com,,,
-6c256905-0ecb-4edf-89d1-b10fc7f10edf,shh.gifts,available,9.99,,medium,low,3,name.com,,,
-f958e5b2-536d-403f-85b0-df4570d48de5,flaring.gifts,available,14.99,46.99,low,low,7,name.com,,,
-646cfdbc-eafa-4d4a-aee6-3d65064d07be,judgment.gifts,available,9.99,,medium,low,8,name.com,,,
-d33af7e9-1674-4f6f-8d13-2288df762e10,withoutfail.gifts,available,9.99,,high,low,12,name.com,,,
+6c256905-0ecb-4edf-89d1-b10fc7f10edf,shh.gifts,available,9.99,,high,low,3,name.com,,,
+f958e5b2-536d-403f-85b0-df4570d48de5,flaring.gifts,available,14.99,46.99,high,low,7,name.com,,,
+646cfdbc-eafa-4d4a-aee6-3d65064d07be,judgment.gifts,available,9.99,,high,low,8,name.com,,,
 72f87e4c-d645-4435-9d8f-29df881d931a,enlighten.gifts,available,9.99,,high,low,9,name.com,,,
 189b0ace-c4f1-4353-8462-7917d2cb5641,nowhere.gifts,available,9.99,,high,low,7,name.com,,,
-b26a7894-0cae-4aee-bbea-cade61ecd470,attended.gifts,available,36.99,36.99,medium,low,8,namesilo,,,22/09/2026 11:17
-aa023692-632a-4ed6-ac22-e61d03dac67c,howdoyoulike.gifts,available,9.99,,medium,low,15,name.com,,,
-6fd091bf-6df1-49e8-9960-a944b6abf979,bahrain.gifts,available,,,medium,low,7,,,,
+6fd091bf-6df1-49e8-9960-a944b6abf979,bahrain.gifts,available,,,high,low,7,,,,
 e30554a6-3718-4b69-b6d9-af3f7faa3c72,perfected.gifts,available,9.99,,high,low,9,name.com,,,
 aae10ed6-750d-45a3-843b-1aac65dc9d10,radar.gifts,available,9.99,,high,low,5,name.com,,,
-d547810b-ccb4-4b40-96ca-2b8f24119888,alike.gifts,available,36.99,36.99,low,low,5,namesilo,,,21/09/2026 23:59
 630faac7-b155-42c1-a102-3e5a7c71c62a,distinction.gifts,available,9.99,,high,low,11,name.com,,,
-26d7ba1e-5e83-46e7-92b0-b4b6943a2a72,acknowledged.gifts,available,9.99,,low,low,12,name.com,,,
-6d5b7f94-dd1e-43fc-bf76-0fbb40f30683,affixal.gifts,available,14.99,46.99,low,low,7,name.com,,,
-06a30223-4a05-4c82-b78e-ee57e8c75c46,awing.gifts,available,14.99,46.99,low,low,5,name.com,,,08/08/2026 00:34
-07639cf8-f9b4-4adc-bf71-997565a3c09d,lettersize.gifts,available,9.99,,medium,low,11,name.com,,,
-50da27d3-d179-4353-8e5d-c4b79a08385f,toothwork.gifts,available,9.99,,low,low,9,name.com,,,
+26d7ba1e-5e83-46e7-92b0-b4b6943a2a72,acknowledged.gifts,available,9.99,,high,low,12,name.com,,,
+6d5b7f94-dd1e-43fc-bf76-0fbb40f30683,affixal.gifts,available,14.99,46.99,medium,low,7,name.com,,,
+06a30223-4a05-4c82-b78e-ee57e8c75c46,awing.gifts,available,14.99,46.99,medium,low,5,name.com,,,08/08/2026 00:34
 f0478abe-1a0f-42b5-aadc-9c2722a007f3,fashion.gifts,resell,,,high,medium,7,Dynadot Inc,30/11/2020 01:28,30/11/2026 01:28,
-3a3594bd-b4f5-4b16-8d94-1503bc79523e,barrier.gifts,available,9.99,,medium,low,7,name.com,,,
-7245a9b9-c242-4519-a364-c1751f08b175,hardatwork.gifts,available,9.99,,high,low,12,name.com,,,
-96490b94-e32e-44c3-985d-07e3d0e25c7a,theory.gifts,available,9.99,,high,low,6,name.com,,,
-478ab7b9-244c-4173-9c6f-4485c8d86cf8,lowcost.gifts,available,14.99,46.99,low,low,8,name.com,,,
-c0079d25-ea14-4e2d-ab9b-4641f929bd74,acentric.gifts,available,14.99,46.99,low,low,8,name.com,,,
-e3899db0-465b-4f46-9106-5fccf727b289,keepinmind.gifts,available,9.99,,high,low,12,name.com,,,
-11b9499e-fbe5-42f7-8952-0e36a3a10693,saveas.gifts,available,9.99,,medium,low,7,name.com,,,
-553939c6-55c9-4cbb-b0ad-86f7b7e5faf5,oilpainting.gifts,available,9.99,,medium,low,12,name.com,,,
-ba99f422-e395-4cd9-beab-08bdbab3a194,families.gifts,available,9.99,,medium,low,8,name.com,,,
+3a3594bd-b4f5-4b16-8d94-1503bc79523e,barrier.gifts,available,9.99,,high,low,7,name.com,,,
+c0079d25-ea14-4e2d-ab9b-4641f929bd74,acentric.gifts,available,14.99,46.99,medium,low,8,name.com,,,
+ba99f422-e395-4cd9-beab-08bdbab3a194,families.gifts,available,9.99,,high,low,8,name.com,,,
 f50dd13b-d2ac-42ac-bc20-2c0f654af911,clam.gifts,available,9.99,,high,low,4,name.com,,,
-d6125f86-aa69-48d0-afa1-1d74a36b706d,heedful.gifts,available,14.99,46.99,low,low,7,name.com,,,
-475318ae-2ce2-4884-a88a-d49a98c6db63,wouldlike.gifts,available,9.99,,low,low,10,name.com,,,
-1713ed20-38b9-4763-8f5f-82bf51153b73,ohoh.gifts,available,9.99,,high,low,5,name.com,,,
-e1efb82e-3e19-4df3-94a2-5fa873547404,spartacus.gifts,available,9.99,,medium,low,9,name.com,,,
+d6125f86-aa69-48d0-afa1-1d74a36b706d,heedful.gifts,available,14.99,46.99,medium,low,7,name.com,,,
+e1efb82e-3e19-4df3-94a2-5fa873547404,spartacus.gifts,available,9.99,,high,low,9,name.com,,,
 04fbc86f-6594-4311-9d9d-9b8c18423426,btw.gifts,premium,38.94,38.94,high,low,3,namesilo,,,
-f932dc37-2c10-447f-831f-b47cc5357110,freshair.gifts,available,9.99,,high,low,9,name.com,,,
-b4cd6c34-ff68-4cd2-9095-aae1036ec455,atop.gifts,available,9.99,,medium,low,4,name.com,,,
+b4cd6c34-ff68-4cd2-9095-aae1036ec455,atop.gifts,available,9.99,,high,low,4,name.com,,,
 e033fcce-dd7d-46f4-8426-f761c9f025e1,else.gifts,available,9.99,,high,low,4,name.com,,,
-03fcc0a3-a540-4b53-8631-03fdddd6f095,giveoff.gifts,available,9.99,,medium,low,8,name.com,,,
-f145deae-9060-4232-9083-c085c99b23ab,aspheric.gifts,available,14.99,46.99,low,low,8,name.com,,,07/08/2026 04:52
-a1bea966-de89-4096-80e4-c427b75e552a,banned.gifts,available,14.99,46.99,low,low,6,name.com,,,08/08/2026 13:44
-eec22a22-d0aa-43f5-8cc6-e59bbd773d75,anguished.gifts,available,14.99,46.99,low,low,9,name.com,,,
-fb959a44-f930-4419-8472-fde6ddfad240,place.gifts,premium,38.94,38.94,high,low,5,namesilo,,,
-75027a08-fda6-46f7-8b53-98a04fae959d,service.gifts,premium,78.54,78.54,low,low,7,namesilo,,,19/09/2026 12:20
+f145deae-9060-4232-9083-c085c99b23ab,aspheric.gifts,available,14.99,46.99,medium,low,8,name.com,,,07/08/2026 04:52
+a1bea966-de89-4096-80e4-c427b75e552a,banned.gifts,available,14.99,46.99,medium,low,6,name.com,,,08/08/2026 13:44
 8ff64c00-8f5d-4344-864c-36e231a56b12,camouflage.gifts,available,9.99,,high,low,10,name.com,,,
 4289b905-e3b0-41de-a75d-e7d660f16056,aware.gifts,available,9.99,,high,low,5,name.com,,,
-6b7f8dea-852d-428b-ad8a-261259c63d4c,pattycase.gifts,available,9.99,,medium,low,10,name.com,,,
-8a9cdd9e-8a86-4c7d-b468-ec9ebb271511,autumn.gifts,premium,78.54,78.54,medium,low,6,namesilo,,,
-d8b10446-6da3-441a-9994-584b67a77f4a,alveolate.gifts,available,14.99,46.99,low,low,9,name.com,,,
-38076103-003f-4182-bbbb-ac0777710dd6,late.gifts,available,38.48,47.48,medium,low,4,namecheap,,,22/09/2026 19:16
-75350aa3-40ca-4f5a-95ea-8f0d5e212666,aversive.gifts,available,14.99,46.99,low,low,8,name.com,,,07/08/2026 22:40
-92d41640-6d0c-4744-8f8c-6a0e23a98304,idolized.gifts,available,14.99,46.99,low,low,8,name.com,,,
-9022d8f7-7855-4830-8a16-8717aa35e984,assuring.gifts,available,14.99,46.99,low,low,8,name.com,,,07/08/2026 08:31
-4ea2d9a0-f32b-4e04-9ebc-3d5d362912d7,bones.gifts,available,9.99,,medium,low,5,name.com,,,
-e2cde615-576f-40b7-a698-73713268ec76,moneyed.gifts,available,14.99,46.99,low,low,7,name.com,,,
-10e8b671-371b-4671-8c65-2a61e8ae735a,parody.gifts,available,38.48,47.48,medium,low,6,namecheap,,,23/09/2026 11:34
-cdc8df8f-22a2-4cfc-bb6c-db2f086b77e1,select.gifts,premium,242,242,medium,low,6,namesilo,,,22/09/2026 23:07
-098e1a35-5177-4533-9e3c-4870f6e99ee1,bornyesterday.gifts,available,9.99,,medium,low,14,name.com,,,
-9a8b22bd-0f4c-4ff6-bcf0-97ee1507bf8b,berried.gifts,available,14.99,46.99,low,low,7,name.com,,,08/08/2026 04:45
-09c1793a-add3-4897-bf75-232c3788aa42,barter.gifts,available,9.99,,medium,low,6,name.com,,,
-442d8fdc-c2b7-4aa2-9d60-8ea8721b8d69,chemistry.gifts,available,9.99,,high,low,9,name.com,,,
+8a9cdd9e-8a86-4c7d-b468-ec9ebb271511,autumn.gifts,premium,78.54,78.54,high,low,6,namesilo,,,
+92d41640-6d0c-4744-8f8c-6a0e23a98304,idolized.gifts,available,14.99,46.99,high,low,8,name.com,,,
+9022d8f7-7855-4830-8a16-8717aa35e984,assuring.gifts,available,14.99,46.99,medium,low,8,name.com,,,07/08/2026 08:31
+4ea2d9a0-f32b-4e04-9ebc-3d5d362912d7,bones.gifts,available,9.99,,high,low,5,name.com,,,
+e2cde615-576f-40b7-a698-73713268ec76,moneyed.gifts,available,14.99,46.99,high,low,7,name.com,,,
+09c1793a-add3-4897-bf75-232c3788aa42,barter.gifts,available,9.99,,high,low,6,name.com,,,
 e9c2844f-2f00-4d6d-adf7-dd20dfb95816,cot.gifts,premium,78.54,78.54,high,low,3,namesilo,,,
 f9a94e7e-6238-460d-9bed-2234bee90db7,modeler.gifts,available,9.99,,high,low,7,name.com,,,
 fd64af7f-428b-4a3a-9725-bd29c67f1ca7,detour.gifts,available,9.99,,high,low,6,name.com,,,
-d819393c-fae5-43b7-a5f9-957bdef18b4b,aslope.gifts,available,14.99,46.99,low,low,6,name.com,,,07/08/2026 04:02
 f7ee8496-38ae-4646-8ba9-9142db268cc5,matte.gifts,available,9.99,,high,low,5,name.com,,,
-6024a773-132f-43ed-9a82-0a3fc8c6dbe5,painpill.gifts,available,14.99,46.99,low,low,9,name.com,,,
 e77e859e-49d7-40a5-ac7e-d02a03da523d,against.gifts,available,9.99,,medium,low,7,name.com,,,
-a85acabe-6cef-4b96-b75c-d0054d31cebb,chinesenewyear.gifts,premium,38.94,38.94,high,low,16,namesilo,,,
-6f6a2e1c-1dfe-4ea7-af60-a9e1ece40e0d,brook.gifts,available,9.99,,medium,low,5,name.com,,,
-3dfeb5c7-beaf-4d0e-bd42-eb0656cf9126,bailable.gifts,available,14.99,46.99,low,low,8,name.com,,,08/08/2026 08:47
-cd50c71e-f29a-4ea4-a565-9655543b8c63,provoke.gifts,available,9.99,,medium,low,7,name.com,,,
-25b28ed1-4286-4551-8ba1-c0a7fde99973,algoid.gifts,available,14.99,46.99,low,low,6,name.com,,,
-9e7ab94b-0060-4f70-8baa-0621f725288b,conducting.gifts,available,9.99,,medium,low,10,name.com,,,
+6f6a2e1c-1dfe-4ea7-af60-a9e1ece40e0d,brook.gifts,available,9.99,,high,low,5,name.com,,,
+cd50c71e-f29a-4ea4-a565-9655543b8c63,provoke.gifts,available,9.99,,high,low,7,name.com,,,
+9e7ab94b-0060-4f70-8baa-0621f725288b,conducting.gifts,available,9.99,,high,low,10,name.com,,,
 9301f87c-956b-4617-b790-10d6cdb6652d,forgetting.gifts,available,9.99,,high,low,10,name.com,,,
-9836a95e-67e7-40ee-962c-d13d3a0bc39b,hotticket.gifts,available,9.99,,high,low,10,name.com,,,
-84973009-81ad-4a94-a035-ab1a7d5236cf,woodsy.gifts,available,14.99,46.99,low,low,6,name.com,,,06/08/2026 13:04
-2dc312f7-609a-4149-a16d-3d4ec49e4760,carsick.gifts,available,14.99,46.99,low,low,7,name.com,,,
+84973009-81ad-4a94-a035-ab1a7d5236cf,woodsy.gifts,available,14.99,46.99,high,low,6,name.com,,,06/08/2026 13:04
+2dc312f7-609a-4149-a16d-3d4ec49e4760,carsick.gifts,available,14.99,46.99,medium,low,7,name.com,,,
 f5cefb2b-95b9-49ef-882c-f34e76a7206c,leia.gifts,available,9.99,,high,low,4,name.com,,,
-9cffbf71-039b-4724-af40-6fa52d92b51f,province.gifts,available,9.99,,medium,low,8,name.com,,,
-d787bd15-fbcc-4240-8643-152c085f0e9f,alky.gifts,available,14.99,46.99,low,low,4,name.com,,,
-474ac309-11a5-435f-9bf9-b2a52d538443,experiment.gifts,available,36.99,36.99,medium,low,10,namesilo,,,23/09/2026 08:49
-ef14dbce-d30b-4e23-a8ba-f3bfd4d78be2,restinpeace.gifts,available,9.99,,low,low,13,name.com,,,
-c56369d4-97e7-469f-a3e4-caa32b77eafa,howareyougoing.gifts,available,9.99,,medium,low,17,name.com,,,
-e2d9f6ad-f353-415e-a6b8-4c463a65b2ff,acuminate.gifts,available,14.99,46.99,low,low,9,name.com,,,
-55bb28b4-72dc-4da5-9c11-fbf7560124cb,aryan.gifts,available,14.99,46.99,medium,high,5,name.com,,,07/08/2026 00:01
-ae665893-be8c-4f66-a542-bf6448137227,discourse.gifts,available,36.99,36.99,medium,low,9,namesilo,,,23/09/2026 22:52
-3901a60b-a76a-4bf1-8cc0-ee6d731ade28,asthmatic.gifts,available,36.99,36.99,low,low,9,namesilo,,,22/09/2026 10:23
-2a637de7-0fed-4c84-acb8-ca550ea4e5f5,blackdiamond.gifts,available,9.99,,high,low,13,name.com,,,
+9cffbf71-039b-4724-af40-6fa52d92b51f,province.gifts,available,9.99,,high,low,8,name.com,,,
+d787bd15-fbcc-4240-8643-152c085f0e9f,alky.gifts,available,14.99,46.99,medium,low,4,name.com,,,
+55bb28b4-72dc-4da5-9c11-fbf7560124cb,aryan.gifts,available,14.99,46.99,high,high,5,name.com,,,07/08/2026 00:01
 e88397f2-d831-4245-b45e-1b2109b290e4,ratter.gifts,available,14.99,46.99,low,low,6,name.com,,,06/08/2026 04:00
-92dba835-b2e2-46f2-9cc4-68bf35695c43,mechanic.gifts,available,9.99,,medium,low,8,name.com,,,
-817b02e0-ce0e-4a4c-b5f6-5fcd4cbde0db,turn.gifts,available,9.99,,high,low,4,name.com,,,
-b74824e6-d3ce-419f-8a22-f572ae2c2684,banausic.gifts,available,14.99,46.99,low,low,8,name.com,,,08/08/2026 11:29
+92dba835-b2e2-46f2-9cc4-68bf35695c43,mechanic.gifts,available,9.99,,high,low,8,name.com,,,
 ebe3a65a-adbf-48df-a48f-b58ffe1c4bb1,hercules.gifts,available,9.99,,high,low,8,name.com,,,
-1f4163a2-8662-498c-84d7-89a78b722428,fewer.gifts,available,9.99,,medium,low,5,name.com,,,
 247cc74b-50c8-473d-986c-317ae09d03b4,suck.gifts,available,9.99,,high,low,4,name.com,,,
-368405e1-721a-424f-93cf-ee9c2d226bd6,insolvent.gifts,available,14.99,46.99,low,low,9,name.com,,,08/08/2026 13:34
-2cf00745-0f29-4850-81e5-cf11de78a75e,clxv.gifts,available,14.99,46.99,low,low,4,name.com,,,
-2f52ddd1-03b4-43c9-b21e-4a52c1878304,beadlike.gifts,available,14.99,46.99,low,low,8,name.com,,,09/08/2026 03:28
+368405e1-721a-424f-93cf-ee9c2d226bd6,insolvent.gifts,available,14.99,46.99,medium,low,9,name.com,,,08/08/2026 13:34
+2cf00745-0f29-4850-81e5-cf11de78a75e,clxv.gifts,available,14.99,46.99,medium,low,4,name.com,,,
 3a3adc71-99fe-473e-bcbb-be931c2b7c20,paste.gifts,available,9.99,,high,low,5,name.com,,,
-fa48fcd4-83e5-46b2-ad75-3c537427c1e3,ascosporic.gifts,available,14.99,46.99,low,low,10,name.com,,,07/08/2026 01:12
-baa8fd49-d68b-4704-a656-294805257f37,lxxv.gifts,available,14.99,46.99,low,low,4,name.com,,,
+baa8fd49-d68b-4704-a656-294805257f37,lxxv.gifts,available,14.99,46.99,medium,low,4,name.com,,,
 2f79f9f9-3039-4206-8e27-cbff7513143f,clap.gifts,available,9.99,,high,low,4,name.com,,,
-82ed8fe3-aeae-45a5-afbe-58e1a6f00c84,revelatory.gifts,available,14.99,46.99,low,low,10,name.com,,,06/08/2026 00:55
-ba516010-4e00-4ed2-8385-a7d3b4c6d47e,suit.gifts,available,9.99,,high,low,4,name.com,,,
-acdd0ac4-1416-4570-8788-b76b748b7f5d,judges.gifts,available,9.99,,medium,low,6,name.com,,,
-21792622-c702-43c8-bd74-a3e6afe0e641,xrated.gifts,available,9.99,,low,low,7,name.com,,,
-34dd9266-43bd-4ae4-97fb-b7e3645e15fd,anagogic.gifts,available,14.99,46.99,low,low,8,name.com,,,
-36d1d32e-c035-4a31-be1a-31fc8cb1712c,alternate.gifts,available,36.99,36.99,low,low,9,namesilo,,,22/09/2026 02:29
-7dc00f84-98b9-4845-8e00-a6d0409e5008,dress.gifts,available,9.99,46.99,high,low,5,name.com,,,
-4e822a78-4fc5-447c-af99-63ac9c2981cc,excited.gifts,available,9.99,,high,low,7,name.com,,,
+82ed8fe3-aeae-45a5-afbe-58e1a6f00c84,revelatory.gifts,available,14.99,46.99,high,low,10,name.com,,,06/08/2026 00:55
+acdd0ac4-1416-4570-8788-b76b748b7f5d,judges.gifts,available,9.99,,high,low,6,name.com,,,
 73519276-87b3-4ba6-80cd-641de0aa3ab9,lecture.gifts,available,9.99,,high,low,7,name.com,,,
-3b9e251b-711b-49bd-93a9-0241aca665d4,transparency.gifts,available,9.99,,medium,low,12,name.com,,,
-bc0d3bf4-22e0-44dd-9bbd-4aa42d11ee18,childmolestation.gifts,available,9.99,,medium,low,17,name.com,,,
+3b9e251b-711b-49bd-93a9-0241aca665d4,transparency.gifts,available,9.99,,high,low,12,name.com,,,
 310184db-e67d-4f5e-b2f9-e368834d4dc6,challenging.gifts,available,9.99,,high,low,11,name.com,,,
-c7818f69-7983-447f-babd-161d430178b6,aphasic.gifts,available,14.99,46.99,low,low,7,name.com,,,05/08/2026 23:07
-855f02e0-c3e8-4986-be8f-f2fc638443c8,lyric.gifts,available,9.99,,medium,low,5,name.com,,,
-7f4d3273-3b34-4e1a-b74c-cb5b3cd23374,bighair.gifts,available,9.99,,high,low,8,name.com,,,
-8367d7b8-3e91-4b95-ba3f-67cd7513cf1b,generated.gifts,available,38.48,47.48,low,low,9,namecheap,,,19/09/2026 12:09
-db483b87-359a-4d05-9b0e-d8dbeca56a9f,bedaubed.gifts,available,14.99,46.99,low,low,8,name.com,,,09/08/2026 06:32
+855f02e0-c3e8-4986-be8f-f2fc638443c8,lyric.gifts,available,9.99,,high,low,5,name.com,,,
 39477406-3149-4950-9dff-2b4260f42919,pipe.gifts,available,9.99,,high,low,4,name.com,,,
-7e9d241b-5954-43f4-8814-01195e19d04a,bastard.gifts,available,14.99,46.99,low,low,7,name.com,,,08/08/2026 23:19
-a00f49d2-ded0-4939-b201-411f10d51db4,coffeebreak.gifts,available,9.99,,high,low,12,name.com,,,
-0a600035-e97b-4b90-a718-566ec056e3db,howarethings.gifts,available,9.99,,medium,low,14,name.com,,,
-871225ff-79a2-4897-b876-cec142111f21,apomictic.gifts,available,14.99,46.99,low,low,9,name.com,,,
-93ed2a55-367c-49a0-a1fa-5b7e8cac0b10,motherfugga.gifts,available,9.99,,medium,low,11,name.com,,,
-3509eeca-927d-4983-95a5-e06058daec77,walkfree.gifts,available,9.99,,medium,low,9,name.com,,,
-e788f47f-ab2f-4da0-afcb-cae29d9de970,unconvinced.gifts,available,9.99,,medium,low,11,name.com,,,
-2a9ff628-a9fe-48c4-b64a-cbb0070368d0,leisure.gifts,available,9.99,,high,low,7,name.com,,,
-cd476d78-ec08-43a7-9aa8-75f651718b15,obese.gifts,available,36.99,36.99,low,low,5,namesilo,,,23/09/2026 23:32
+7e9d241b-5954-43f4-8814-01195e19d04a,bastard.gifts,available,14.99,46.99,high,low,7,name.com,,,08/08/2026 23:19
 57f60ab1-452b-4fb4-8332-ffd053f0ed32,halo.gifts,available,9.99,,high,medium,4,name.com,,,
-71775921-6f1a-4351-9d66-f757fb5d1d32,bastardly.gifts,available,14.99,46.99,low,low,9,name.com,,,08/08/2026 23:53
-880a39a5-b6bc-4c91-9172-e5da43e2207e,prenatal.gifts,premium,78.54,78.54,medium,low,8,namesilo,,,22/09/2026 05:55
 e7c6f2dd-a173-45eb-ab7d-13556d7a9eff,volume.gifts,available,9.99,,high,low,6,name.com,,,
-7208ba4b-6194-424a-8f2e-34ba0e207646,conveyable.gifts,available,14.99,46.99,low,low,10,name.com,,,07/08/2026 06:24
 a52d6a92-2707-4f97-a43a-a644e667b31b,grandson.gifts,available,9.99,,high,low,8,name.com,,,
-737fd6de-abd9-490d-8e2c-625e6214d0b4,hindermost.gifts,available,14.99,46.99,low,low,10,name.com,,,08/08/2026 05:58
-13500ccc-71e7-49ff-b026-6c37dba13849,two.gifts,premium,85.8,85.8,medium,low,3,namecheap,,,21/09/2026 12:14
 80d13c3b-7295-469a-b76a-101c63bd13a7,duracell.gifts,available,9.99,,high,low,8,name.com,,,
-c27b54e7-3b6a-4408-8f1a-5a676f3d658f,gowith.gifts,available,9.99,,high,low,7,name.com,,,
-7a3e2436-b59a-4fcd-b98c-2a3274e1524f,abiding.gifts,available,36.99,36.99,medium,low,7,namesilo,,,21/09/2026 13:52
-8443d20b-d196-46f1-938f-f0766d821357,pubichair.gifts,available,9.99,,low,low,10,name.com,,,
 0740b2e0-2128-4943-86b4-3251743c72f8,legislative.gifts,available,9.99,,high,low,11,name.com,,,
-304ca149-ae2e-47d3-a969-fe3a2590dd2f,aquaphobic.gifts,available,14.99,46.99,low,low,10,name.com,,,06/08/2026 10:40
-5cc832fc-295d-4582-a618-c4fb73ecfa4d,detecting.gifts,available,9.99,,medium,low,9,name.com,,,
-77a451e4-cc5e-4a91-9c19-0b132d755ce3,restrict.gifts,available,36.99,36.99,low,low,8,namesilo,,,19/09/2026 17:10
-c52f9a5d-39aa-4064-8215-2958fd9b8fa1,everybody.gifts,available,9.99,,medium,low,10,name.com,,,
-9246abee-c2f8-4b37-8e8f-31057d48fa5f,frenchonionsoup.gifts,available,9.99,,high,low,17,name.com,,,
-bcb195f2-297d-4c08-83de-a349203f8371,youwin.gifts,available,9.99,,low,low,7,name.com,,,
+5cc832fc-295d-4582-a618-c4fb73ecfa4d,detecting.gifts,available,9.99,,high,low,9,name.com,,,
 c79edf4d-7a9e-4416-93fe-d451fd0c707b,defense.gifts,available,9.99,,high,low,7,name.com,,,
-19d2c803-eeff-459e-a34e-54232edbde52,jamesbond.gifts,available,9.99,,high,low,10,name.com,,,
-ad2ef504-8b8b-4155-ae2f-c89a2453c17b,farmer.gifts,available,14.99,46.99,medium,low,6,name.com,,,08/09/2026 06:02
-36235cd3-4830-4b87-bd57-409c69fa37f9,bigfour.gifts,available,9.99,,medium,low,8,name.com,,,
-831837b3-20bf-43b6-8f5c-1cbcac57f093,jumping.gifts,available,36.99,36.99,medium,low,7,namesilo,,,08/09/2026 06:49
-c07be9b6-0a85-446b-aedd-720395a7012b,towheaded.gifts,available,14.99,46.99,low,low,9,name.com,,,07/08/2026 01:49
+ad2ef504-8b8b-4155-ae2f-c89a2453c17b,farmer.gifts,available,14.99,46.99,high,low,6,name.com,,,08/09/2026 06:02
+831837b3-20bf-43b6-8f5c-1cbcac57f093,jumping.gifts,available,36.99,36.99,high,low,7,namesilo,,,08/09/2026 06:49
 b9d3be32-b1f8-42df-bd6f-4a8e8a0e7621,towards.gifts,available,9.99,,high,low,7,name.com,,,
-001a380b-e685-458f-b8f0-e68640a19d51,attender.gifts,available,14.99,46.99,low,low,8,name.com,,,07/08/2026 15:17
-443849b0-24d6-4485-804a-a407c4896f44,absolved.gifts,available,14.99,46.99,low,low,8,name.com,,,
-db824bd3-bed4-4119-ae86-3446bda468b5,underarrest.gifts,available,9.99,,medium,low,12,name.com,,,
-852a182d-7ab1-48f6-83a2-b30456cd8f09,blond.gifts,available,36.99,36.99,low,low,5,namesilo,,,22/09/2026 22:15
-c53cda2e-17dc-4e53-889d-cf98c250310d,megeneration.gifts,available,9.99,,medium,low,13,name.com,,,
-9747fcee-4d67-4693-8244-b7dfec75b108,igotmine.gifts,available,9.99,,medium,low,10,name.com,,,
-897cdb20-1cd7-4de7-ad4d-66e3f52fb8a2,showed.gifts,available,9.99,,low,low,6,name.com,,,
-f4164e4b-c3d6-496e-b832-151ed10db6f6,endall.gifts,available,9.99,,high,low,7,name.com,,,
-0a00b63a-74c6-4ce5-aec5-182b7f408797,rust.gifts,available,9.99,,medium,low,4,name.com,,,
-9e421761-7ddc-4957-9c7f-8fb3fa6d275c,giveamanafish.gifts,available,9.99,,medium,low,17,name.com,,,
-18c917fb-96e4-4673-a4f3-ec40e6f388d0,amidships.gifts,available,14.99,46.99,low,low,9,name.com,,,
-3e789724-f60d-488a-827f-01dd36f8108a,everyyear.gifts,available,9.99,,medium,low,10,name.com,,,
+001a380b-e685-458f-b8f0-e68640a19d51,attender.gifts,available,14.99,46.99,medium,low,8,name.com,,,07/08/2026 15:17
+443849b0-24d6-4485-804a-a407c4896f44,absolved.gifts,available,14.99,46.99,high,low,8,name.com,,,
+897cdb20-1cd7-4de7-ad4d-66e3f52fb8a2,showed.gifts,available,9.99,,medium,low,6,name.com,,,
+0a00b63a-74c6-4ce5-aec5-182b7f408797,rust.gifts,available,9.99,,high,low,4,name.com,,,
+18c917fb-96e4-4673-a4f3-ec40e6f388d0,amidships.gifts,available,14.99,46.99,medium,low,9,name.com,,,
 1fa590d2-984b-4b4e-ba47-ae05bbc050cc,gaslighter.gifts,available,9.99,,medium,low,11,name.com,,,
 08047219-0c11-40b0-a2ea-1b189c4a8d97,tuesday.gifts,available,9.99,,high,low,7,name.com,,,
-a6337e44-941a-4f95-9918-4a2482950de8,dingy.gifts,available,14.99,46.99,low,low,5,name.com,,,09/08/2026 09:20
-e4992205-a07a-4162-a1ee-635b07313539,idle.gifts,available,14.99,46.99,low,low,4,name.com,,,08/08/2026 21:52
-4ec83574-6722-457c-8d80-61a52ae77ea8,solarsystem.gifts,available,9.99,,medium,low,12,name.com,,,
+a6337e44-941a-4f95-9918-4a2482950de8,dingy.gifts,available,14.99,46.99,medium,low,5,name.com,,,09/08/2026 09:20
+e4992205-a07a-4162-a1ee-635b07313539,idle.gifts,available,14.99,46.99,high,low,4,name.com,,,08/08/2026 21:52
 975479da-62ff-4488-953b-809ea313fe76,categorically.gifts,available,9.99,,medium,low,13,name.com,,,
-6ac42e45-a476-48c7-91c2-a6c5f40c28a4,youall.gifts,available,9.99,,medium,low,7,name.com,,,
 3fbdb77a-b081-4e09-8598-65c508a2f420,kilometre.gifts,available,9.99,,high,low,9,name.com,,,
-79ada54b-bf10-4120-847f-376898bff02e,inthedistance.gifts,available,9.99,,medium,low,15,name.com,,,
-733b2a41-b32d-46f3-9879-a7ce14929054,detailed.gifts,available,9.99,46.99,medium,low,8,name.com,,,
 462e9b22-88b4-4242-9252-27ae5e375117,promise.gifts,premium,242,242,high,low,7,namesilo,,,
-b5218151-5dbc-4443-ae07-486b6d49fab0,mouse.gifts,available,9.99,,medium,low,5,name.com,,,
-54d3cb6f-a0ec-4dc1-bf13-8f4b59f1956a,blackcomedy.gifts,available,9.99,,high,low,12,name.com,,,
-679f52e9-8989-4048-8589-3d3074032d5c,recreant.gifts,available,14.99,46.99,low,low,8,name.com,,,06/08/2026 03:55
-072760a2-735e-4acd-b71d-f0df485642a6,suspension.gifts,available,9.99,,medium,low,10,name.com,,,
+b5218151-5dbc-4443-ae07-486b6d49fab0,mouse.gifts,available,9.99,,high,low,5,name.com,,,
+072760a2-735e-4acd-b71d-f0df485642a6,suspension.gifts,available,9.99,,high,low,10,name.com,,,
 6a5ad5ed-4b5d-402d-a32d-6225638653dd,without.gifts,available,9.99,,high,low,7,name.com,,,
-c8c977dc-455b-4b2d-a09b-f098766a8a66,orangejuice.gifts,available,9.99,,medium,low,12,name.com,,,
-74251a69-29bc-4520-b03c-dcd5fac4d411,backwardslash.gifts,available,9.99,,medium,low,14,name.com,,,
-02da01f1-cb51-46b3-a535-0438068de7bd,press.gifts,premium,78.54,78.54,medium,low,5,namesilo,,,
-34ab8f10-ffda-4f06-94c0-818f29254a22,cane.gifts,available,9.99,,medium,low,4,name.com,,,
-e2bd87f3-4943-44a8-a7e6-eae5c46ff4b0,setose.gifts,available,14.99,46.99,low,low,6,name.com,,,08/08/2026 17:39
+02da01f1-cb51-46b3-a535-0438068de7bd,press.gifts,premium,78.54,78.54,high,low,5,namesilo,,,
+34ab8f10-ffda-4f06-94c0-818f29254a22,cane.gifts,available,9.99,,high,low,4,name.com,,,
 3f5c9e0b-59fc-4295-a56d-3005f8e0288d,fog.gifts,premium,38.94,38.94,high,low,3,namesilo,,,
 13b1f630-9adb-49b0-a4ab-5934bd9c8447,smartly.gifts,available,9.99,,high,low,7,name.com,,,
 94eeaa60-0ce0-4be6-8f73-6ef3589b0a9a,listen.gifts,available,9.99,,high,low,6,name.com,,,
-c659b706-b9b7-45f5-9997-a5eabfddfac8,talkedabout.gifts,available,9.99,,medium,low,12,name.com,,,
-7b02bab9-eedb-41bd-b7af-0fc9190af49c,mealdeal.gifts,available,9.99,,high,low,9,name.com,,,
-05d14393-dda6-42b8-b9b0-5c7324cf6140,potbellied.gifts,available,14.99,46.99,low,low,10,name.com,,,
-0bcd7386-3556-4648-85ad-34846ff20fe3,adroit.gifts,available,38.48,47.48,low,low,6,namecheap,,,21/09/2026 19:49
-4ffe057b-97b3-41bb-842e-a2f72f8cd397,happyhour.gifts,available,9.99,,high,low,10,name.com,,,
-0156a2ad-35f6-47ec-9a5b-547b6ab0be08,agraphic.gifts,available,14.99,46.99,low,low,8,name.com,,,
-bbfacab3-3f80-4ac8-bd0b-a993f52adf4d,forestfire.gifts,available,9.99,,medium,low,11,name.com,,,
-c4223b6c-f1e9-4663-8268-ee97ed3c13a6,fleet.gifts,available,,,medium,low,5,,,,
+05d14393-dda6-42b8-b9b0-5c7324cf6140,potbellied.gifts,available,14.99,46.99,medium,low,10,name.com,,,
 baf7069a-3758-485f-85d5-4d3b31aff32b,moving.gifts,premium,78.54,78.54,high,low,6,namesilo,,,
 7c7a626e-d93f-4071-85e5-46ff9839f9ee,sony.gifts,available,,,high,low,4,,,,
 12e6572d-17bb-4667-bf01-693850dd7079,motivate.gifts,available,9.99,,high,low,8,name.com,,,
-01d4ecb1-e0b3-42a6-acb2-0b2dfddfaf08,rattleabout.gifts,available,9.99,,low,low,12,name.com,,,
-e4293ee1-05a1-4a7a-a469-5bd4193bdba5,dendroidal.gifts,available,14.99,46.99,low,low,10,name.com,,,06/08/2026 13:56
-487e1d8a-93a9-4992-a9d1-47622fb90b72,mouthoff.gifts,available,9.99,,low,low,9,name.com,,,
-66dcf92d-81e5-4a7c-aaa2-98038ec5effe,gearchange.gifts,available,9.99,,high,low,11,name.com,,,
-aa5e1f90-01e0-4297-813b-e669c797d1fe,surfaces.gifts,available,9.99,,low,low,8,name.com,,,
-03339907-d8c4-4423-8dee-2f24cb98cb7d,getsome.gifts,available,9.99,,high,low,8,name.com,,,
-430352d5-325b-4a0d-aad6-e89c9981c9e3,standard.gifts,available,,,medium,low,8,,,,
+aa5e1f90-01e0-4297-813b-e669c797d1fe,surfaces.gifts,available,9.99,,medium,low,8,name.com,,,
+430352d5-325b-4a0d-aad6-e89c9981c9e3,standard.gifts,available,,,high,low,8,,,,
 caf4e2a5-3e87-4a6e-aae7-0cc8b8052d27,freeway.gifts,available,9.99,,high,low,7,name.com,,,
-1b34b796-0e0f-406c-9c41-701d261e3802,ternion.gifts,available,14.99,46.99,low,low,7,name.com,,,
-244621e2-5901-422a-a32b-a54078f4b899,autacoidal.gifts,available,14.99,46.99,low,low,10,name.com,,,07/08/2026 18:31
-d0d40dd3-87be-43f3-ad7c-4655fc0c094c,generalformula.gifts,available,9.99,,high,low,15,name.com,,,
-51f1e989-7f90-4882-9235-a7c64e4db70c,gal.gifts,premium,78.54,78.54,medium,low,3,namesilo,,,
-b52f2f66-9d70-402d-bf6b-6ef99e26b2c1,patrikin.gifts,available,14.99,46.99,low,low,8,name.com,,,
-09a874fb-cd06-4185-91cd-ffc1426beffc,orangenotice.gifts,available,9.99,,medium,low,13,name.com,,,
-e44d1aa3-ca40-48ac-a564-cc170515df01,howareyou.gifts,available,9.99,,medium,low,11,name.com,,,
-70944d06-f398-4b05-84d9-725ce471f214,veggiedog.gifts,available,9.99,,high,low,10,name.com,,,
-9caab9c2-adec-4dfc-a36e-6f8ea01c6219,uremic.gifts,available,14.99,46.99,low,low,6,name.com,,,08/08/2026 02:43
-994e7c80-a919-41d9-9221-6bed23d9b9b7,baroque.gifts,available,14.99,46.99,low,low,7,name.com,,,08/08/2026 20:26
-1ab1176d-2544-47d8-a8de-6092907ea444,oddly.gifts,available,9.99,,medium,low,5,name.com,,,
-72f68838-12b5-48e9-a59b-6260ced2467c,hooked.gifts,available,36.99,36.99,low,low,6,namesilo,,,22/09/2026 07:30
-f7b52e19-f27f-45ba-9186-fb0ee8f96d5e,aliehasnolegs.gifts,available,9.99,,medium,low,17,name.com,,,
+1b34b796-0e0f-406c-9c41-701d261e3802,ternion.gifts,available,14.99,46.99,medium,low,7,name.com,,,
+51f1e989-7f90-4882-9235-a7c64e4db70c,gal.gifts,premium,78.54,78.54,high,low,3,namesilo,,,
+994e7c80-a919-41d9-9221-6bed23d9b9b7,baroque.gifts,available,14.99,46.99,high,low,7,name.com,,,08/08/2026 20:26
+1ab1176d-2544-47d8-a8de-6092907ea444,oddly.gifts,available,9.99,,high,low,5,name.com,,,
 88a9402c-701f-4b86-8e9b-712ac7659ab7,carrie.gifts,available,9.99,,high,low,6,name.com,,,
-63992e86-4670-4a39-a757-f100e229ca6e,sciences.gifts,available,9.99,,low,low,8,name.com,,,
-01eb7d14-332f-4f02-8735-822e10e8fc14,traversecity.gifts,available,9.99,,low,low,13,name.com,,,
-ae1ee9e8-ae3b-44f1-a45f-d3362ff8afd4,acre.gifts,available,9.99,,medium,low,4,name.com,,,
-a92de55a-e257-4b95-9d6e-b3b8e2c9d7cc,multiplayer.gifts,available,9.99,,medium,low,11,name.com,,,
-5896773a-8701-4e21-93a3-44724da50b8a,almond.gifts,available,9.99,,medium,low,6,name.com,,,
+63992e86-4670-4a39-a757-f100e229ca6e,sciences.gifts,available,9.99,,medium,low,8,name.com,,,
+ae1ee9e8-ae3b-44f1-a45f-d3362ff8afd4,acre.gifts,available,9.99,,high,low,4,name.com,,,
+a92de55a-e257-4b95-9d6e-b3b8e2c9d7cc,multiplayer.gifts,available,9.99,,high,low,11,name.com,,,
+5896773a-8701-4e21-93a3-44724da50b8a,almond.gifts,available,9.99,,high,low,6,name.com,,,
 202151c2-5ac0-424d-b951-7aad9cb4af71,trading.gifts,premium,242,242,high,low,7,namesilo,,,
 2c634d53-3090-4e80-b363-34abc6c2e713,oldest.gifts,available,9.99,,high,low,6,name.com,,,
-74729c2f-5624-460a-9b6e-9fac474e6f65,belgian.gifts,premium,242,242,low,low,7,namesilo,,,09/08/2026 12:51
-d16d2b34-ebef-4d56-89a8-f794b1fa6dfc,monumental.gifts,available,9.99,,medium,low,10,name.com,,,
-b32b11e3-8ea8-4a5e-99a4-75d08ff1838f,realized.gifts,available,36.99,36.99,medium,low,8,namesilo,,,23/09/2026 17:28
-7b3edead-d8cf-4c3b-97ae-59775ae18355,caper.gifts,available,36.99,36.99,medium,low,5,namesilo,,,22/09/2026 06:32
-938e7a84-9f1f-4120-b4b9-d480b8dd0005,nonplussed.gifts,available,14.99,46.99,low,low,10,name.com,,,07/08/2026 10:48
-508b0e21-b8ca-458d-aac6-0723296013dc,dormant.gifts,available,14.99,46.99,low,low,7,name.com,,,
-4951bf6e-157c-4ea8-8767-a4239777f153,flagitious.gifts,available,14.99,46.99,low,low,10,name.com,,,07/08/2026 14:37
-ad9b8cff-2a35-4d9c-9e57-e96473988895,leaves.gifts,available,36.99,36.99,low,low,6,namesilo,,,08/09/2026 09:50
-0f1d9a0c-45a8-4c98-bdca-eb552edad2af,phrases.gifts,available,9.99,,low,low,7,name.com,,,
-e072ba81-25f1-4ebe-b19b-cf17ff2b741c,aweless.gifts,available,14.99,46.99,low,low,7,name.com,,,08/08/2026 00:50
+74729c2f-5624-460a-9b6e-9fac474e6f65,belgian.gifts,premium,242,242,medium,low,7,namesilo,,,09/08/2026 12:51
+d16d2b34-ebef-4d56-89a8-f794b1fa6dfc,monumental.gifts,available,9.99,,high,low,10,name.com,,,
+938e7a84-9f1f-4120-b4b9-d480b8dd0005,nonplussed.gifts,available,14.99,46.99,medium,low,10,name.com,,,07/08/2026 10:48
+508b0e21-b8ca-458d-aac6-0723296013dc,dormant.gifts,available,14.99,46.99,high,low,7,name.com,,,
+ad9b8cff-2a35-4d9c-9e57-e96473988895,leaves.gifts,available,36.99,36.99,high,low,6,namesilo,,,08/09/2026 09:50
+0f1d9a0c-45a8-4c98-bdca-eb552edad2af,phrases.gifts,available,9.99,,medium,low,7,name.com,,,
 53808f3c-cbc1-4be1-84db-45b0cb5a8385,across.gifts,available,9.99,,high,low,6,name.com,,,
-bb8eba1b-bd4b-4e94-8715-d53ddf6bbafc,doubter.gifts,available,14.99,46.99,low,low,7,name.com,,,
-00e16bd8-41c4-4ff5-a0e9-8b58392eedd2,chew.gifts,available,9.99,,medium,low,4,name.com,,,
-27b158e8-4ce7-4bbe-9533-890c447a05b5,incometax.gifts,available,9.99,,medium,low,10,name.com,,,
+bb8eba1b-bd4b-4e94-8715-d53ddf6bbafc,doubter.gifts,available,14.99,46.99,medium,low,7,name.com,,,
+00e16bd8-41c4-4ff5-a0e9-8b58392eedd2,chew.gifts,available,9.99,,high,low,4,name.com,,,
 8e2e4360-5364-40fa-9e29-b57d5de2046a,copy.gifts,available,9.99,,high,low,4,name.com,,,
-2191175f-b04e-457e-9e59-8d81922bc411,irritate.gifts,available,9.99,,medium,low,8,name.com,,,
-5423b32b-4287-4a91-8f62-c2b17617286b,againstallodds.gifts,available,9.99,,high,low,16,name.com,,,
-bb42c19c-160f-4d39-9449-9b5168d5c1d2,asterismal.gifts,available,14.99,46.99,low,low,10,name.com,,,07/08/2026 09:01
-9e469b6c-dfc1-4ae0-865d-be1a3d0bfe53,springsnow.gifts,available,9.99,,low,low,11,name.com,,,
-e9f762ae-f039-456e-ad5c-b970671ffe7c,entranced.gifts,available,14.99,46.99,low,low,9,name.com,,,09/08/2026 10:11
-4b46da64-ecb7-4f45-98ae-f939cf2ff25d,agamous.gifts,available,14.99,46.99,low,low,7,name.com,,,
-baf87b27-81d7-4cd3-bb01-1944c94e91a7,like.gifts,premium,242,242,medium,low,4,namesilo,,,21/09/2026 23:58
+2191175f-b04e-457e-9e59-8d81922bc411,irritate.gifts,available,9.99,,high,low,8,name.com,,,
+e9f762ae-f039-456e-ad5c-b970671ffe7c,entranced.gifts,available,14.99,46.99,medium,low,9,name.com,,,09/08/2026 10:11
 48d2cd26-6818-424e-9884-b92e0a0e16a7,perfectly.gifts,available,9.99,,high,low,9,name.com,,,
-b91b549e-1237-4e8b-93a9-aadfe3bae28f,showoff.gifts,available,9.99,,medium,low,8,name.com,,,
-4b42620a-541b-40af-82cb-820b7f5f6cb4,walkingstick.gifts,available,9.99,,high,low,13,name.com,,,
-105f3519-5110-4d11-81bc-3a3a486415df,getat.gifts,available,9.99,,high,low,6,name.com,,,
-21e249c6-cf53-4bc7-acf3-adf22286a3db,thereis.gifts,available,9.99,,low,low,8,name.com,,,
-bea4f119-806e-4fed-b288-ce81df17e81e,auditory.gifts,available,36.99,36.99,medium,low,8,namesilo,,,22/09/2026 12:39
-f3628942-1b1f-4983-b774-720acc8297ff,blocked.gifts,available,36.99,36.99,low,low,7,namesilo,,,22/09/2026 22:08
 8ebb09de-fceb-442d-8100-a8fd29c50762,diva.gifts,available,9.99,,high,low,4,name.com,,,
-28b40961-9be8-4ba0-891d-e5c776aa2fa5,shoppingcentre.gifts,available,9.99,,high,low,15,name.com,,,
 d43fbf6c-20eb-411b-95ae-35ee9f4466df,striking.gifts,available,9.99,,high,low,8,name.com,,,
-bbcfb019-3c51-4b28-87af-d78c73053726,thiscoming.gifts,available,9.99,,low,low,11,name.com,,,
 d70025f2-5e94-44a2-8ed3-d345d1750ca4,worsening.gifts,available,9.99,,medium,low,9,name.com,,,
-ec94dfa8-b4f7-430c-8993-26ccc39ce171,avocado.gifts,available,36.99,36.99,medium,low,7,namesilo,,,22/09/2026 14:34
-66d8d627-780e-48eb-b685-6cc01f92b6b9,channel.gifts,premium,78.54,78.54,medium,low,7,namesilo,,,
-5d9d1dd2-8f53-43e2-8794-43a82a782523,desert.gifts,available,9.99,46.99,high,low,6,name.com,,,
+66d8d627-780e-48eb-b685-6cc01f92b6b9,channel.gifts,premium,78.54,78.54,high,low,7,namesilo,,,
 bbc46bbc-78ab-463d-8034-5d0751927c88,recognizable.gifts,available,9.99,,high,low,12,name.com,,,
-aa7ae9b4-8720-4d6a-9721-f8536a5dede3,shortfall.gifts,available,9.99,,medium,low,9,name.com,,,
-628fd673-63fd-46cb-ac24-21f6a8c5a165,liverish.gifts,available,14.99,46.99,low,low,8,name.com,,,07/08/2026 14:19
-790bc9ee-9a0c-43bb-834c-0843a3ac982d,atthemoment.gifts,available,9.99,,high,low,13,name.com,,,
-630a57b7-4e8c-469f-9ca1-86deecc8c67e,intheear.gifts,available,9.99,,medium,low,10,name.com,,,
+aa7ae9b4-8720-4d6a-9721-f8536a5dede3,shortfall.gifts,available,9.99,,high,low,9,name.com,,,
 061a4f87-85b9-419c-ab4e-4bb6caeecd08,man.gifts,premium,242,242,high,low,3,namesilo,,,
-9ad208a1-789d-4fd4-b7f9-4ac1c64e722e,acronymic.gifts,available,14.99,46.99,low,low,9,name.com,,,
-8482866b-656d-4be5-b484-20330a65ac26,average.gifts,available,36.99,36.99,medium,low,7,namesilo,,,22/09/2026 14:28
-ee3afb5d-4e8e-43a9-8cf4-582921a5e691,clowning.gifts,available,9.99,,medium,low,8,name.com,,,
-f4631dc3-5710-485a-b8d8-ec7fe3ae2861,arctic.gifts,available,14.99,46.99,low,low,6,name.com,,,06/08/2026 16:07
-aa40ff84-58aa-4310-860f-021769f5614d,purple.gifts,available,9.99,,medium,medium,6,name.com,,,
-7980d4c0-261e-42cc-bb27-249dfaac4152,watt.gifts,available,9.99,,medium,low,4,name.com,,,
-eee7ad54-af93-4b6d-85dc-5c7247f27a11,veggie.gifts,available,38.48,47.48,medium,low,6,namecheap,,,19/09/2026 06:34
-255923e7-9453-4ce5-b789-2c7c23d436d0,changing.gifts,available,36.99,36.99,low,low,8,namesilo,,,23/09/2026 13:46
+ee3afb5d-4e8e-43a9-8cf4-582921a5e691,clowning.gifts,available,9.99,,high,low,8,name.com,,,
+f4631dc3-5710-485a-b8d8-ec7fe3ae2861,arctic.gifts,available,14.99,46.99,high,low,6,name.com,,,06/08/2026 16:07
+7980d4c0-261e-42cc-bb27-249dfaac4152,watt.gifts,available,9.99,,high,low,4,name.com,,,
 f7affb8b-2842-49be-ad1a-34b9adbf79b4,gag.gifts,resell,,,high,low,3,Dynadot Inc,24/01/2020 11:06,24/01/2027 11:06,
-285bb3a5-457e-4341-87bb-036bfade95f2,antithetic.gifts,available,14.99,46.99,low,low,10,name.com,,,05/08/2026 19:49
+285bb3a5-457e-4341-87bb-036bfade95f2,antithetic.gifts,available,14.99,46.99,medium,low,10,name.com,,,05/08/2026 19:49
 c0015ad6-c071-4522-a55f-261ecfa83873,avon.gifts,available,9.99,,high,low,4,name.com,,,
 89bc0dda-c73c-4ea3-9267-78edea7897ed,tours.gifts,premium,78.54,78.54,high,low,5,namesilo,,,
-3b145cc7-e8e0-4a9a-bd1f-4366644916e0,generalquarters.gifts,available,9.99,,medium,low,16,name.com,,,
-0a3abffc-c570-4bce-a721-8fee3006c842,activating.gifts,available,14.99,46.99,low,low,10,name.com,,,
-b684e77c-e2bc-4b11-83e2-f70db2b5ff28,endup.gifts,available,9.99,,high,low,6,name.com,,,
-8134c322-95c9-4214-8ac5-61a391afda05,raisehell.gifts,available,9.99,,low,low,10,name.com,,,
-a14677b5-6703-4046-82f6-afb347844d7d,influence.gifts,available,36.99,36.99,medium,low,9,namesilo,,,08/09/2026 08:44
-b2efdb0d-3a36-4bb2-832d-2550cd92416d,anginal.gifts,available,14.99,46.99,low,low,7,name.com,,,
-01d51f68-0ac7-4527-90e0-2a0e5d4590af,asquint.gifts,available,14.99,46.99,low,low,7,name.com,,,07/08/2026 03:10
+0a3abffc-c570-4bce-a721-8fee3006c842,activating.gifts,available,14.99,46.99,high,low,10,name.com,,,
+a14677b5-6703-4046-82f6-afb347844d7d,influence.gifts,available,36.99,36.99,high,low,9,namesilo,,,08/09/2026 08:44
 931e0eb8-6060-4593-8d90-7adf6c795e9d,browsing.gifts,available,9.99,,high,low,8,name.com,,,
-91e31a1e-c9a6-4bb5-b0e5-acf6cbf9f7ee,algebraic.gifts,available,14.99,46.99,low,low,9,name.com,,,
-da9e17e7-8d8c-4446-a13a-0822fda68491,amateur.gifts,available,36.99,36.99,low,low,7,namesilo,,,22/09/2026 03:21
+91e31a1e-c9a6-4bb5-b0e5-acf6cbf9f7ee,algebraic.gifts,available,14.99,46.99,high,low,9,name.com,,,
 4780e78a-65cb-48bf-bffc-23dd59aa3c02,require.gifts,available,9.99,,high,low,7,name.com,,,
-88a675c9-15d9-4b75-9ea4-7943ef311bd6,bowls.gifts,available,9.99,,medium,low,5,name.com,,,
-84b7ad9d-c2c3-4d84-84d2-3f09841bf4ae,lii.gifts,available,14.99,46.99,low,low,3,name.com,,,
-78692756-420b-49a2-8ce3-6c8a5438699e,talkto.gifts,available,9.99,,medium,low,7,name.com,,,
-f37c7663-e603-4066-860c-f4f9a2d0bd98,sportsbar.gifts,available,9.99,,high,low,10,name.com,,,
-fc90c417-b4df-4497-8005-9e253df93062,anagogical.gifts,available,14.99,46.99,low,low,10,name.com,,,
-74fa2b54-9fab-47bf-baa2-c102449b0ab4,obtained.gifts,available,9.99,,low,low,8,name.com,,,
-c54d8791-4a35-4e4e-a1ae-59470880340d,decade.gifts,available,38.48,47.48,medium,low,6,namecheap,,,21/09/2026 10:56
-c2931968-a6e6-4fbb-9647-59d50cc01c33,bjp.gifts,available,9.99,,medium,low,3,name.com,,,
+88a675c9-15d9-4b75-9ea4-7943ef311bd6,bowls.gifts,available,9.99,,high,low,5,name.com,,,
+84b7ad9d-c2c3-4d84-84d2-3f09841bf4ae,lii.gifts,available,14.99,46.99,high,low,3,name.com,,,
+74fa2b54-9fab-47bf-baa2-c102449b0ab4,obtained.gifts,available,9.99,,medium,low,8,name.com,,,
+c2931968-a6e6-4fbb-9647-59d50cc01c33,bjp.gifts,available,9.99,,high,low,3,name.com,,,
 bd8b57d7-94e1-45ce-a5ee-2839c3321a22,diversity.gifts,available,9.99,,high,low,9,name.com,,,
-4fbf61dc-867e-4158-8385-7607e3cdad58,alkaliser.gifts,available,14.99,46.99,low,low,9,name.com,,,
-6fba2f3b-a338-4879-98ed-97dc2a6023f1,dye.gifts,premium,78.54,78.54,medium,low,3,namesilo,,,
-b6e8a5ac-f8dc-4396-b93d-a9a27da2752f,spermcell.gifts,available,9.99,,medium,low,10,name.com,,,
-809462df-deec-4987-9bbf-d7b13342204b,offhanded.gifts,available,14.99,46.99,low,low,9,name.com,,,
-32fcda49-46d3-44f5-aa1a-9eff1437f12f,greedy.gifts,available,14.99,46.99,low,low,6,name.com,,,07/08/2026 22:09
-880c4fcf-9776-4120-9165-215031aa25ef,shears.gifts,available,9.99,,medium,low,6,name.com,,,
-7abeb2b3-009c-4b40-9d92-d88dfaa08826,fellowcitizen.gifts,available,9.99,,medium,low,14,name.com,,,
-a0d4d024-e496-48c8-b87e-2e70b7f1ccbb,aquiferous.gifts,available,14.99,46.99,low,low,10,name.com,,,06/08/2026 10:55
+6fba2f3b-a338-4879-98ed-97dc2a6023f1,dye.gifts,premium,78.54,78.54,high,low,3,namesilo,,,
+32fcda49-46d3-44f5-aa1a-9eff1437f12f,greedy.gifts,available,14.99,46.99,high,low,6,name.com,,,07/08/2026 22:09
+880c4fcf-9776-4120-9165-215031aa25ef,shears.gifts,available,9.99,,high,low,6,name.com,,,
 6cc2b601-ac0c-4b2a-a7f5-d54f302eec76,spice.gifts,available,9.99,,high,low,5,name.com,,,
-d14c4de2-5c60-4cec-bfc8-87cc94d7652d,howno.gifts,available,9.99,,medium,low,6,name.com,,,
 3001a3a3-a767-4155-8d6c-1906e4b9b688,together.gifts,available,9.99,,high,medium,8,name.com,,,
-387d4a01-79f7-46e1-9590-b60d864bfa94,backward.gifts,available,36.99,36.99,low,low,8,namesilo,,,22/09/2026 15:53
-6eb9d88a-7e1e-4321-b83d-acecc24ddacf,cock.gifts,available,9.99,,medium,low,4,name.com,,,
-959caf46-34ce-4460-8457-2929fadfd308,cometoaclose.gifts,available,9.99,,high,low,15,name.com,,,
-da43cabf-5025-4cf0-a7a0-7d776a659459,commercially.gifts,available,9.99,,medium,low,12,name.com,,,
-02608f3c-4f39-4df1-b381-5fefe8fef3c0,onions.gifts,available,9.99,,medium,low,6,name.com,,,
-0c81e03b-b41d-44ff-8c3a-a2946268c4a6,issuedate.gifts,available,9.99,,high,low,10,name.com,,,
-8795229f-9fbb-4840-ad24-e1fa487b225d,wakeup.gifts,available,14.99,46.99,medium,low,7,name.com,,,07/08/2026 23:56
+6eb9d88a-7e1e-4321-b83d-acecc24ddacf,cock.gifts,available,9.99,,high,low,4,name.com,,,
+da43cabf-5025-4cf0-a7a0-7d776a659459,commercially.gifts,available,9.99,,high,low,12,name.com,,,
+02608f3c-4f39-4df1-b381-5fefe8fef3c0,onions.gifts,available,9.99,,high,low,6,name.com,,,
 f1b2d717-5094-4852-ac52-8e043195b01d,choc.gifts,premium,78.54,78.54,high,low,4,namesilo,,,
-86d27bb5-5446-4280-bb06-fe9b0fba57ec,afterwards.gifts,available,14.99,46.99,low,low,10,name.com,,,
-ff6265c3-bd16-4a50-94e3-d3be8e77ba64,coveted.gifts,available,36.99,36.99,low,low,7,namesilo,,,24/09/2026 00:56
-e07785d9-4ac4-4aaf-94e8-6eeb34ba7cbe,dozen.gifts,available,36.99,36.99,medium,low,5,namesilo,,,21/09/2026 11:29
-78ab97cf-e67d-4511-b21b-6f3cfb7ee095,crackers.gifts,available,14.99,46.99,low,low,8,name.com,,,06/08/2026 20:45
+86d27bb5-5446-4280-bb06-fe9b0fba57ec,afterwards.gifts,available,14.99,46.99,medium,low,10,name.com,,,
+78ab97cf-e67d-4511-b21b-6f3cfb7ee095,crackers.gifts,available,14.99,46.99,high,low,8,name.com,,,06/08/2026 20:45
 ff7d117f-9b16-4980-98b1-1aca13dfdacd,attachment.gifts,available,9.99,,high,low,10,name.com,,,
-d792db13-c87a-45e8-b16d-49bf78d251ce,commanding.gifts,available,36.99,36.99,medium,low,10,namesilo,,,23/09/2026 15:41
-94d37395-a7b4-45b7-895a-940c5eb6975e,bytheway.gifts,available,9.99,,medium,low,10,name.com,,,
-459b1448-199e-4ccd-8c29-214784545091,afebrile.gifts,available,14.99,46.99,low,low,8,name.com,,,
-9cd8496f-1e5d-47db-8312-83062265af28,troika.gifts,available,14.99,46.99,low,low,6,name.com,,,
-df2fc0ad-100f-48d6-9112-ad1d57f162b2,oddoneout.gifts,available,9.99,,medium,low,11,name.com,,,
-fae692b1-0027-4110-8507-b7332e231b8b,allseasontire.gifts,available,9.99,,high,low,15,name.com,,,
-5e44c17a-0618-401a-bf24-1a5872502de6,scotch.gifts,available,9.99,,high,low,6,name.com,,,
+9cd8496f-1e5d-47db-8312-83062265af28,troika.gifts,available,14.99,46.99,high,low,6,name.com,,,
 e76b13e2-aed0-4cf8-9c44-ee4e27a06908,supposedly.gifts,available,9.99,,medium,low,10,name.com,,,
-df7f4484-1c5b-486e-9333-3f86024c1d72,whatittakes.gifts,available,9.99,,low,low,13,name.com,,,
-d68fcc73-198c-4f1d-8ceb-ccbf1da3504f,unity.gifts,available,36.99,36.99,low,low,5,namesilo,,,21/09/2026 10:47
-0130f778-d6d2-4d58-a52d-d23548491283,wide.gifts,available,36.99,36.99,low,low,4,namesilo,,,21/09/2026 16:15
-93141f0c-d079-4124-9745-7b1cf7dd782f,amitotic.gifts,available,14.99,46.99,low,low,8,name.com,,,
-1eb54e91-d582-4617-a119-217d51d3cd57,tailend.gifts,available,14.99,46.99,low,low,8,name.com,,,09/08/2026 11:36
 13d67872-c20b-494d-9113-2096bd053bc7,heaven.gifts,available,9.99,,high,low,6,name.com,,,
 6538cc9f-e538-4f00-85f1-0e975fc920d7,moderator.gifts,available,9.99,,high,low,9,name.com,,,
 e3905fab-631e-4203-8a9d-23dad1a8f45b,deepest.gifts,available,9.99,,medium,low,7,name.com,,,
 5d8c9717-a555-4de6-87ca-9ec08741212a,skype.gifts,available,,,high,low,5,,,,
 63bb174d-f791-4848-b900-6c6f51c09ae7,ballroom.gifts,available,9.99,,high,low,8,name.com,,,
-097ce6e7-4d2f-475c-91cb-72deffa63568,arsenical.gifts,available,14.99,46.99,low,low,9,name.com,,,06/08/2026 22:18
-76146869-bd98-45c0-8d02-02d3f83eb2d1,fortyfive.gifts,available,14.99,46.99,low,low,10,name.com,,,
 a7317c6f-bb0c-4c4b-899a-688dcea3c0e3,leg.gifts,premium,78.54,78.54,high,low,3,namesilo,,,
-8f135088-2e2d-4383-894a-a16e53eb19b7,nightlong.gifts,available,14.99,46.99,low,low,9,name.com,,,
-0622aa8e-7c71-46ee-a9c3-dc92e628327f,arced.gifts,available,14.99,46.99,low,low,5,name.com,,,06/08/2026 14:28
-c2b4d40f-0b6e-4101-aef0-aeb4ad7b821b,idoubtit.gifts,available,9.99,,medium,low,10,name.com,,,
-d5f30e56-c3bc-40a6-bc2b-ee51efc06f60,whisking.gifts,available,9.99,,medium,low,8,name.com,,,
-170670b0-7e3c-4291-a9dc-4fade7444898,aperient.gifts,available,14.99,46.99,low,low,8,name.com,,,05/08/2026 22:09
-8eab2afc-b91e-4e8c-a06c-2795ff9ec982,childlabour.gifts,available,9.99,,medium,low,12,name.com,,,
-99077d1a-647c-4906-8bee-e3bfe3fe722f,enterthechat.gifts,available,9.99,,medium,low,14,name.com,,,
+0622aa8e-7c71-46ee-a9c3-dc92e628327f,arced.gifts,available,14.99,46.99,medium,low,5,name.com,,,06/08/2026 14:28
+d5f30e56-c3bc-40a6-bc2b-ee51efc06f60,whisking.gifts,available,9.99,,high,low,8,name.com,,,
 75390ff9-a273-4db3-b028-312b5256f1ec,adding.gifts,available,9.99,,high,low,6,name.com,,,
-612ec0a4-9c75-4a44-b47b-f521fac6428f,sandy.gifts,premium,38.94,38.94,low,low,5,namesilo,,,06/08/2026 17:31
-f31e5bfe-3058-4b93-b726-efb50fac70ed,terminal.gifts,available,36.99,36.99,medium,low,8,namesilo,,,08/09/2026 11:51
+612ec0a4-9c75-4a44-b47b-f521fac6428f,sandy.gifts,premium,38.94,38.94,high,low,5,namesilo,,,06/08/2026 17:31
+f31e5bfe-3058-4b93-b726-efb50fac70ed,terminal.gifts,available,36.99,36.99,high,low,8,namesilo,,,08/09/2026 11:51
 84bc2366-0661-4c13-8a62-da9be538c8c3,profess.gifts,available,9.99,,high,low,7,name.com,,,
 0b021fcb-870c-4a8b-a9b1-b46163b1316e,alate.gifts,available,,,high,low,5,,,,
 7499afee-998b-48db-9814-99c4c1a8ccb3,sunhat.gifts,available,9.99,,high,low,6,name.com,,,
-a170f44b-a9b1-48c2-8084-dd2a0e77f102,onyourmark.gifts,available,9.99,,high,low,12,name.com,,,
-e3839d78-27fd-4028-bc7b-d3a4da8c7992,acidfast.gifts,available,14.99,46.99,low,low,9,name.com,,,
 0a7a5f27-d55d-41f0-9f80-34dfc8cb7421,recommend.gifts,available,9.99,,high,low,9,name.com,,,
-ed1645d9-a844-4b48-afc2-04ef79f7900f,sombudy.gifts,available,9.99,,medium,low,7,name.com,,,
-3b83ff36-e98d-49a1-9563-67e0f91de443,inthehotseat.gifts,available,9.99,,medium,low,15,name.com,,,
-ff99db94-2601-4c84-b2ed-8db79520faa8,acute.gifts,available,38.48,47.48,medium,low,5,namecheap,,,21/09/2026 16:39
-9f2def16-48af-434b-9d58-6a7e4c2a6178,neighbor.gifts,available,9.99,,medium,low,8,name.com,,,
-8a280380-28d0-403f-9aee-73cc70257672,textbook.gifts,available,36.99,36.99,medium,low,8,namesilo,,,23/09/2026 13:09
-f6388540-88f4-4cf6-b664-f9eafa9845a8,shapeless.gifts,available,14.99,46.99,low,low,9,name.com,,,
-1f3e5a40-8cf6-4550-a4e0-906227cd58d2,thousandth.gifts,available,14.99,46.99,low,low,10,name.com,,,
+9f2def16-48af-434b-9d58-6a7e4c2a6178,neighbor.gifts,available,9.99,,high,low,8,name.com,,,
+f6388540-88f4-4cf6-b664-f9eafa9845a8,shapeless.gifts,available,14.99,46.99,medium,low,9,name.com,,,
+1f3e5a40-8cf6-4550-a4e0-906227cd58d2,thousandth.gifts,available,14.99,46.99,high,low,10,name.com,,,
 8547e928-edae-402c-9517-d8d1abe30d68,lit.gifts,premium,78.54,78.54,high,medium,3,namesilo,,,
-0d04ec7b-85c9-49ee-967f-0bf72328f595,middleage.gifts,available,9.99,,medium,low,10,name.com,,,
 a7d89872-5728-4e4b-a2e0-f963a50cc858,shaft.gifts,available,9.99,,high,low,5,name.com,,,
-49b1e608-0783-4469-a489-5444a5b79ff5,linked.gifts,available,9.99,,medium,low,6,name.com,,,
-f30dc216-dd5e-468b-9e9b-aa59edf64743,gothere.gifts,available,9.99,,medium,low,8,name.com,,,
-bbacf598-1499-42a8-933c-7e9ad051b3ed,nyse.gifts,available,9.99,,medium,low,4,name.com,,,
-3de0cd8a-06d2-4a74-9d02-588f18f0fb6b,pickuptruck.gifts,available,36.99,36.99,low,low,13,namesilo,,,17/09/2026 14:44
-7fb43240-4d80-46ec-b5b3-f15aae9fbe13,getofftheground.gifts,available,9.99,,high,low,18,name.com,,,
-c1fcd7fc-5dad-46ef-9060-0b331c42d0c3,autocratic.gifts,available,14.99,46.99,low,low,10,name.com,,,07/08/2026 18:52
-d984765e-7da1-4249-b320-7660162c1c13,clv.gifts,available,14.99,46.99,low,low,3,name.com,,,
-6c447196-d3ad-457f-abeb-99863d9b9399,ricepaper.gifts,available,9.99,,medium,low,10,name.com,,,
+49b1e608-0783-4469-a489-5444a5b79ff5,linked.gifts,available,9.99,,high,low,6,name.com,,,
+bbacf598-1499-42a8-933c-7e9ad051b3ed,nyse.gifts,available,9.99,,high,low,4,name.com,,,
+d984765e-7da1-4249-b320-7660162c1c13,clv.gifts,available,14.99,46.99,high,low,3,name.com,,,
 a4ca12a3-5307-4557-a227-6d3e7098ff08,html.gifts,available,9.99,,high,low,4,name.com,,,
-98166168-53a1-47e2-b7c5-2b1140e5b680,cup.gifts,premium,78.54,78.54,medium,low,3,namesilo,,,19/09/2026 14:42
 539cb830-854c-4ad3-9cf0-284691f1aa00,knowing.gifts,available,9.99,,high,low,7,name.com,,,
-5bfad478-4817-471e-b8ad-8c9c95c54f75,theones.gifts,available,9.99,,low,low,8,name.com,,,
 8de5cc62-d15b-49cd-ae53-ac443fad63a0,garlic.gifts,available,9.99,,high,low,6,name.com,,,
 25ed8c9a-c5cf-403f-995b-d0eadde24fc9,sort.gifts,premium,78.54,78.54,high,low,4,namesilo,,,
 db6d3fce-6aba-4c21-b542-f0bcfe15d8b4,idiom.gifts,available,9.99,,high,low,5,name.com,,,
 22a3c79a-3ee7-4603-8d57-35b392a5d7a5,mediocre.gifts,available,9.99,,high,low,8,name.com,,,
-3869670a-b8c3-4dc5-8014-1a9b8792991f,adopted.gifts,available,14.99,46.99,low,low,7,name.com,,,
-def749b3-16e1-4259-88f4-e511f32bed2a,inon.gifts,available,9.99,,medium,low,5,name.com,,,
-0d2ca4a9-3527-4f80-89bc-d2ae5ea0200a,threadbare.gifts,available,14.99,46.99,low,low,10,name.com,,,08/08/2026 11:10
-b33fa215-6f2e-4c6d-8b86-b9f54e12b601,accented.gifts,available,14.99,46.99,low,low,8,name.com,,,
+3869670a-b8c3-4dc5-8014-1a9b8792991f,adopted.gifts,available,14.99,46.99,high,low,7,name.com,,,
+0d2ca4a9-3527-4f80-89bc-d2ae5ea0200a,threadbare.gifts,available,14.99,46.99,medium,low,10,name.com,,,08/08/2026 11:10
+b33fa215-6f2e-4c6d-8b86-b9f54e12b601,accented.gifts,available,14.99,46.99,medium,low,8,name.com,,,
 8fa8bf48-4a2e-48d6-bc5f-6b4c32d22a7b,alpine.gifts,available,,,high,low,6,,,,
-a194b29b-52b5-4c8f-beef-b5fb0e727fc4,primarily.gifts,available,9.99,,medium,low,9,name.com,,,
+a194b29b-52b5-4c8f-beef-b5fb0e727fc4,primarily.gifts,available,9.99,,high,low,9,name.com,,,
 b1a0358a-f7c2-4861-833a-174a2aec206c,poker.gifts,premium,242,242,high,medium,5,namesilo,,,
-dcd09e9a-b5c7-40e4-a958-9b5355472e89,bankholiday.gifts,available,9.99,,high,low,12,name.com,,,
 50387618-0208-4e04-b3e4-8c6a0e88f41f,tax.gifts,premium,242,242,high,medium,3,namesilo,,,
 722c94f6-4e2e-4bc6-bcb5-cb3d98265942,extension.gifts,available,9.99,,high,low,9,name.com,,,
-82b5e41d-313d-449a-8119-64ddca4a6b86,autophytic.gifts,available,14.99,46.99,low,low,10,name.com,,,07/08/2026 20:57
-8d5831c2-7924-492f-9821-04fb0baeafdd,bankmachine.gifts,available,9.99,,medium,low,12,name.com,,,
-15369cc8-4f09-4cce-854d-9d90af8adc0e,addlepated.gifts,available,14.99,46.99,low,low,10,name.com,,,
-c3f8c121-ea50-4b53-890c-a5570889f8bd,nothanks.gifts,available,9.99,,medium,low,9,name.com,,,
 8f94d0db-6a59-4d6d-be79-85da5dd6b954,aim.gifts,premium,78.54,78.54,high,low,3,namesilo,,,
-33a65590-5b57-43bc-b271-ee64fdf58f46,autarkic.gifts,available,14.99,46.99,low,low,8,name.com,,,07/08/2026 18:47
-016e44dd-ece2-4f5a-b0b7-33a2e2a06fe3,taxshift.gifts,available,9.99,,medium,low,9,name.com,,,
+33a65590-5b57-43bc-b271-ee64fdf58f46,autarkic.gifts,available,14.99,46.99,medium,low,8,name.com,,,07/08/2026 18:47
 2a6b507a-38e2-4545-8331-4ec00ff1ad87,grandad.gifts,available,9.99,,high,low,7,name.com,,,
-a72f1089-3b1d-4c5f-98de-1151b11b763a,putaway.gifts,available,9.99,,medium,low,8,name.com,,,
-1c44a9b4-94b7-4eed-80cc-b13cf5de5c0e,getthis.gifts,available,9.99,,medium,low,8,name.com,,,
 b1ca2e10-81c4-410c-bf34-1af924753dd6,fee.gifts,premium,38.94,38.94,high,low,3,namesilo,,,
 5d49d934-0d57-49f7-ab76-872af593be63,train.gifts,available,9.99,,high,low,5,name.com,,,
-dae922a4-0eb5-4d99-8497-5778bbc53d9e,standback.gifts,available,9.99,,low,low,10,name.com,,,
-ad128d79-2d55-4117-bc23-af4c055fc8eb,ringed.gifts,available,36.99,36.99,low,low,6,namesilo,,,
-aa493fc2-735c-479e-bf8a-9d8e88080853,bats.gifts,available,14.99,46.99,low,low,4,name.com,,,06/08/2026 20:31
+ad128d79-2d55-4117-bc23-af4c055fc8eb,ringed.gifts,available,36.99,36.99,high,low,6,namesilo,,,
+aa493fc2-735c-479e-bf8a-9d8e88080853,bats.gifts,available,14.99,46.99,high,low,4,name.com,,,06/08/2026 20:31
 7022eba5-e533-4239-8973-98c2680e65a7,los.gifts,premium,82.5,,high,low,3,name.com,,,
-07727776-b176-4977-b430-4af20ecefca7,loco.gifts,available,14.99,46.99,low,low,4,name.com,,,06/08/2026 21:13
+07727776-b176-4977-b430-4af20ecefca7,loco.gifts,available,14.99,46.99,high,low,4,name.com,,,06/08/2026 21:13
 e775178c-5706-4533-99c8-6e75c40151e2,lobby.gifts,available,9.99,,high,low,5,name.com,,,
-d3cb4649-0bcc-4863-8db0-64427a431530,expand.gifts,available,9.99,46.99,high,low,6,name.com,,,
 baaaf96a-5d69-4a39-a0b3-15868a9dec61,rid.gifts,premium,38.94,38.94,high,low,3,namesilo,,,
-8c375f77-bad8-494b-a0bc-3a8f7e549f8e,ancestor.gifts,available,14.99,46.99,medium,low,8,name.com,,,
+8c375f77-bad8-494b-a0bc-3a8f7e549f8e,ancestor.gifts,available,14.99,46.99,high,low,8,name.com,,,
 cb28d2e0-c10c-4725-838d-5198e81b0bb5,toilet.gifts,available,9.99,,high,low,6,name.com,,,
-21db601c-8215-4c17-a2b1-b72a56789f7c,contrasting.gifts,available,9.99,,medium,low,11,name.com,,,
+21db601c-8215-4c17-a2b1-b72a56789f7c,contrasting.gifts,available,9.99,,high,low,11,name.com,,,
 e95d11bb-0722-461e-9667-69b2142a237e,complement.gifts,available,9.99,,high,low,10,name.com,,,
-a79fb072-15d5-4a37-9796-2cad0654936c,eyrie.gifts,available,14.99,46.99,low,low,5,name.com,,,
-b6cf6e53-9021-4857-a30e-221b74d97720,publicschool.gifts,available,9.99,,high,low,13,name.com,,,
-3f297b6e-3fd8-4c98-8aef-2f7cdc4fa80a,childlabor.gifts,available,9.99,,medium,low,11,name.com,,,
-98478e13-845a-48ac-a4d4-494a1e24e6f9,askew.gifts,available,14.99,46.99,low,low,5,name.com,,,07/08/2026 03:31
+a79fb072-15d5-4a37-9796-2cad0654936c,eyrie.gifts,available,14.99,46.99,high,low,5,name.com,,,
+98478e13-845a-48ac-a4d4-494a1e24e6f9,askew.gifts,available,14.99,46.99,medium,low,5,name.com,,,07/08/2026 03:31
 31204e2f-37e4-4330-8de7-27a1712e915e,masculine.gifts,available,9.99,,high,low,9,name.com,,,
-0d540355-3c6e-4473-8773-1492295f1c88,appointed.gifts,available,14.99,46.99,low,low,9,name.com,,,06/08/2026 07:21
+0d540355-3c6e-4473-8773-1492295f1c88,appointed.gifts,available,14.99,46.99,high,low,9,name.com,,,06/08/2026 07:21
 637690e2-732d-42d9-a00f-6a41200c7bd3,nike.gifts,available,,,high,low,4,,,,
-1e7402b4-48e4-42df-8889-09f8ef492a0e,atactic.gifts,available,14.99,46.99,low,low,7,name.com,,,07/08/2026 12:37
 7db2b343-560a-4ad0-9792-f300beea8150,kid.gifts,resell,,,high,low,3,Dynadot Inc,25/01/2021 04:53,25/01/2027 04:53,
-4e887a81-c0e4-4d1d-998c-d00de3549329,barrelled.gifts,available,14.99,46.99,low,low,9,name.com,,,08/08/2026 20:51
-0d6fa59c-afc2-443e-bd64-645d28743e3b,webbrowser.gifts,available,9.99,,high,low,11,name.com,,,
 46a079ab-bc12-461a-b610-945423781a95,wiring.gifts,available,9.99,,high,low,6,name.com,,,
-c89063b4-4429-4423-bd0f-1bb074e8c2b7,champion.gifts,available,36.99,36.99,medium,low,8,namesilo,,,21/09/2026 17:32
-cf94fa64-06ac-4a3b-95d7-77dc6dccb34c,flooded.gifts,available,14.99,46.99,low,low,7,name.com,,,08/08/2026 00:23
-7e86b05c-272f-4060-9c32-761e2df83ea6,succinct.gifts,available,38.48,47.48,medium,low,8,namecheap,,,23/09/2026 17:07
-2fcc76ae-0376-4546-9679-6213ce558dd8,surfcity.gifts,available,9.99,,medium,low,9,name.com,,,
+cf94fa64-06ac-4a3b-95d7-77dc6dccb34c,flooded.gifts,available,14.99,46.99,high,low,7,name.com,,,08/08/2026 00:23
 e85b431f-64c3-4e27-a2f6-9cf8dbc9411c,spirited.gifts,available,9.99,,high,low,8,name.com,,,
 0e9f61b4-a99f-4f44-b86e-5caf21eb5f7f,meter.gifts,available,9.99,,high,low,5,name.com,,,
-02d08ff3-ec64-4ed5-aadb-6648bff61b11,leaveout.gifts,available,9.99,,medium,low,9,name.com,,,
-92e3571f-8359-4474-89b2-8c3e494f525d,basiscopic.gifts,available,14.99,46.99,low,low,10,name.com,,,08/08/2026 22:48
-475ee89c-7a98-486d-b35b-52d0a76094dc,altricial.gifts,available,14.99,46.99,low,low,9,name.com,,,
 fdff9ea2-b40f-4e78-bfe3-3a695d3f7ffd,landing.gifts,available,9.99,,high,low,7,name.com,,,
-d6d2390b-cc62-4d29-97e8-3c0bcde6a4e6,photographicmemory.gifts,available,9.99,,high,low,19,name.com,,,
-91d66e34-4616-45c3-b272-290eadc05b13,lordloveyou.gifts,available,9.99,,medium,low,13,name.com,,,
-db8e8f1f-d464-41fb-979b-58aefd67fa66,them.gifts,available,9.99,,medium,low,4,name.com,,,
-0645dacd-fbc4-4241-811b-d4f62919b5a4,childprostitution.gifts,available,9.99,,medium,low,18,name.com,,,
-db5c4b4b-31ec-4851-888f-a7e1ab294bf3,serious.gifts,available,9.99,,high,low,7,name.com,,,
-3641c094-cc9f-4462-b682-a906f06d8d6b,simple.gifts,premium,512,512,medium,low,6,namesilo,,,23/09/2026 05:02
-b92c90c2-3a27-4f09-8c6e-88dc0c2f3fa8,thirdperson.gifts,available,9.99,,low,low,12,name.com,,,
-322b313a-ef9f-4748-a470-bf2724068f45,comfortably.gifts,available,9.99,,medium,low,11,name.com,,,
-3f9b70fc-ce40-4378-99c2-ee98f0aa41f1,motherfukkah.gifts,available,9.99,,medium,low,12,name.com,,,
-a7f0e2e9-e1df-4de0-b536-41e414c797b2,simpler.gifts,available,9.99,,medium,low,7,name.com,,,
-48f17cad-5e20-4f13-93c2-1c6ccd32f9c6,hillcity.gifts,available,9.99,,medium,low,9,name.com,,,
+db8e8f1f-d464-41fb-979b-58aefd67fa66,them.gifts,available,9.99,,high,low,4,name.com,,,
+322b313a-ef9f-4748-a470-bf2724068f45,comfortably.gifts,available,9.99,,high,low,11,name.com,,,
+a7f0e2e9-e1df-4de0-b536-41e414c797b2,simpler.gifts,available,9.99,,high,low,7,name.com,,,
 aecf2bc4-b635-40d3-a2df-5f0bcbc6f5d2,tragic.gifts,available,9.99,,high,low,6,name.com,,,
-31178d44-edfd-4da6-86de-a9d124a3842a,anaerobic.gifts,available,14.99,46.99,low,low,9,name.com,,,
-c5da3439-0ff5-45e0-a51f-92953a200b03,christmastree.gifts,available,9.99,,high,low,14,name.com,,,
-70a56b96-19b0-44ae-a338-347599f3e897,dishup.gifts,available,9.99,,high,low,7,name.com,,,
+31178d44-edfd-4da6-86de-a9d124a3842a,anaerobic.gifts,available,14.99,46.99,medium,low,9,name.com,,,
 91e5ea62-6460-44b4-84ba-be871adabd90,obtain.gifts,available,9.99,,high,low,6,name.com,,,
-b2205e52-5ac2-4d4d-a7a1-7b21075dbfb3,gummyworm.gifts,available,9.99,,high,low,10,name.com,,,
-f42ccb79-49e7-44f5-ad40-1945bb96e6e3,sixer.gifts,available,14.99,46.99,low,low,5,name.com,,,
-731ab81f-f8b2-4174-b480-cbe8bd6bc39f,mixedup.gifts,available,14.99,46.99,low,low,8,name.com,,,07/08/2026 12:12
-795df17f-2fc6-47c6-810f-c8e20278c547,irestmycase.gifts,available,9.99,,medium,low,14,name.com,,,
-605b6233-fa71-4834-9d28-bef3d1683bd3,spiderlike.gifts,available,14.99,46.99,low,low,10,name.com,,,06/08/2026 11:52
-5c276b51-9194-4998-ba10-e1baedc460bb,anarchic.gifts,available,14.99,46.99,low,low,8,name.com,,,
+f42ccb79-49e7-44f5-ad40-1945bb96e6e3,sixer.gifts,available,14.99,46.99,medium,low,5,name.com,,,
+5c276b51-9194-4998-ba10-e1baedc460bb,anarchic.gifts,available,14.99,46.99,medium,low,8,name.com,,,
 cec742a7-3ffc-49f5-8ce5-692089c6c120,lastly.gifts,available,9.99,,medium,low,6,name.com,,,
-bf322c43-f486-44d0-b42c-3fd09856d468,stratified.gifts,available,14.99,46.99,low,low,10,name.com,,,09/08/2026 06:36
-60557781-d374-4b2d-b09e-a01ae6cc1e37,teastrainer.gifts,available,9.99,,high,low,12,name.com,,,
+bf322c43-f486-44d0-b42c-3fd09856d468,stratified.gifts,available,14.99,46.99,medium,low,10,name.com,,,09/08/2026 06:36
 b58acbf9-6d4f-4a3e-a8bd-6930b0c36206,suspend.gifts,available,9.99,,high,low,7,name.com,,,
-77f26087-0424-4000-bd4b-ba051d979037,wedge.gifts,available,9.99,,medium,low,5,name.com,,,
-1d0a9332-60ff-424b-a338-d5a5177342c5,channukkah.gifts,available,9.99,,medium,low,10,name.com,,,
-00bd62f8-1252-4eb1-8a7c-8f8346e6e17c,pyramid.gifts,available,36.99,36.99,medium,low,7,namesilo,,,08/09/2026 13:53
-7db39060-900d-4af3-959d-7a74122d5ced,makeright.gifts,available,9.99,,high,low,10,name.com,,,
-eb690032-eea0-4ee1-8873-ce023c2cbcd0,auspicious.gifts,available,14.99,46.99,medium,low,10,name.com,,,22/09/2026 13:12
-b354eb6f-965b-4bf4-99c3-a9b76dad980a,skyblue.gifts,available,14.99,46.99,medium,low,8,name.com,,,08/08/2026 03:14
-cd1d6251-c49d-4af1-b966-e832a8ad1c5f,improvize.gifts,available,14.99,46.99,low,low,9,name.com,,,
-38c23013-772c-40bb-aae5-3b774f67acae,midget.gifts,available,14.99,46.99,low,low,6,name.com,,,08/08/2026 14:19
-7d1f5ec8-bb1f-4d6e-a63f-cda9739a9e4b,letalone.gifts,available,9.99,,medium,low,9,name.com,,,
-b884d0f8-f0ee-4976-9c63-3b3eacd5d892,lovely.gifts,resell,,,medium,low,6,"Sav.com, LLC",17/08/2026 20:42,17/08/2027 20:42,21/09/2026 19:31
+77f26087-0424-4000-bd4b-ba051d979037,wedge.gifts,available,9.99,,high,low,5,name.com,,,
+00bd62f8-1252-4eb1-8a7c-8f8346e6e17c,pyramid.gifts,available,36.99,36.99,high,low,7,namesilo,,,08/09/2026 13:53
+38c23013-772c-40bb-aae5-3b774f67acae,midget.gifts,available,14.99,46.99,high,low,6,name.com,,,08/08/2026 14:19
 94d6498e-e2d5-4b47-92e0-05d18a55db94,portable.gifts,available,9.99,,high,low,8,name.com,,,
-240573c6-485c-4346-ac80-1421673af863,adsorptive.gifts,available,14.99,46.99,low,low,10,name.com,,,
-79642eec-e78c-4dab-b2ea-1b37cec37c51,compact.gifts,available,36.99,36.99,medium,low,7,namesilo,,,23/09/2026 16:18
 2f6c06a9-9ae5-4ff7-8f05-db0469adc57b,neighbour.gifts,available,9.99,,high,low,9,name.com,,,
-5afa90e9-dbde-44e4-a746-474525fd6d0a,achaean.gifts,available,14.99,46.99,low,low,7,name.com,,,
-335886c4-a426-4e0e-ad96-f6c9611a2278,westindies.gifts,available,9.99,,low,low,11,name.com,,,
-d3dd178a-4882-4949-b0ae-56bd12e8f330,gobothways.gifts,available,9.99,,medium,low,12,name.com,,,
+5afa90e9-dbde-44e4-a746-474525fd6d0a,achaean.gifts,available,14.99,46.99,medium,low,7,name.com,,,
 147b26d5-64f7-41bc-9069-3933b40460b5,undesirable.gifts,available,9.99,,high,low,11,name.com,,,
-bd168991-42ac-4703-b4fb-ffba406aef90,diskbrake.gifts,available,9.99,,medium,low,10,name.com,,,
 a61b4f36-d068-4d96-9fd0-3d45485ca86e,taken.gifts,available,9.99,,high,low,5,name.com,,,
-84f1b4e5-c14d-46bd-93fc-19e6670f7e3e,spare.gifts,available,9.99,,medium,low,5,name.com,,,
 c63426f4-b0ee-4242-9f2c-f3457458f1ec,appeal.gifts,available,9.99,,high,low,6,name.com,,,
-59c5497a-151f-418f-824f-3dbbbec534f4,lxvii.gifts,available,14.99,46.99,low,low,5,name.com,,,
-dba1921b-193c-421b-9fdf-d5664f08a945,adducting.gifts,available,14.99,46.99,low,low,9,name.com,,,
+59c5497a-151f-418f-824f-3dbbbec534f4,lxvii.gifts,available,14.99,46.99,medium,low,5,name.com,,,
 22131de9-5aca-4863-a178-b4d477f97934,quieter.gifts,available,9.99,,high,low,7,name.com,,,
 fcee4739-74fc-4d9d-b7e6-358d82de4320,basis.gifts,available,9.99,,high,low,5,name.com,,,
-df17754f-4805-4c98-912c-9b80da616587,fucking.gifts,available,9.99,,medium,medium,7,name.com,,,
 6adcad7b-8fa2-4e75-a33d-11c150d2787d,caught.gifts,available,9.99,,high,low,6,name.com,,,
-1995c137-2c4a-45f2-885b-4cb3c10f6029,paint.gifts,available,9.99,,medium,low,5,name.com,,,
-f89fa62b-3017-48db-9ff4-0cafe87764a4,third.gifts,available,14.99,46.99,low,low,5,name.com,,,
-a5b30da2-07cf-441f-a3b6-de9592125b82,shakealeg.gifts,available,9.99,,low,low,11,name.com,,,
-98f30a03-c0f2-4acf-8110-65c5cc26d146,borderon.gifts,available,9.99,,medium,low,9,name.com,,,
+1995c137-2c4a-45f2-885b-4cb3c10f6029,paint.gifts,available,9.99,,high,low,5,name.com,,,
+f89fa62b-3017-48db-9ff4-0cafe87764a4,third.gifts,available,14.99,46.99,high,low,5,name.com,,,
 da35e8d3-022e-46a3-bed5-83264a6f5253,infant.gifts,available,9.99,,high,low,6,name.com,,,
-bdb3e0bb-c0dc-4584-a677-379a333e2576,outofaction.gifts,available,9.99,,low,low,13,name.com,,,
 7b2c6517-1c7d-414a-92be-5c15e688c091,advocate.gifts,available,9.99,,high,low,8,name.com,,,
 b272a77e-ebbe-4853-9d01-89cf350ffe52,astonish.gifts,available,9.99,,high,low,8,name.com,,,
 7bca9255-e566-4950-86b9-d5bf729bcb4b,wear.gifts,premium,242,242,high,low,4,namesilo,,,
 e3f2a704-d889-456f-a136-ba1a41db9d68,bedhead.gifts,available,9.99,,medium,low,8,name.com,,,
 6a4aa490-0302-4a57-9272-1f5ef0bf297f,optic.gifts,available,9.99,,high,low,5,name.com,,,
-e4fd225b-3c0e-4875-8726-5496d4021ed9,alpestrine.gifts,available,14.99,46.99,low,low,10,name.com,,,
-0ae81965-f90f-42c7-aadb-6f6710b7e154,remove.gifts,available,14.99,46.99,medium,low,6,name.com,,,21/09/2026 14:40
 72a2704c-d6e0-4c09-bbb2-d7b933e16885,appropriately.gifts,available,9.99,,medium,low,13,name.com,,,
 2f1f99b1-05a4-4615-8ad3-e79a8ed92618,david.gifts,available,9.99,,high,medium,5,name.com,,,
 cce73d4c-f576-4360-b625-9eaceeffc531,add.gifts,premium,78.54,78.54,high,low,3,namesilo,,,
 50f49bdd-c937-42c1-bd5e-8485bc965df3,brighten.gifts,available,9.99,,high,low,8,name.com,,,
-d390965d-2411-4640-8a12-4ea5d2957e28,ataxic.gifts,available,14.99,46.99,low,low,6,name.com,,,07/08/2026 12:32
-66887ab7-f91c-49c2-913c-0bbdf22fc041,alimentary.gifts,available,14.99,46.99,low,low,10,name.com,,,
-6202466c-bfc8-41c7-bab8-d49b065a4b9c,zero.gifts,available,36.99,36.99,medium,low,4,namesilo,,,21/09/2026 10:32
-f5646d93-a4e7-4478-a04a-6ab160a2a283,binary.gifts,available,36.99,36.99,medium,low,6,namesilo,,,22/09/2026 20:45
-8519113c-9c61-4c94-ba88-f2392a1f9908,dizzy.gifts,available,14.99,46.99,low,low,5,name.com,,,
-352551ee-7328-448e-97d0-046cf8e180e8,disabled.gifts,available,9.99,46.99,high,low,8,name.com,,,
-574f89cb-61b1-46e8-8771-9912bfdbd854,firstaid.gifts,available,9.99,,high,low,9,name.com,,,
+d390965d-2411-4640-8a12-4ea5d2957e28,ataxic.gifts,available,14.99,46.99,medium,low,6,name.com,,,07/08/2026 12:32
+66887ab7-f91c-49c2-913c-0bbdf22fc041,alimentary.gifts,available,14.99,46.99,high,low,10,name.com,,,
+8519113c-9c61-4c94-ba88-f2392a1f9908,dizzy.gifts,available,14.99,46.99,high,low,5,name.com,,,
 f4ec1d58-6a20-419e-b82a-d2ff490d9bf6,solo.gifts,available,,,high,low,4,,,,
-92059008-3627-4ab6-9442-83989ded98a1,fungicidal.gifts,available,14.99,46.99,low,low,10,name.com,,,
-dd6c0716-c3eb-4f44-af53-35fa40fdacb3,possibly.gifts,available,9.99,,medium,low,8,name.com,,,
+dd6c0716-c3eb-4f44-af53-35fa40fdacb3,possibly.gifts,available,9.99,,high,low,8,name.com,,,
 d7e7ec5a-05e3-47fc-bb9e-abfe079cf51d,squall.gifts,available,9.99,,high,low,6,name.com,,,
 3a131ace-0e63-4f5f-896f-e7e0df2b703f,teammate.gifts,available,9.99,,high,low,8,name.com,,,
-52adbbfc-a631-4214-aabc-44916d3f19d7,injure.gifts,available,9.99,,medium,low,6,name.com,,,
-e296cd97-158f-471b-900e-25c4f07c6265,peacecorps.gifts,available,9.99,,low,low,11,name.com,,,
-fba0b091-6503-40b7-8911-d3cefb6447fe,starchlike.gifts,available,14.99,46.99,low,low,10,name.com,,,
-abc9200b-3a95-4dec-b917-cd2f7b8739ed,accountstatement.gifts,available,9.99,,low,low,17,name.com,,,
-310b823f-69db-452c-9195-da2aaf68e55d,adjunct.gifts,available,14.99,46.99,low,low,7,name.com,,,
-b4e2c271-7530-4850-8869-080d1997d3f5,partyhat.gifts,available,9.99,,high,low,9,name.com,,,
-26ef699d-6eb2-46ec-ac3e-bd4ae2d1dab9,aphakic.gifts,available,14.99,46.99,low,low,7,name.com,,,05/08/2026 22:56
-96927ad4-ba43-4cd9-95ec-aa2207630633,authorial.gifts,available,14.99,46.99,low,low,9,name.com,,,07/08/2026 16:19
+52adbbfc-a631-4214-aabc-44916d3f19d7,injure.gifts,available,9.99,,high,low,6,name.com,,,
+310b823f-69db-452c-9195-da2aaf68e55d,adjunct.gifts,available,14.99,46.99,high,low,7,name.com,,,
+96927ad4-ba43-4cd9-95ec-aa2207630633,authorial.gifts,available,14.99,46.99,medium,low,9,name.com,,,07/08/2026 16:19
 d7754e63-9768-4b9c-803f-1e2f89259937,overjoy.gifts,available,9.99,,high,low,7,name.com,,,
-40f0683d-a4b9-4c61-baf7-6584a967c3b0,claire.gifts,available,9.99,,medium,low,6,name.com,,,
-d25ac71c-8ac2-471f-b255-c4eb2985498f,endearing.gifts,available,38.48,47.48,medium,low,9,namecheap,,,21/09/2026 19:24
+40f0683d-a4b9-4c61-baf7-6584a967c3b0,claire.gifts,available,9.99,,high,low,6,name.com,,,
 14323dc2-e40e-4b20-a3ea-bd3b1acb496d,roman.gifts,available,9.99,,high,low,5,name.com,,,
-6636f679-19b0-4c9f-9240-2e8b6e7fe655,midjanuary.gifts,available,9.99,,high,low,11,name.com,,,
-9ef95370-61d9-42ff-8b5a-7021b066568e,rightaway.gifts,available,36.99,36.99,low,low,10,namesilo,,,19/09/2026 11:46
 786ca6b9-f107-40cc-b49d-8a8315d30238,drown.gifts,available,9.99,,medium,low,5,name.com,,,
-94937752-cd53-4676-bd4b-24ea72783c15,welfarecheck.gifts,available,9.99,,medium,low,13,name.com,,,
 52275e86-57d5-48a9-ba5a-08f031d0ba3f,services.gifts,premium,85.8,85.8,high,low,8,namecheap,,,
-8067156f-f800-4d9f-a69f-721889e3b46c,hypocritically.gifts,available,9.99,,medium,low,14,name.com,,,
 c650a2bd-74c8-40fe-a0ee-68fd38ce5042,tons.gifts,resell,,,high,low,4,"GoDaddy.com, LLC",05/06/2025 01:44,05/06/2026 01:44,
-f3040340-fed5-40fd-8384-c2c6671ad0aa,haste.gifts,available,9.99,,medium,low,5,name.com,,,
-a8dcd61d-d4bd-4a78-842a-59ccf9bf2615,airdry.gifts,available,14.99,46.99,low,low,7,name.com,,,
-28fe79cc-6d6a-4b42-919f-56962a28efd2,runabout.gifts,available,9.99,,medium,low,9,name.com,,,
+f3040340-fed5-40fd-8384-c2c6671ad0aa,haste.gifts,available,9.99,,high,low,5,name.com,,,
+28fe79cc-6d6a-4b42-919f-56962a28efd2,runabout.gifts,available,9.99,,high,low,9,name.com,,,
 70a0324d-544d-42c5-ab80-fce531d38a0a,shrek.gifts,available,,,high,low,5,,,,
-745be2f5-633e-4e35-a7cc-86e9d2d23033,indentured.gifts,available,14.99,46.99,low,low,10,name.com,,,06/08/2026 08:34
-208468bd-ad4e-49ba-ae51-49213ca60a57,forecloser.gifts,available,9.99,,medium,low,10,name.com,,,
-0823bd1a-94ac-4d58-b7f0-e789ee7beaeb,breathefreely.gifts,available,9.99,,high,low,14,name.com,,,
-35b8c3c3-a0c1-466d-a001-7cc8ad02e1ba,fervent.gifts,available,14.99,46.99,low,low,7,name.com,,,06/08/2026 16:14
-963a465d-612f-47e8-9d68-85e0b61f9f8d,poignant.gifts,available,14.99,46.99,low,low,8,name.com,,,
-4b0470c5-fdc3-43c4-b216-5e8d2ef05f1f,believeyoume.gifts,available,9.99,,medium,low,14,name.com,,,
+745be2f5-633e-4e35-a7cc-86e9d2d23033,indentured.gifts,available,14.99,46.99,medium,low,10,name.com,,,06/08/2026 08:34
+35b8c3c3-a0c1-466d-a001-7cc8ad02e1ba,fervent.gifts,available,14.99,46.99,high,low,7,name.com,,,06/08/2026 16:14
+963a465d-612f-47e8-9d68-85e0b61f9f8d,poignant.gifts,available,14.99,46.99,high,low,8,name.com,,,
 7520f468-2a01-4a4b-9c5d-9131bdbb097f,dignitary.gifts,available,9.99,,high,low,9,name.com,,,
 92bd85dd-99a0-4165-81a4-80a67b24bc03,asinine.gifts,available,14.99,46.99,low,low,7,name.com,,,07/08/2026 02:35
-0b7886c3-6f54-40b2-b605-8afb62dd0148,justabout.gifts,available,36.99,36.99,low,low,10,namesilo,,,21/09/2026 14:09
-4d586d0e-f45d-49f8-887b-296b8f939da0,closetogether.gifts,available,9.99,,medium,low,14,name.com,,,
-b9472c8b-ccea-493f-8781-699c0bde9b59,collarbone.gifts,available,9.99,,medium,low,11,name.com,,,
-729527ae-8816-4547-9a56-c584b5b5384d,execrable.gifts,available,14.99,46.99,low,low,9,name.com,,,
-64045fe6-1efc-43e1-be23-7cc828282e56,education.gifts,premium,242,242,medium,low,9,namesilo,,,23/09/2026 04:28
+b9472c8b-ccea-493f-8781-699c0bde9b59,collarbone.gifts,available,9.99,,high,low,11,name.com,,,
+729527ae-8816-4547-9a56-c584b5b5384d,execrable.gifts,available,14.99,46.99,medium,low,9,name.com,,,
 363f0c35-ec63-4442-a009-a26115a1741c,gym.gifts,premium,45.99,,high,low,3,name.com,,,
-d191f010-18c6-4b76-a087-d4032538231c,bflat.gifts,available,9.99,,medium,low,6,name.com,,,
-3a11ff32-70d5-4414-b870-4f5b1b0dca77,makegood.gifts,available,9.99,,high,low,9,name.com,,,
-6a5e43b2-dfde-45ae-a52c-54d817c3defc,cockmaster.gifts,available,9.99,,medium,low,10,name.com,,,
-5e7dcb3e-5598-4f3c-9401-9a44462c2f69,blades.gifts,available,9.99,,medium,low,6,name.com,,,
-d292eec8-8f37-402f-8366-b644b1da3b0e,styptic.gifts,available,14.99,46.99,low,low,7,name.com,,,07/08/2026 10:00
-f48d6d94-e21e-4a90-b193-f53bb2f5d749,arbitral.gifts,available,14.99,46.99,low,low,8,name.com,,,06/08/2026 12:48
-51a33b34-e2e4-4b5e-b351-c403c7b3bc10,ascension.gifts,available,14.99,46.99,low,low,9,name.com,,,07/08/2026 00:30
-bfeb238b-18b4-4864-b3cb-bcacc3db0950,player.gifts,available,36.99,36.99,low,low,6,namesilo,,,23/09/2026 07:45
-688ec761-b94e-41b5-85f1-f18a413aca1b,backtosquareone.gifts,available,9.99,,high,low,18,name.com,,,
-f9d45b14-a3f1-4d49-bbe4-b5132744722e,trees.gifts,available,9.99,,medium,low,5,name.com,,,
-6f420887-1235-4fea-8074-44a2c0dda68a,arillate.gifts,available,14.99,46.99,low,low,8,name.com,,,06/08/2026 19:14
-2433e206-92ad-4149-a51f-cb26ddfcddf7,zoologicalpark.gifts,available,9.99,,high,low,15,name.com,,,
-8ceebcba-692e-4982-bb47-54bc88514d15,annoyed.gifts,available,36.99,36.99,low,low,7,namesilo,,,22/09/2026 05:18
+5e7dcb3e-5598-4f3c-9401-9a44462c2f69,blades.gifts,available,9.99,,high,low,6,name.com,,,
+d292eec8-8f37-402f-8366-b644b1da3b0e,styptic.gifts,available,14.99,46.99,medium,low,7,name.com,,,07/08/2026 10:00
+f48d6d94-e21e-4a90-b193-f53bb2f5d749,arbitral.gifts,available,14.99,46.99,medium,low,8,name.com,,,06/08/2026 12:48
+51a33b34-e2e4-4b5e-b351-c403c7b3bc10,ascension.gifts,available,14.99,46.99,high,low,9,name.com,,,07/08/2026 00:30
+f9d45b14-a3f1-4d49-bbe4-b5132744722e,trees.gifts,available,9.99,,high,low,5,name.com,,,
 106c070b-aa5b-419e-ba30-fa8676b505dc,describe.gifts,available,9.99,,high,low,8,name.com,,,
-30bb513c-f9c4-4a1a-bc50-d70e88333adb,christmascarol.gifts,available,9.99,,high,low,15,name.com,,,
-1fcecd3e-40a3-4779-911c-658aa76fcdf9,airdried.gifts,available,14.99,46.99,low,low,9,name.com,,,
-5c11dc84-e01b-4abf-8a83-089381a1ef47,axis.gifts,available,9.99,,medium,medium,4,name.com,,,
-fda2b3a3-b306-480b-9c87-f80ef4fecdab,flack.gifts,available,14.99,46.99,low,low,5,name.com,,,
+5c11dc84-e01b-4abf-8a83-089381a1ef47,axis.gifts,available,9.99,,high,medium,4,name.com,,,
+fda2b3a3-b306-480b-9c87-f80ef4fecdab,flack.gifts,available,14.99,46.99,medium,low,5,name.com,,,
 0869a992-91f1-4bb3-bdf7-260124765008,wrist.gifts,available,9.99,,high,low,5,name.com,,,
-957dad7c-358b-47b7-a97b-11e94699f56b,confusing.gifts,available,38.48,47.48,low,low,9,namecheap,,,23/09/2026 20:14
-45919c35-7aac-4593-98a9-b3da46a6ce94,ambient.gifts,available,14.99,46.99,medium,low,7,name.com,,,
+45919c35-7aac-4593-98a9-b3da46a6ce94,ambient.gifts,available,14.99,46.99,high,low,7,name.com,,,
 b493a914-b9d4-4cf7-bb26-81afcc5b5928,inception.gifts,available,9.99,,high,low,9,name.com,,,
+c8752a95-df36-4e12-8427-fac66fa55ef8,lend.gifts,available,9.99,,high,low,4,name.com,,,
+dd355aa4-7030-49b8-8e34-188e321eb32b,yuck.gifts,available,9.99,,high,low,4,name.com,,,
+aaba9402-79ae-4379-8f84-c7ecc9ddc514,fever.gifts,available,9.99,,high,low,5,name.com,,,
+92a8b260-cad7-423f-819b-993374af3b44,rigorous.gifts,available,9.99,,high,low,8,name.com,,,
+3e168afc-d20b-49ac-a0fd-3efa549f97e0,admiration.gifts,available,9.99,,high,low,10,name.com,,,
+61e63714-a0a2-4e9a-a4b0-a7f29f3618e0,dollar.gifts,premium,38.94,38.94,high,low,6,namesilo,,,
+768f8284-31e1-4a36-aaa9-722ba54e6b5e,alvine.gifts,available,14.99,46.99,medium,low,6,name.com,,,
+6800c416-0ea9-4eb6-8374-afc780e80f6c,sold.gifts,available,9.99,,high,low,4,name.com,,,
+e29aad8d-9cd5-4b51-9a0e-acf6c2b1fe86,abc.gifts,premium,42.9,42.9,high,medium,3,namecheap,,,
+df7d4659-e40c-4cf2-8c03-e2b231a4699c,autarchic.gifts,available,14.99,46.99,medium,low,9,name.com,,,07/08/2026 18:36
+883ea8ac-99ed-40c5-a793-3577d51a1d5d,specification.gifts,available,9.99,,high,low,13,name.com,,,
+271d8aa3-1e85-47e8-9641-edaf2ae71e40,protected.gifts,available,9.99,,high,low,9,name.com,,,
+dcb5c5ae-f51a-4650-af5d-a0cfc94231de,measles.gifts,available,9.99,,high,low,7,name.com,,,
+dfbfa004-73c1-426b-852a-52b65fc3904d,musical.gifts,premium,85.8,85.8,high,low,7,namecheap,,,
+113d8381-9f9c-48c8-bfa1-5ac994a9ff27,fate.gifts,available,9.99,,high,low,4,name.com,,,
+c8d14b68-26ce-4069-8eeb-fa27a2ad5a3a,nearly.gifts,available,9.99,,high,low,6,name.com,,,
+d1d1d921-b0dd-4846-aa26-f9796f61ac38,nutty.gifts,available,14.99,46.99,high,low,5,name.com,,,06/08/2026 21:27
+ad131e46-3037-4112-8959-59d716e0820b,lockbox.gifts,available,9.99,,high,low,7,name.com,,,
+d7e29c52-bebb-4e74-9754-12fed26c3af0,seats.gifts,available,9.99,,high,low,5,name.com,,,
+63041f1f-3f93-40aa-9eaa-bd32c30dd4d0,bald.gifts,available,14.99,46.99,medium,low,4,name.com,,,08/08/2026 09:16
+7ad07ce8-267e-4936-81e7-ddc559879c83,experimentally.gifts,available,9.99,,medium,low,14,name.com,,,
+6869e07a-7ab0-46f6-8715-ecb075d8c22b,princess.gifts,premium,78.54,78.54,high,low,8,namesilo,,,
+6e068b53-1313-4f33-b0cf-6451e9f43d87,sing.gifts,available,9.99,,high,low,4,name.com,,,
+df533a2c-1c3e-48a5-b777-10f439c429c3,quickness.gifts,available,9.99,,high,low,9,name.com,,,
+8ed05575-5aaf-46aa-91a9-a5d61f5a40bf,marble.gifts,premium,250,,high,low,6,name.com,,,
+00c2fa97-a837-4729-91e1-ec9584b18125,score.gifts,available,9.99,,high,low,5,name.com,,,
+2281011b-9208-4ee6-9a73-a28571945622,somebody.gifts,available,9.99,,high,low,8,name.com,,,
+abe92700-feb2-4b96-bf04-0cc705a18019,shelter.gifts,available,9.99,,high,low,7,name.com,,,
+40d597b6-c184-47be-ae72-2d5aa2e5e850,shoplift.gifts,available,9.99,,medium,low,8,name.com,,,
+4c061a9f-b4c8-452f-9577-8961ff5c0266,girl.gifts,premium,82.5,,high,low,4,name.com,,,
+0efaa67c-4bcf-4d8b-9f37-5d16153d2ba8,camper.gifts,available,,,high,low,6,,,,
+bae74cd4-6d5e-4648-940b-dc87bc8e9b72,using.gifts,available,9.99,,high,low,5,name.com,,,
+0210b78a-0f44-420f-be92-bc41d03e2dcc,banking.gifts,available,9.99,,high,low,7,name.com,,,
+892a5d84-ba0c-40b5-94b6-0c19e651cf7a,day.gifts,premium,38.94,38.94,high,low,3,namesilo,,,
+699f0072-f00c-43db-9e13-62b8d44789a0,clxxx.gifts,available,14.99,46.99,medium,low,5,name.com,,,
+68bcf1c1-b357-453d-b290-6bf687364585,bulk.gifts,premium,242,242,high,low,4,namesilo,,,
+25127e15-00cd-4b95-917f-909202b0ed3c,tasks.gifts,available,9.99,,high,low,5,name.com,,,
+d2ee498e-00a0-45c0-af09-af43a9982398,region.gifts,available,9.99,,high,low,6,name.com,,,
+ad9baf41-9861-4091-a0ca-e79e952345bb,prototypal.gifts,available,14.99,46.99,medium,low,10,name.com,,,06/08/2026 15:37
+163fa32d-1f2e-4737-8927-d6a9823df266,june.gifts,available,9.99,,high,low,4,name.com,,,
+19daf432-a90f-4504-96df-1e3f6a1f1cc1,elsewhere.gifts,available,9.99,,high,low,9,name.com,,,
+25c2520c-c854-4813-991c-10ef944cc69d,decorous.gifts,available,14.99,46.99,medium,low,8,name.com,,,09/08/2026 06:21
+52a6568a-f90e-40e2-bc65-ab30f384aeb5,sunbeam.gifts,available,9.99,,high,low,7,name.com,,,
+db20a2d3-6766-4fee-aa2d-18ec2fd61330,tree.gifts,premium,42.9,42.9,high,low,4,namecheap,,,
+380a6a19-b8d0-480f-a6b6-83c43fee6eb6,tone.gifts,available,9.99,,high,low,4,name.com,,,
+9e2a71ae-7c01-4d25-8a7f-58598e4ac36e,side.gifts,available,9.99,,high,low,4,name.com,,,
+b1fd82f2-4643-417b-813f-ede1f0dd915c,carnal.gifts,available,14.99,46.99,high,low,6,name.com,,,
+51241cad-1fe2-4fc0-83f8-46d03bc5e502,coolly.gifts,available,9.99,,high,low,6,name.com,,,
+c3332c98-ed40-4935-985a-5d194efb90e7,actinoid.gifts,available,14.99,46.99,medium,low,8,name.com,,,
+85d7b2fe-f702-4abb-84ea-8f24f0eed232,ageless.gifts,available,14.99,46.99,high,low,7,name.com,,,
+bc7e282b-4be9-4e13-a298-7e01cd5603a7,amusing.gifts,available,14.99,46.99,high,low,7,name.com,,,
+adaf5459-56f4-4050-a44f-e19d1c3f2b04,knock.gifts,available,9.99,,high,low,5,name.com,,,
+14fe47f7-1d7d-4fae-9f0e-d1ab04d579e2,definitively.gifts,available,9.99,,medium,low,12,name.com,,,
+6a8e2108-6bd2-41e1-ae0f-5b8535e05f98,llp.gifts,premium,78.54,78.54,high,low,3,namesilo,,,
+64b04bf3-edf3-481b-a695-34a1042ed803,nowadays.gifts,available,9.99,,high,low,8,name.com,,,
+200cefd9-33c8-4202-ae34-9d5429e4f45e,hanukah.gifts,available,9.99,,high,low,7,name.com,,,
+0bce7e74-c1ea-4d98-b55b-c982f0430aba,untypical.gifts,available,14.99,46.99,medium,low,9,name.com,,,07/08/2026 16:10
+44d00ed3-9e85-4f80-9d4e-a7eebe6c7a12,fifty.gifts,available,14.99,46.99,high,low,5,name.com,,,
+acad5d29-de41-40db-95be-6d892909e650,played.gifts,available,9.99,,high,low,6,name.com,,,
+12bef522-1751-4344-adb6-fdda0537cb55,descend.gifts,available,9.99,,high,low,7,name.com,,,
+503578f0-5b59-479f-b289-4ab5db4b9004,afflicted.gifts,available,14.99,46.99,high,low,9,name.com,,,
+cd579bd4-6eb3-4693-8a41-c1b313e45473,number.gifts,premium,242,242,high,low,6,namesilo,,,
+f99d0bda-f0a4-487a-bf75-54c1a627c7b0,fidgety.gifts,available,14.99,46.99,high,low,7,name.com,,,05/08/2026 20:32
+f3be38f6-960b-49a1-82ba-7d240e325a17,avellan.gifts,available,14.99,46.99,medium,low,7,name.com,,,07/08/2026 22:24
+eee08758-184e-4308-9956-d2a91a6a8668,kind.gifts,premium,242,242,high,low,4,namesilo,,,
+10125b91-31bf-4058-b14e-35725549ee6a,topic.gifts,available,9.99,,high,low,5,name.com,,,
+7a261e5a-716f-43fe-80c5-c0d4b0204b64,dismayed.gifts,available,14.99,46.99,medium,low,8,name.com,,,
+207a690c-0b73-4425-9927-3d323054e447,petite.gifts,available,14.99,46.99,medium,low,6,name.com,,,08/08/2026 14:24
+8fa9630d-48a6-463a-a5c6-f5eccba97ac7,ruled.gifts,available,9.99,,high,low,5,name.com,,,
+25642841-5b59-4d1e-a8d7-82193dc4bb5b,control.gifts,available,14.99,46.99,high,low,7,name.com,,,08/09/2026 08:00
+47844cb9-6a03-4849-865f-c3fa6e2ef4bf,evaluate.gifts,available,9.99,,high,low,8,name.com,,,
+bae76d23-2d53-4625-87ad-ebbdb24c0a0d,constantly.gifts,available,9.99,,high,low,10,name.com,,,
+cf1f85e6-23f8-40ff-b377-9a394a18646b,policy.gifts,available,9.99,,high,low,6,name.com,,,
+feb8a9f0-b2d9-4fa7-a7e3-b256eaa807d9,gramme.gifts,available,9.99,,high,low,6,name.com,,,
+8881885e-6f83-4ce5-958b-86cc0d82c3e3,negotiate.gifts,available,9.99,,high,low,9,name.com,,,
+20d7b3fe-a4ad-4259-88ba-0241182dfe52,postoffice.gifts,available,9.99,,high,low,11,name.com,,,
+e697ab41-1bcd-4d33-9b03-cf3e90dae9de,humanity.gifts,available,9.99,,high,low,8,name.com,,,
+0d2e12f8-622a-4d52-9045-d6d744aa0c2e,river.gifts,available,9.99,,high,low,5,name.com,,,
+b6a31794-b998-4cee-882f-09993098513c,burden.gifts,available,9.99,,medium,low,6,name.com,,,
+15a90c77-2b97-44cf-aa72-26e0b97ca0b9,decent.gifts,available,14.99,46.99,high,low,6,name.com,,,09/08/2026 06:17
+de24e260-1a1d-4474-a654-d4d27dcaa54e,crash.gifts,available,9.99,,high,low,5,name.com,,,
+9c5bc5bb-01dc-4031-b5f5-51dbc5353425,advertent.gifts,available,14.99,46.99,medium,low,9,name.com,,,
+34f239d7-c238-4f13-a7e4-1095a73623e1,butter.gifts,available,9.99,,high,low,6,name.com,,,
+e145dc23-d65d-445e-9079-4bb709142a93,allowable.gifts,available,14.99,46.99,high,low,9,name.com,,,
+9fd73179-f148-4b0d-87e6-e87907e59e3e,apposite.gifts,available,14.99,46.99,medium,low,8,name.com,,,06/08/2026 07:53
+ca4635f1-2d3a-452b-8f5f-15c8902643f7,however.gifts,available,9.99,,high,low,7,name.com,,,
+f553d95e-00af-4d0e-9934-492a68bcab79,devise.gifts,available,9.99,,high,low,6,name.com,,,
+039fbfa9-54ae-4540-8bb6-539d26cd9377,modal.gifts,available,9.99,,high,low,5,name.com,,,
+08f0a9f0-f06e-49d8-ad43-dee027adb5b8,aliform.gifts,available,14.99,46.99,medium,low,7,name.com,,,
+8b6c12b0-bc3b-4c5a-a974-75d3ac4ca64a,revolution.gifts,available,9.99,,high,low,10,name.com,,,
+4b061992-d284-4aea-b2d3-06ab1e156bc3,subtle.gifts,available,9.99,,high,low,6,name.com,,,
+48e748f2-5494-4e5b-8055-10ff379cddfd,date.gifts,premium,250,,high,low,4,name.com,,,
+e06048f9-f06a-4e60-ab59-d2e4fbc856da,campaigning.gifts,available,9.99,,high,low,11,name.com,,,
+612dc292-d056-4823-987f-caf2567c2ca8,matched.gifts,available,9.99,,high,low,7,name.com,,,
+08fa86e0-4e40-49f3-acb7-8bf2c78ee213,territory.gifts,available,9.99,,high,low,9,name.com,,,
+e348ea9f-fc77-48b5-ac08-4c167e591288,insect.gifts,available,9.99,,high,low,6,name.com,,,
+3d8eb21d-bd76-4913-8bca-15cbfbe4ed62,sedulous.gifts,available,14.99,46.99,medium,low,8,name.com,,,07/08/2026 06:14
+b691a37c-2d66-4ce6-9223-f8af385cd4e7,reflection.gifts,available,9.99,,high,low,10,name.com,,,
+3d64fb33-7a50-4e9e-ad4b-64c62a5c6243,longer.gifts,available,9.99,,high,low,6,name.com,,,
+da33b278-f2e2-4166-b723-f9d91e21ad29,borne.gifts,available,9.99,,high,low,5,name.com,,,
+8120f3f1-eb27-43f6-8c95-cc25c0b6d573,basaltic.gifts,available,14.99,46.99,medium,low,8,name.com,,,08/08/2026 21:29
+d846186b-152a-4593-a339-f1660ece9137,boarded.gifts,available,9.99,,high,low,7,name.com,,,
+30672c2c-f401-4d54-b674-017e24b6d2ad,opposable.gifts,available,14.99,46.99,medium,low,9,name.com,,,06/08/2026 07:43
+3a8b697b-2daf-4027-b1a4-b38428bab931,expire.gifts,available,9.99,,high,low,6,name.com,,,
+7c4f9573-5752-47b0-aa28-4361a61f6800,juice.gifts,available,9.99,,high,low,5,name.com,,,
+69c9e134-beb0-4bea-965d-8f6d9ae43364,haywire.gifts,available,14.99,46.99,high,low,7,name.com,,,
+a4ee35b6-80c8-4627-b735-b08bba2146a8,pledged.gifts,available,9.99,,high,low,7,name.com,,,
+764677d3-91da-4394-a762-f01f29fa0958,cue.gifts,premium,250,,high,low,3,name.com,,,
+f371d4f5-c1bc-41ae-b293-47b4b750633a,allowance.gifts,available,9.99,,high,low,9,name.com,,,
+b1362151-2d30-4608-acfc-7589f5c38ed4,remover.gifts,available,9.99,,high,low,7,name.com,,,
+48077db2-1fff-43e6-b5cf-428641dd2b87,vexation.gifts,available,14.99,46.99,medium,low,8,name.com,,,
+ace8b0bc-938e-4813-a3e2-8792169381de,overall.gifts,available,9.99,,high,low,7,name.com,,,
+c398fddb-0bea-4a86-b8cd-9a9b09d92ad2,costs.gifts,available,9.99,,high,low,5,name.com,,,
+74cb97c3-3a27-4463-9859-79c9c09457cc,warp.gifts,available,9.99,,high,medium,4,name.com,,,
+18dc17f8-1e69-4439-936e-924df59c363c,analytical.gifts,available,14.99,46.99,high,low,10,name.com,,,
+3928f487-4d7e-4a6c-9061-98fae86b2b75,accurst.gifts,available,14.99,46.99,medium,low,7,name.com,,,
+db1df4ac-b501-4feb-8531-80f792b75440,adductive.gifts,available,14.99,46.99,medium,low,9,name.com,,,
+8516c612-2973-4a25-8635-d0d1fc7c8c9e,beautiful.gifts,premium,512,512,high,low,9,namesilo,,,08/09/2026 03:43
+f92a025d-229c-4156-a417-df83653e9cdd,expression.gifts,available,9.99,,high,low,10,name.com,,,
+7fec9896-263b-461f-913c-a161abf9b038,letters.gifts,available,9.99,,high,low,7,name.com,,,
+7b4d98cb-32e8-4b67-af7c-95cd6287aa0e,awareness.gifts,available,9.99,,high,low,9,name.com,,,
+1f303303-edac-42d9-8aed-79addf404b24,neighboring.gifts,available,9.99,,high,low,11,name.com,,,
+16d9ba27-74e3-4cb0-bef3-7167abe8fab1,graph.gifts,available,9.99,,high,low,5,name.com,,,
+787ea9d4-baa3-4afb-abdc-34b99be5857f,nates.gifts,available,14.99,46.99,medium,low,5,name.com,,,09/08/2026 10:31
+3d45efbf-85ab-4fd4-8dd8-f7cf6b46086d,agronomic.gifts,available,14.99,46.99,medium,low,9,name.com,,,
+c8523574-ea72-4b03-ab2a-5c155a849f71,establishment.gifts,available,9.99,,high,low,13,name.com,,,
+3ecf3926-a83c-4e7c-adb9-11d676716fee,shouted.gifts,available,9.99,,high,low,7,name.com,,,
+bad4ef3e-15b7-4ab8-ac4e-0407bcd5f941,conform.gifts,available,9.99,,high,low,7,name.com,,,
+5d14c3b5-4214-4c3c-b682-48c5b2e88352,octet.gifts,available,14.99,46.99,high,low,5,name.com,,,
+70b49350-efef-469c-a97e-266e107fcb22,belt.gifts,available,9.99,,high,low,4,name.com,,,
+a8c45a25-b347-42ea-b946-3c8191e579d6,holder.gifts,available,9.99,,high,low,6,name.com,,,
+498c3ff6-2525-4120-b6f1-0b2c45038f29,continually.gifts,available,9.99,,high,low,11,name.com,,,
+d31c7aea-e5b1-43ae-9e4e-e8b0bcdc48b6,xcl.gifts,available,14.99,46.99,medium,low,3,name.com,,,
+3c204293-f8c4-4059-bc0a-f43b18fb1516,rile.gifts,available,9.99,,medium,low,4,name.com,,,
+e409df2a-b0c6-4d90-8466-3a26d391136f,fall.gifts,premium,242,242,high,low,4,namesilo,,,
+6067918a-90ef-49a4-ab98-b8b13dc93a13,explore.gifts,available,9.99,,high,medium,7,name.com,,,
+c1aeeb53-2e35-446c-a413-ff1e195767fa,shear.gifts,available,9.99,,medium,low,5,name.com,,,
+9f40fd3d-4548-40a8-a6dc-e4f726d5b798,sensational.gifts,available,9.99,,high,low,11,name.com,,,
+807f4f4e-1c32-4745-96bc-a6df7799080b,ruin.gifts,available,14.99,46.99,high,low,4,name.com,,,08/08/2026 13:39
+8882ddc6-e7b9-4e4c-bb48-b5374c24108b,wellbeing.gifts,available,9.99,,high,low,9,name.com,,,
+87ca247d-acda-4620-82bf-7197d5c48399,grew.gifts,available,9.99,,high,low,4,name.com,,,
+6a09a5e3-5afe-4bf7-8e16-312e0911520d,fauna.gifts,available,14.99,46.99,high,low,5,name.com,,,
+87105bc9-f8af-4211-a387-54376bda9666,twitter.gifts,available,9.99,,high,low,7,name.com,,,
+8d1756b8-d193-4942-ac81-f1a7c2a5d2e6,butt.gifts,available,14.99,46.99,medium,low,4,name.com,,,09/08/2026 10:40
+ce64a052-16bf-494b-a5ab-225aeb3ca779,matt.gifts,available,9.99,,high,high,4,name.com,,,
+5e3a97f0-7da3-49f6-9764-0e2d012f1c15,appearance.gifts,available,14.99,46.99,high,low,10,name.com,,,08/09/2026 12:55
+119bdc04-830f-496d-86d7-0a67d9aec459,unfortunately.gifts,available,9.99,,medium,low,13,name.com,,,
+7a8306b1-116d-4399-86c3-84b33483f0cf,ascendable.gifts,available,14.99,46.99,medium,low,10,name.com,,,07/08/2026 00:35
+4af2804f-b38a-453f-8b90-986c00cabec4,inch.gifts,available,9.99,,high,low,4,name.com,,,
+0f0c4536-6161-47f0-a5f6-2dda1d0b4808,decay.gifts,available,9.99,,high,low,5,name.com,,,
+af7b4c4b-62fd-4e4e-808c-fa56d897f548,boxers.gifts,available,9.99,,high,low,6,name.com,,,
+a492e4fb-df32-47f5-bb3f-d36dcaa4a980,awakening.gifts,available,9.99,,high,low,9,name.com,,,
+8acc4652-d6ba-4fd5-9be1-1315c9af3a98,likely.gifts,available,9.99,,high,low,6,name.com,,,
+11ed897a-064a-4ed0-9f55-21c541ab6a14,organizations.gifts,available,9.99,,medium,low,13,name.com,,,
+560f2b3f-a153-4b41-bc15-838b3a28fa36,chairwoman.gifts,available,9.99,,high,low,10,name.com,,,
+12eec7a2-d4d1-4b63-bb8b-1da387838228,modish.gifts,available,14.99,46.99,high,low,6,name.com,,,
+f42e5da0-7ec4-4a70-9366-f3e44486294e,wheel.gifts,available,9.99,,high,low,5,name.com,,,
+70e3d1ce-1eb6-4e4b-be1b-d7867c8324f4,auxiliary.gifts,available,14.99,46.99,high,low,9,name.com,,,
+7a4849ca-e5b4-4c8e-a6ea-2f47d5109878,riled.gifts,available,,,medium,low,5,,,,
+8ca1b2c6-4c15-43ed-b96a-63511aedffd5,smaller.gifts,available,9.99,,high,low,7,name.com,,,
+313f6858-65f4-48bd-b959-b18a8d8c789a,balls.gifts,available,9.99,,high,low,5,name.com,,,
+b26c811a-4a3b-469e-943e-4280e3928a1a,irritated.gifts,available,14.99,46.99,medium,low,9,name.com,,,
+a7c58286-209e-4754-840b-0c5cf0f1fc0f,anglican.gifts,available,14.99,46.99,high,low,8,name.com,,,
+3086db57-da3f-4b1b-84d9-12c39709b19c,arachnoid.gifts,available,14.99,46.99,medium,low,9,name.com,,,06/08/2026 11:41
+07569e8e-7b88-482a-9bd8-2acc189220a9,attenuate.gifts,available,14.99,46.99,medium,low,9,name.com,,,07/08/2026 15:21
+508a9f4c-533d-4a38-b244-9acddfecb815,maths.gifts,available,9.99,,high,low,5,name.com,,,
+2cfe36b0-64fc-4fad-8df8-a409dcdf8511,intricate.gifts,available,9.99,,high,low,9,name.com,,,
+cd8e95f4-b4bf-4e7e-981a-0282f489d8c6,booklist.gifts,available,9.99,,high,low,8,name.com,,,
+4d30f8ea-d92c-4e05-9010-8d85b342a0f7,wind.gifts,available,9.99,,high,low,4,name.com,,,
+44139257-0fbe-4595-8a3a-15fbe8c80a11,anthropoid.gifts,available,14.99,46.99,high,low,10,name.com,,,
+b53e59d3-8843-4609-a212-6f08fb709555,proved.gifts,available,9.99,,high,low,6,name.com,,,
+6a8ff46b-aa1c-422e-8e25-b3559d8dbbc8,exec.gifts,available,9.99,,high,low,4,name.com,,,
+05eeed46-8a9a-498c-bd39-c7f985521c04,xxxv.gifts,available,14.99,46.99,high,low,4,name.com,,,
+f248743d-0f5b-421a-8ec8-02a83546c808,animistic.gifts,available,14.99,46.99,medium,low,9,name.com,,,
+4ba31a10-0b96-4dd9-bce7-51643f4148e1,babyish.gifts,available,14.99,46.99,medium,low,7,name.com,,,08/08/2026 03:53
+e97781d8-00a0-4591-a983-cab8c8bdc778,condemn.gifts,available,9.99,,high,low,7,name.com,,,
+665f9156-40b9-4c9f-9443-0ebc18f5637d,completion.gifts,available,9.99,,high,low,10,name.com,,,
+56e059e9-a764-4cfb-9177-eeaa43fe7f43,bantam.gifts,available,14.99,46.99,high,low,6,name.com,,,08/08/2026 14:01
+d2fcaec4-21dc-4911-8853-31a6690f56ba,aunt.gifts,available,9.99,,high,low,4,name.com,,,
+84935a8a-ebe5-4767-b6f1-cbbceedc4603,definition.gifts,available,9.99,,high,low,10,name.com,,,
+808a16ae-1ec8-4657-9e90-cbfd2fe272d2,alcohol.gifts,available,9.99,,high,low,7,name.com,,,
+3e9b1009-2a0d-4748-bc69-a178842e3412,thrown.gifts,available,9.99,,high,low,6,name.com,,,
+bace8bd9-8d66-45de-add8-b483bce356d3,tune.gifts,available,9.99,,high,low,4,name.com,,,
+35cf3fb2-8a1d-46e1-b225-231b03a06da9,airy.gifts,available,14.99,46.99,high,low,4,name.com,,,
+46f42667-2bef-4a9e-abb3-27f1c9e3086a,thee.gifts,available,9.99,,high,low,4,name.com,,,
+5609cdc8-0436-48b4-af0e-16a4627229f1,restricted.gifts,available,9.99,,high,low,10,name.com,,,
+55d93f35-46d5-4929-bfab-065d3abcd7d1,anticipant.gifts,available,14.99,46.99,medium,low,10,name.com,,,
+d425902c-5e64-4c61-ae0c-e511ae1254a9,hungry.gifts,available,9.99,,high,low,6,name.com,,,
+cd315347-7cdf-469b-9759-ab3f2f30832a,thrift.gifts,available,9.99,,high,low,6,name.com,,,
+5fd0d688-2ccb-42cb-8eae-0536220a6167,grouping.gifts,available,9.99,,high,low,8,name.com,,,
+2ad908ae-7634-4723-a951-234e988ef10f,aweigh.gifts,available,14.99,46.99,low,low,6,name.com,,,07/08/2026 14:29
+8931d800-b03d-4f1e-9f93-5468ac3ee29e,minuscule.gifts,available,9.99,,high,low,9,name.com,,,
+4e7f97e7-a2c1-44a7-bca0-3ea27f46dc70,amusive.gifts,available,14.99,46.99,high,low,7,name.com,,,
+96329fa7-1e0a-4230-8a7b-f1f109e845e4,aerial.gifts,available,14.99,46.99,high,low,6,name.com,,,
+a8e64651-48b3-48b6-943a-33df6b2c0a3b,anodal.gifts,available,36.99,36.99,medium,low,6,namesilo,,,
+0f473a4c-3adc-4904-bf7b-193be45ff8c8,led.gifts,premium,78.54,78.54,high,low,3,namesilo,,,
+80a955a9-add4-4e0b-a160-a94638077c0d,maidens.gifts,available,9.99,,high,low,7,name.com,,,
+6d04a6ba-af15-49c8-86ce-2335f441df19,springtime.gifts,premium,82.5,,high,low,11,name.com,,,
+a2822a43-b511-4998-8890-a54aa12b43bc,batman.gifts,available,9.99,,high,low,6,name.com,,,
+c71eff90-73d6-42f8-bfbb-e897861475d4,grasping.gifts,available,14.99,46.99,high,low,8,name.com,,,07/08/2026 22:04
+959bff95-a1fc-41f7-bc1e-660482873d29,backslash.gifts,available,9.99,,high,low,9,name.com,,,
+5a845151-7ff2-4a48-b4ca-fea1f82be095,emergency.gifts,available,9.99,,high,low,9,name.com,,,
+07aba8ed-7df2-4997-b6b4-9f95af45449f,citibank.gifts,available,,,high,low,8,,,,
+7cd2fe24-22c4-4b46-9d4c-c0387b0ca2bb,informed.gifts,available,9.99,,high,low,8,name.com,,,
+c0bd5b6f-028b-44f4-adff-aa626d0c4dd5,covenant.gifts,available,9.99,,high,low,8,name.com,,,
+a7bae399-176c-4375-abd7-704bea71b372,charmed.gifts,available,14.99,46.99,high,low,7,name.com,,,09/08/2026 09:57
+21dc7dd4-9e6a-488b-875b-2b9c3d8f25bc,restructuring.gifts,available,9.99,,high,low,13,name.com,,,
+f3145ea6-2d88-410d-a9c1-4c917781b8db,tracy.gifts,available,9.99,,high,low,5,name.com,,,
+b058f3d0-ecc4-43b5-a350-8ac17b26f01e,quaternity.gifts,available,14.99,46.99,medium,low,10,name.com,,,
+0400549c-26a2-413a-ad09-a0bf01634f2d,fibre.gifts,available,9.99,,high,low,5,name.com,,,
+eba05b8f-9484-4263-92d0-352c8bd59954,driver.gifts,available,9.99,,high,low,6,name.com,,,
+64e242be-2c1c-4873-9cd3-90b2b9662e9f,tap.gifts,premium,78.54,78.54,high,medium,3,namesilo,,,
+528e7e09-103d-4b70-ac24-7187b3e0580c,acold.gifts,available,14.99,46.99,medium,low,5,name.com,,,
+7d7dd358-982c-419c-bafa-d36470e19764,aching.gifts,available,14.99,46.99,medium,low,6,name.com,,,
+e2187eaa-59b0-4872-929d-3ff809abe7a9,platter.gifts,available,9.99,,high,low,7,name.com,,,
+ee7889de-843a-4394-a1c0-fc4a74c83b74,greens.gifts,available,9.99,,high,low,6,name.com,,,
+0d6b3f0f-8908-473a-94bf-98fea6866399,form.gifts,available,9.99,,high,low,4,name.com,,,
+d72e0bdf-06f9-4f9e-9a86-30064641316a,syndrome.gifts,available,9.99,,high,low,8,name.com,,,
+8d712779-7d2f-4cc8-b43e-864a85ff0186,believable.gifts,available,14.99,46.99,high,low,10,name.com,,,09/08/2026 13:01
+0b68d4fd-4b2b-42fa-ba97-a680b40bac50,metric.gifts,available,9.99,,high,low,6,name.com,,,
+35a0a9fc-b9e5-48e8-8ba2-43ec8eecd9e2,paper.gifts,premium,78.54,78.54,high,low,5,namesilo,,,
+65f40946-4b15-494d-8254-7bc1fc2371b2,clash.gifts,available,9.99,,high,low,5,name.com,,,
+b861fce0-f89b-42c9-b105-4c265ceff84c,winner.gifts,premium,78.54,78.54,high,low,6,namesilo,,,
+b3a288ee-e964-4498-a791-011d53dfd335,olympia.gifts,available,9.99,,high,low,7,name.com,,,
+598397a9-2c36-45b9-aa91-10574adc2bf1,impressed.gifts,available,9.99,,high,low,9,name.com,,,
+39aa966b-8813-4869-9883-6450bfd07de0,then.gifts,available,9.99,,high,low,4,name.com,,,
+d2a9a115-a025-423e-bf5c-1ba6eb0df4b2,sneezing.gifts,available,9.99,,medium,low,8,name.com,,,
+c496e519-6059-4d15-8a43-e3efa8ed10bd,repeated.gifts,available,9.99,,high,low,8,name.com,,,
+da87a640-3117-46c7-a30d-68f463defe37,pacific.gifts,available,9.99,,high,low,7,name.com,,,
+7f84efb4-7875-4583-a366-4abb69d9b091,mania.gifts,available,9.99,,high,low,5,name.com,,,
+7640de5c-5fb2-4467-9870-86805cd50761,lovesome.gifts,available,14.99,46.99,high,low,8,name.com,,,
+4748881c-5fa1-424e-9a30-4db1a6fc825b,mirror.gifts,available,9.99,,high,low,6,name.com,,,
+0a0e4d20-37b2-46d3-bc24-b0acca41c46e,sawtooth.gifts,available,9.99,,medium,low,9,name.com,,,
+0f849c91-5132-4903-802c-9b60b3fe8e25,commit.gifts,available,9.99,,high,low,6,name.com,,,
+61aa6b9f-19a4-4a5c-8edb-e766784f7cc2,jack.gifts,available,9.99,,high,medium,4,name.com,,,
+6b36c1be-7cb9-4b0b-bad2-832dcbfd5074,abradant.gifts,available,14.99,46.99,medium,low,8,name.com,,,
+1d929cdb-84bc-4098-ac40-7606defb1c6c,anywhere.gifts,available,9.99,,high,low,8,name.com,,,
+118b6a3d-dafa-49a4-b02b-dd510fdefba2,associate.gifts,available,14.99,46.99,high,low,9,name.com,,,07/08/2026 06:50
+b405f334-8bac-4e4d-b974-cb71ed99d16d,warrant.gifts,available,36.99,36.99,high,low,7,namesilo,,,08/09/2026 08:40
+33a96689-ec2c-4c03-97bf-6a07c53a2a7b,germany.gifts,available,,,high,low,7,,,,
+5e95d39a-d9b6-4a2f-87ee-cc2ec9d497ac,omit.gifts,available,9.99,,high,low,4,name.com,,,
+8f01755f-770a-4cd3-b449-35ca537891bb,acids.gifts,available,9.99,,medium,low,5,name.com,,,
+3fe62a77-38e3-4442-918e-83536dbbfb59,apnoeic.gifts,available,14.99,46.99,medium,low,7,name.com,,,06/08/2026 00:46
+df0810ac-82dd-4a10-a095-1b2082bb46fe,absolutist.gifts,available,14.99,46.99,high,low,10,name.com,,,
+1fcc41c8-3e9a-4639-b392-a6cac45a1adb,tomboy.gifts,available,9.99,,high,low,7,name.com,,,
+6cffe65e-0238-46be-9982-b9ab8423bb97,ain.gifts,available,14.99,46.99,high,low,3,name.com,,,
+52dc66cd-d25f-44c9-ae31-226dcd8db7db,algid.gifts,available,14.99,46.99,medium,low,5,name.com,,,
+8d864b52-cefd-4e15-8618-a89144810444,rated.gifts,available,9.99,,high,low,5,name.com,,,
+82b7fc7f-ea29-450e-a712-a805d42b2a60,burn.gifts,available,9.99,,high,low,4,name.com,,,
+32d7d7dd-37db-437b-8501-2b912cd0d44e,oatmeal.gifts,available,9.99,,high,low,7,name.com,,,
+21fe0508-359c-4552-9bdf-5a8d98ce5b33,comprise.gifts,available,9.99,,high,low,8,name.com,,,
+dbbfb8c6-c072-4733-bc6f-9bda779948ad,worse.gifts,available,9.99,,high,low,5,name.com,,,
+6afb7105-70c4-4095-b892-b00f7c0e1bd7,placed.gifts,available,9.99,,high,low,6,name.com,,,
+5e13a3d5-a844-4f01-96ba-5a620ba1e3d5,xlvii.gifts,available,14.99,46.99,medium,low,5,name.com,,,
+173727b4-ee85-4491-b68c-fa33c5e5fe0a,desolate.gifts,available,14.99,46.99,medium,low,8,name.com,,,08/08/2026 21:07
+61df0d77-4ef7-423a-bb98-ee14c7f1d96a,wannabe.gifts,available,14.99,46.99,medium,low,7,name.com,,,07/08/2026 05:17
+28d799d6-3ecb-47a9-bd51-a51f519002af,erupt.gifts,available,9.99,,high,low,5,name.com,,,
+a61e35ac-4b76-4c51-b7aa-38e11d612752,registered.gifts,available,9.99,,high,low,10,name.com,,,
+bb3a4190-e1f4-4336-aae1-f3c86bc00c48,felt.gifts,available,9.99,,high,low,4,name.com,,,
+d3a6d7fc-3493-4f19-bde4-d34a9fe295d6,oversee.gifts,available,9.99,,high,low,7,name.com,,,
+a89f676c-21e1-4dfc-a68a-3b3dabbeae17,maddened.gifts,available,14.99,46.99,medium,low,8,name.com,,,
+4a83f697-45ff-434a-8abc-5466a316fbe5,visiting.gifts,available,9.99,,high,low,8,name.com,,,
+0a6d8479-999a-4d87-976a-c5308ee188af,spiny.gifts,available,14.99,46.99,medium,low,5,name.com,,,08/08/2026 17:49
+dbbbd5d8-229f-4b77-bb69-a440d3b0dcb9,succeed.gifts,available,9.99,,high,low,7,name.com,,,
+8123a2d7-0dfa-49eb-9659-035ca15efe27,undoubtedly.gifts,available,9.99,,high,low,11,name.com,,,
+77f2b9c4-6e9b-4d5a-b1d3-d8ccee3f0b75,shelf.gifts,available,9.99,,high,low,5,name.com,,,
+f8620ff1-c153-498a-b465-c9412d1881f2,sandwich.gifts,available,9.99,,high,low,8,name.com,,,
+2581237b-0565-4c04-9ed2-65bb4c2b35a8,ataractic.gifts,available,14.99,46.99,low,low,9,name.com,,,07/08/2026 12:44
+e5a641fe-e67b-4896-a5c4-2fe52d361a2c,contend.gifts,available,9.99,,high,low,7,name.com,,,
+a7465d6e-1507-427d-969b-450f6bcd1862,valued.gifts,available,9.99,,high,low,6,name.com,,,
+2f64e5ff-9841-4ff0-a972-9a1a5c7df75c,suffer.gifts,available,9.99,,high,low,6,name.com,,,
+afcc2462-1b4e-4ed5-8a65-8e53a3807e22,centesimal.gifts,available,14.99,46.99,high,low,10,name.com,,,
+9fbe0bb0-a24b-43a5-a298-27617e03f489,penetration.gifts,available,36.99,36.99,high,low,11,namesilo,,,08/09/2026 15:09
+5b1060ea-659a-4692-a857-7f480fd17093,stuff.gifts,available,9.99,,high,low,5,name.com,,,
+954b61fd-3034-49a4-9c65-f929fd8ced65,mount.gifts,available,9.99,,high,low,5,name.com,,,
+98833c1b-1b9a-4971-92fd-c086149ed296,permutation.gifts,available,9.99,,high,low,11,name.com,,,
+d166e571-4005-4738-abfc-d9df3b8c5335,dendroid.gifts,available,14.99,46.99,medium,low,8,name.com,,,06/08/2026 13:50
+73fb719e-9017-40a2-88b5-3d779932da28,rushing.gifts,available,9.99,,high,low,7,name.com,,,
+20922b33-1924-4864-91d0-1240ddb0de0c,precipitous.gifts,available,9.99,,medium,low,11,name.com,,,
+daa7ff01-a677-4611-acf1-bc1ea6b852d0,ackack.gifts,available,14.99,46.99,medium,low,7,name.com,,,
+baeefe00-d2d2-4572-a83c-92a6146158ad,aboriginal.gifts,available,14.99,46.99,high,low,10,name.com,,,
+4af7e78b-27c3-4b34-82ae-bc9810f4c46a,yum.gifts,premium,78.54,78.54,high,low,3,namesilo,,,
+bc3b87ae-05d1-4819-9fbf-d642ec2a280e,afoot.gifts,available,14.99,46.99,medium,low,5,name.com,,,
+467ee2e5-8e47-41a5-b897-d1f5579d99db,ever.gifts,resell,,,high,medium,4,"GoDaddy.com, LLC",06/06/2024 13:34,06/06/2026 13:34,
+043a4ae0-68cb-47b9-b22b-9226f0886868,publicly.gifts,available,9.99,,high,low,8,name.com,,,
+30a14d89-7239-4b4b-b1d5-04a4b65775fa,vii.gifts,premium,78.54,78.54,high,low,3,namesilo,,,
+c959b626-22e5-4e80-993c-3ada718db5d7,emotion.gifts,available,9.99,,high,low,7,name.com,,,
+f693c5e3-3c28-4351-a748-1f6e02dd7789,hedge.gifts,available,9.99,,high,low,5,name.com,,,
+62dcb688-a378-4074-a47d-643205faa015,moved.gifts,available,9.99,,high,low,5,name.com,,,
+99228468-a2e5-4cc6-b175-df9771dbeb73,obscene.gifts,available,14.99,46.99,high,low,7,name.com,,,
+7f6554b0-f10f-4d7f-b2e6-64a65b6ea7ab,implying.gifts,available,9.99,,high,low,8,name.com,,,
+fcd54cf8-f78e-4edd-a5c3-4620b274a16b,adorned.gifts,available,14.99,46.99,high,low,7,name.com,,,
+8622e53a-28f0-414b-aeb9-61af9ce50ac5,marco.gifts,available,9.99,,high,low,5,name.com,,,
+bcdd61f5-8016-46ee-bff1-9d20baaabf56,appointive.gifts,available,14.99,46.99,medium,low,10,name.com,,,06/08/2026 07:16
+e2e97585-34ea-4a89-9a2a-cd652820a690,diverting.gifts,available,14.99,46.99,high,low,9,name.com,,,
+43982f05-046b-4d55-8969-fc04e0fd493d,alienate.gifts,available,14.99,46.99,medium,low,8,name.com,,,
+8e9223ac-0cd5-47b6-8634-20c086fa4a3a,lucy.gifts,available,,,high,low,4,,,,
+be219e78-e975-42cc-9d78-11897b94e73e,pound.gifts,available,9.99,,high,low,5,name.com,,,
+9eafa740-dcfe-4ad5-92e9-793f58c0524f,pentium.gifts,available,9.99,,high,low,7,name.com,,,
+d256f707-3d58-4684-9108-6f4248429a2c,powers.gifts,available,9.99,,high,low,6,name.com,,,
+1780cb66-5505-4eea-91b7-8ac8ce1e376b,become.gifts,available,9.99,,high,low,6,name.com,,,
+534260cb-2a1b-4789-bca5-dd82df42cca9,steal.gifts,available,9.99,,high,low,5,name.com,,,
+e0bad3b3-4b4a-43a8-ba80-2d3e361cb0ee,mister.gifts,available,9.99,,high,low,6,name.com,,,
+fb6419b4-9daa-4997-aae0-ac35118ab2c0,isbn.gifts,available,9.99,,high,low,4,name.com,,,
+0a7913bc-8903-4b7c-bad3-b9a7fba00469,touchdown.gifts,available,9.99,,high,low,10,name.com,,,
+a71b3ca2-f926-4f47-9319-30cc9cc0812a,nan.gifts,available,9.99,,high,low,3,name.com,,,
+dfef6957-7f66-4703-a830-2635c0b2204f,satisfied.gifts,available,9.99,,high,low,9,name.com,,,
+c0569b10-015e-4bff-b220-0efed2a64490,hashtag.gifts,available,9.99,,high,low,7,name.com,,,
+6d0e8d3a-d5cc-4d5a-ab7e-5467dda317cd,discerning.gifts,available,14.99,46.99,high,low,10,name.com,,,06/08/2026 08:23
+792e8244-c6b0-43d3-baf7-f975e5ed578e,slam.gifts,available,9.99,,high,low,4,name.com,,,
+b81cb7f9-fa0e-44f9-9bad-e6ae4688634a,relationship.gifts,available,9.99,,high,low,12,name.com,,,
+db8f262e-4489-4698-bc44-f9693c63e6c9,assumed.gifts,available,14.99,46.99,medium,low,7,name.com,,,07/08/2026 07:45
+dffea8bd-1950-4ff5-87a1-7bdded017b05,join.gifts,premium,78.54,78.54,high,medium,4,namesilo,,,
+a1815806-48b2-4113-82a4-25b6c59f636d,lxii.gifts,available,14.99,46.99,medium,low,4,name.com,,,
+dad1c447-113e-453d-92f4-8e883ffe3040,motive.gifts,available,,,high,low,6,,,,
+6ac7897e-d55b-441b-84b6-a85efd175f8a,lonely.gifts,available,9.99,,high,low,6,name.com,,,
+7a563726-d705-43d1-b903-228422df3663,emoji.gifts,available,9.99,,high,low,5,name.com,,,
+96778904-3d1a-441b-b2aa-f842f6f46368,career.gifts,premium,78.54,78.54,high,low,6,namesilo,,,
+8c6ae694-e167-4a3f-b83a-344099003b94,acrobatic.gifts,available,14.99,46.99,high,low,9,name.com,,,
+9de4ff13-5f44-4919-a1ab-3c889c181da4,dishonor.gifts,available,9.99,,high,low,8,name.com,,,
+1a0cf81d-decc-4400-a909-d229d8af609c,engage.gifts,available,9.99,,high,low,6,name.com,,,
+43b656a0-489b-4378-9e83-5100b9ebb67a,additive.gifts,available,14.99,46.99,high,low,8,name.com,,,
+4fb6dba9-3b99-46b4-af5a-e77bb77d2ea1,owens.gifts,available,9.99,,high,low,5,name.com,,,
+2a870779-d8e0-4db8-bdbb-8fab78bff98e,tile.gifts,available,9.99,,high,low,4,name.com,,,
+6d6fb787-4daf-4df1-827d-108534458062,offstage.gifts,available,14.99,46.99,high,low,8,name.com,,,08/08/2026 06:14
+e69d3989-0dc0-460d-9292-df4e3d2ac36b,clinic.gifts,premium,78.54,78.54,high,low,6,namesilo,,,
+6fa189fc-3156-45a1-9ee1-7aa06d3a52a7,dracula.gifts,available,9.99,,high,low,7,name.com,,,
+e797e2ce-acbf-4e9b-b48b-023fff1a9e18,xcii.gifts,available,14.99,46.99,medium,low,4,name.com,,,
+a04c3e5b-d97b-43bb-86ae-fc55f18da4bf,none.gifts,available,9.99,,high,low,4,name.com,,,
+8ff871ac-1511-49f8-8d52-f26fcbf6c014,professor.gifts,available,9.99,,high,low,9,name.com,,,
+871e2eec-b731-4176-93ac-a035e33630ea,veg.gifts,premium,78.54,78.54,high,low,3,namesilo,,,
+3954fd95-5d6b-4dc8-83a6-f4dc1ed201dd,arid.gifts,available,14.99,46.99,high,low,4,name.com,,,06/08/2026 18:58
+945cf0e7-493c-4b21-afd3-c9a573c86e27,tub.gifts,premium,78.54,78.54,high,low,3,namesilo,,,
+fa15e1f7-4c65-45a0-adac-8b907c682b3b,student.gifts,premium,260,260,high,low,7,namecheap,,,
+648728bc-8f95-423f-89ca-746ce1a682c2,subjective.gifts,available,9.99,,high,low,10,name.com,,,
+026836f9-3443-48b8-8675-334320b0adcd,reporting.gifts,available,9.99,,high,low,9,name.com,,,
+cd892828-bbd9-4dae-88f7-4f2e20d2e1bc,was.gifts,premium,78.54,78.54,medium,low,3,namesilo,,,
+cd7501a0-7833-436b-8a23-85caab5fb61b,reset.gifts,available,,,high,low,5,,,,
+bcc63809-ec48-445c-9419-0add7ff517af,reflex.gifts,available,9.99,,high,low,6,name.com,,,
+c591e6b8-c3f7-4bd6-b715-0fb96b529496,taiwan.gifts,available,,,high,low,6,,,,
+0ea2e859-316b-4ca7-bab0-bc198a1f6c09,sensory.gifts,available,9.99,,high,low,7,name.com,,,
+1dbb7d9a-ff4c-4128-8842-13162801747b,determine.gifts,available,9.99,,high,low,9,name.com,,,
+aa23b678-1115-4740-8812-d7a8c861dc96,amuck.gifts,available,14.99,46.99,medium,low,5,name.com,,,
+ef482f44-5cb5-483a-a8ee-8ae31f536db7,acned.gifts,available,14.99,46.99,low,low,5,name.com,,,
+027751cf-4099-410a-8058-65394ca25203,indigenous.gifts,available,14.99,46.99,high,low,10,name.com,,,07/08/2026 19:31
+33b6f2af-f7e3-492f-960b-cc81bf2e95f3,lacking.gifts,available,9.99,,high,low,7,name.com,,,
+4337ef00-d9b3-4293-9be2-23fd1e2d45d6,fingers.gifts,available,9.99,,medium,low,7,name.com,,,
+89d2dce1-ea71-4e94-a558-d9097e2a208f,diversify.gifts,available,9.99,,high,low,9,name.com,,,
+d74555d2-51a0-47ae-8e1e-82744338d5f0,mothafucka.gifts,available,9.99,,medium,low,10,name.com,,,
+8b3c6560-2e1f-4aa9-9dd7-08a1d77d99a8,substantial.gifts,available,9.99,,high,low,11,name.com,,,
+5ed1d20e-dd8a-4656-bc7d-865cca0df99b,cognizant.gifts,available,14.99,46.99,high,low,9,name.com,,,08/08/2026 00:13
+758afaa1-7de7-415f-9bdf-8dba9168dce3,layer.gifts,available,9.99,,high,low,5,name.com,,,
+c6ebb872-f878-40e6-a8b7-f04d370d820e,mothafucker.gifts,available,9.99,,medium,low,11,name.com,,,
+8cc6013d-750f-4384-affe-b67609611f79,unit.gifts,available,14.99,46.99,high,low,4,name.com,,,08/09/2026 06:04
+9994153d-c064-4bac-9dce-8de1e2f74e24,surrender.gifts,available,9.99,,high,low,9,name.com,,,
+ffd00f14-df99-4bc9-9b9b-45dd3851d86c,cindy.gifts,available,9.99,,high,low,5,name.com,,,
+c4b7a4c2-f345-4531-b0ee-166bfb966258,overhead.gifts,available,9.99,,high,low,8,name.com,,,
+338b31d0-0c5d-4a66-a8fe-19ae5066c2ea,aeronautic.gifts,available,14.99,46.99,high,low,10,name.com,,,
+c84f3ee1-3cb8-4eb3-b0bf-792adcbbeb4e,tend.gifts,available,9.99,,high,low,4,name.com,,,
+618d891e-2b9e-49dd-8fde-cc1ea92eb5b6,cxl.gifts,available,14.99,46.99,high,low,3,name.com,,,
+aa7d25cf-e383-4cbe-bf6d-dbae4b2a6d5f,archosaur.gifts,available,14.99,46.99,medium,low,9,name.com,,,06/08/2026 15:57
+f5882cae-2a0a-46f6-8795-81dcab454c8a,afferent.gifts,available,14.99,46.99,high,low,8,name.com,,,
+21813534-d8f9-4a09-8817-a42fefcb42c7,molecules.gifts,available,9.99,,medium,low,9,name.com,,,
+c1b27eec-77bc-4e9f-a35b-c14f7229fbdf,highschool.gifts,available,9.99,,high,low,10,name.com,,,
+4e32da1e-3f7e-40c7-86a2-bd1d3c48adec,valley.gifts,available,9.99,,high,low,6,name.com,,,
+6f3c0ea2-4f0e-438c-b491-954ecae8ec6d,covid.gifts,available,9.99,,high,low,5,name.com,,,
+582e8a77-1f7d-43f5-859f-d021d1e6c5c9,deposit.gifts,available,9.99,,high,low,7,name.com,,,
+a278d52d-7b98-42eb-946f-7c51e5d82fae,altered.gifts,available,14.99,46.99,high,low,7,name.com,,,
+e1874c5e-7f00-44b5-a88f-b8325d1fe1ff,etiologic.gifts,available,14.99,46.99,medium,low,9,name.com,,,
+4dfca2f3-ab7b-481f-ae34-c22936cd8bf2,ane.gifts,available,14.99,46.99,high,low,3,name.com,,,
+03f18862-2778-4b03-bb3b-83bc2b336b49,intro.gifts,available,9.99,,high,low,5,name.com,,,
+4a90274c-1c75-4e53-8a2c-1051eafa979f,changes.gifts,available,9.99,,medium,low,7,name.com,,,
+bef81c30-1127-4d06-8c5b-5c31ff28b379,awarding.gifts,available,9.99,,high,low,8,name.com,,,
+d0c3ae47-f6ca-44f9-a83d-365c6e8183de,wobbly.gifts,available,9.99,,high,low,6,name.com,,,
+c5dc7a9d-98d0-46d5-9ad6-754f63410640,giraffe.gifts,available,9.99,,high,low,7,name.com,,,
+569c0a8b-6516-4977-ac71-5e3314f7404b,wax.gifts,premium,38.94,38.94,high,low,3,namesilo,,,
+65c2243e-40fd-40f1-9d8b-66657dd743d7,appear.gifts,available,9.99,,high,low,6,name.com,,,
+a2f3ddf5-9a6a-406e-b358-0070ea0cd961,bagel.gifts,available,9.99,,high,low,5,name.com,,,
+81e8a37b-603a-4c50-bd5c-8a85a059fd63,king.gifts,available,9.99,,high,medium,4,name.com,,,
+0ca722ad-eb77-4ed6-89fd-cf670fa64aff,dubstep.gifts,available,9.99,,high,low,7,name.com,,,
+c6977b20-4175-4f0e-a3be-51f18b7ba3c1,shout.gifts,available,9.99,,high,low,5,name.com,,,
+86bb1454-0d98-4ebc-8abd-bca8bbdcd591,transparent.gifts,available,9.99,,high,low,11,name.com,,,
+ab63d4c3-d766-46a3-b759-77bd70c7f8cb,siri.gifts,available,,,high,low,4,,,,
+568288aa-caea-485f-b7ce-c6c106f7df80,brush.gifts,available,9.99,,high,low,5,name.com,,,
+5ecae43f-6e18-4965-b04b-2a54a6182c53,tails.gifts,available,9.99,,high,low,5,name.com,,,
+88c8895b-4a58-4f00-84ce-b0545a6fac7d,barmy.gifts,available,14.99,46.99,medium,low,5,name.com,,,06/08/2026 20:25
+5b46bd40-8d17-410d-9e4e-bae71b42ce86,axile.gifts,available,14.99,46.99,medium,low,5,name.com,,,08/08/2026 01:56
+271be9d7-7e80-41e7-bcd9-66463d7a4940,awed.gifts,available,14.99,46.99,high,low,4,name.com,,,08/08/2026 00:44
+ef72fcf2-cae5-4532-bbe5-dae912f5cca5,arresting.gifts,available,14.99,46.99,high,low,9,name.com,,,06/08/2026 21:47
+383f47c2-cac0-4510-a883-7f97131e9502,zend.gifts,available,14.99,46.99,medium,low,4,name.com,,,07/08/2026 23:12
+ed039d28-ddf2-445f-9c72-eb34c8e76910,portland.gifts,premium,242,242,high,low,8,namesilo,,,
+5abd2f28-3b3d-4d74-9774-5485c7327a65,mop.gifts,premium,45.99,,high,low,3,name.com,,,
+9569f18e-8e99-4a9c-b616-850f350fec9d,pollen.gifts,available,9.99,,high,low,6,name.com,,,
+e8e8c246-de45-49a5-b40d-1c3d1b1c40b3,autistic.gifts,available,14.99,46.99,high,low,8,name.com,,,07/08/2026 19:22
+232cf386-248a-4222-9665-0d0a04e8b359,showering.gifts,available,9.99,,high,low,9,name.com,,,
+2b121fe9-75fa-4c3e-87ee-d992dba73c24,allergenic.gifts,available,14.99,46.99,medium,low,10,name.com,,,
+94375343-f315-44c0-89d4-f78a795ebd22,darken.gifts,available,9.99,,high,low,6,name.com,,,
+30985ad9-2f9f-487f-bffb-44f34b700909,patient.gifts,premium,42.9,42.9,high,low,7,namecheap,,,
+d1769495-5bab-4f02-a7d6-1b46ca110c90,dismay.gifts,available,9.99,,high,low,6,name.com,,,
+d45fa2bd-6b16-4fec-ae98-53277ccf750e,atomistic.gifts,available,14.99,46.99,low,low,9,name.com,,,07/08/2026 13:42
+cce54997-d73c-423e-9f3b-32955aa16f9e,stillborn.gifts,available,14.99,46.99,high,low,9,name.com,,,
+019d3084-bf98-445a-9829-6498eed6f343,sworn.gifts,available,9.99,,high,low,5,name.com,,,
+0c250be9-a688-4e78-bbc1-b17a9796ae0c,everbody.gifts,available,9.99,,medium,low,8,name.com,,,
+1de4b134-51f6-4bb6-92b4-49f179b033ea,success.gifts,available,,,high,low,7,,,,
+aa1175f3-b69c-461d-bf9c-7228bde27d06,primary.gifts,premium,242,242,high,low,7,namesilo,,,
+d9bd166b-bb12-4cbb-81f0-5e227a912b32,intrigue.gifts,available,9.99,,high,low,8,name.com,,,
+5e951678-30db-4cc4-95e6-3b133654e916,top.gifts,premium,500,,high,medium,3,name.com,,,
+ec7f190f-f7b6-469b-84a1-eeee5c1da85b,illegal.gifts,available,9.99,,high,low,7,name.com,,,
+1704b819-9278-46fa-9ab3-8abc853553b2,salary.gifts,premium,78.54,78.54,high,low,6,namesilo,,,
+29ac590b-6313-432b-8caf-e321ee51fa99,hammer.gifts,available,9.99,,high,low,6,name.com,,,
+419cbeb2-4e68-4c8d-b876-49ca5b7f5b87,ablative.gifts,available,14.99,46.99,high,low,8,name.com,,,
+7fc6746f-c96f-4e98-ae23-05349cad7338,condolences.gifts,available,9.99,,high,low,11,name.com,,,
+2b732896-92e0-4d36-ae0d-80cded80223f,indate.gifts,available,9.99,,medium,low,7,name.com,,,
+a8434bb8-9a56-4e1f-9a62-5850e7efb78e,acrid.gifts,available,14.99,46.99,medium,low,5,name.com,,,
+760065ca-4715-4a16-a27c-2e925e222dc5,commenting.gifts,available,9.99,,high,low,10,name.com,,,
+b2c0f4e7-cdcd-4fcd-802b-5587cc6daacf,pray.gifts,available,9.99,,high,low,4,name.com,,,
+c7f8e788-b7dd-4f87-ac16-41bd4078e9da,stygian.gifts,available,14.99,46.99,medium,low,7,name.com,,,
+4ce65ff0-08d5-4491-9b5e-48ea55533068,clearly.gifts,available,9.99,,high,low,7,name.com,,,
+662acc18-3a93-4db8-bae9-6857eef8402e,impact.gifts,available,,,high,low,6,,,,
+b4669a57-2f3f-4df1-9a20-abd063743f10,antebellum.gifts,available,14.99,46.99,medium,low,10,name.com,,,
+7206983c-1c5a-4d51-98dc-f327f72dbf8c,resonating.gifts,available,9.99,,high,low,10,name.com,,,
+ae11a1d5-0221-4978-8037-01433f3bbbd3,rats.gifts,available,9.99,,high,low,4,name.com,,,
+d5ad284b-c98b-4f6d-8443-50d3d4c901cb,vacuum.gifts,available,9.99,,high,low,6,name.com,,,
+f957cf7d-faad-4be2-a27c-203834ff6da6,marines.gifts,available,9.99,,high,low,7,name.com,,,
+ce7a7b2f-8394-4d4b-8216-e1b10c0cd97d,actuated.gifts,available,14.99,46.99,medium,low,8,name.com,,,
+d8f70d71-b2d0-4219-bf7b-e68bd8f01f10,writing.gifts,premium,78.54,78.54,high,low,7,namesilo,,,
+b627b230-a99d-47f2-9452-8f85bc531e88,escaped.gifts,available,14.99,46.99,medium,low,7,name.com,,,07/08/2026 11:22
+a1ffd424-db09-461a-9c4e-dabacf57524f,ataraxic.gifts,available,14.99,46.99,low,low,8,name.com,,,07/08/2026 12:49
+e88df3c4-f152-4895-86a4-d46796000770,relatively.gifts,available,9.99,,high,low,10,name.com,,,
+bfc6efa4-93d2-4a2c-b7ea-07692fbc2d7f,courtyard.gifts,available,9.99,,high,low,9,name.com,,,
+f1004d7e-e624-4c88-a49d-9723e0d629b9,soon.gifts,available,9.99,,high,low,4,name.com,,,
+ad5b639b-a5d6-427f-b40f-cd9834be2eff,liquor.gifts,resell,,,high,low,6,"NameCheap, Inc.",19/10/2021 19:38,19/10/2026 19:38,
+f824be22-188e-4e00-8ed8-04be177f9427,ted.gifts,premium,82.5,,high,low,3,name.com,,,
+31418374-34ca-4bd6-a339-7af070b3fcd4,husky.gifts,available,,,high,low,5,,,,
+77a93873-5f0b-480b-9d2d-e2cb77971aef,section.gifts,available,36.99,36.99,high,low,7,namesilo,,,08/09/2026 06:07
+bb4ac544-183a-44af-a8af-10ecbbdd760c,stain.gifts,available,9.99,,high,low,5,name.com,,,
+65220690-85be-4cde-af02-5fc247310933,seals.gifts,available,9.99,,high,low,5,name.com,,,
+1fe8d914-8388-4acb-85db-4a942e1e1e5a,humongous.gifts,available,14.99,46.99,medium,low,9,name.com,,,08/08/2026 12:58
+56443312-f138-4bd4-af57-6717438e5e6e,respectfully.gifts,available,9.99,,high,low,12,name.com,,,
+6baff0b8-8ada-4752-ba46-f7efff8bf59b,post.gifts,premium,242,242,high,medium,4,namesilo,,,
+f0d10695-92f1-45c7-8d71-298aa52fa404,inside.gifts,available,9.99,,high,low,6,name.com,,,
+5594f4ee-535a-4820-ad28-f317e8edf7d9,bruce.gifts,available,9.99,,high,low,5,name.com,,,
+3ba28e53-873f-4c13-8ae2-06214a46e158,lxv.gifts,available,14.99,46.99,medium,low,3,name.com,,,
+b3cfbf89-b5f9-4884-9425-d4336379165f,starting.gifts,available,9.99,,high,low,8,name.com,,,
+aadbb677-ff47-492a-9aef-816bec8cff7b,adjacent.gifts,available,14.99,46.99,high,low,8,name.com,,,
+165e0c51-c93f-4a5a-8acf-ac3482cc653c,lap.gifts,premium,78.54,78.54,high,low,3,namesilo,,,
+cdf48b6a-5058-4324-aa10-ff9439037b0a,aspirant.gifts,available,14.99,46.99,medium,low,8,name.com,,,07/08/2026 05:02
+db880142-9e89-4048-8748-aa974482f64f,malaria.gifts,available,9.99,,high,low,7,name.com,,,
+6e75e832-da00-4dcc-9224-4a101cba5204,involvement.gifts,available,9.99,,high,low,11,name.com,,,
+51912c2a-27a7-47ea-a0ad-1df90333116e,addled.gifts,available,14.99,46.99,medium,low,6,name.com,,,
+4863d315-0279-4890-966c-0c11952a5139,bus.gifts,premium,78.54,78.54,high,low,3,namesilo,,,
+9ce3cfd1-19b6-457b-afbd-cd3dc7201134,walkabout.gifts,available,9.99,,high,low,10,name.com,,,
+fab34a65-957d-4670-a701-2d9290ac9e2e,alluvial.gifts,available,14.99,46.99,high,low,8,name.com,,,
+c8f9c447-69f3-4a60-9a7a-416cb1a4693d,ameboid.gifts,available,14.99,46.99,medium,low,7,name.com,,,
+c0ecb493-fdb4-4d23-b811-2676797533f7,adventive.gifts,available,14.99,46.99,medium,low,9,name.com,,,
+109d0ba1-fe69-4cba-b897-c28ad6b62c5a,humans.gifts,available,9.99,,high,medium,6,name.com,,,
+9eb57fbc-846c-4131-b399-5fa2c1b30395,sliding.gifts,available,9.99,,high,low,7,name.com,,,
+9a7f68b6-fc28-46bb-bc21-e485fe814c9a,lambent.gifts,available,14.99,46.99,medium,low,7,name.com,,,
+1d6ce69c-1ed8-4a37-a709-53532423b78d,butcher.gifts,available,9.99,,high,low,7,name.com,,,
+eec42de6-b4a5-45ba-9917-6f53b1b1decf,tentative.gifts,available,9.99,,high,low,9,name.com,,,
+9d9ad995-a0f4-4c19-9b09-a546bd338abc,national.gifts,premium,78.54,78.54,high,medium,8,namesilo,,,
+dd7f38af-1186-4929-8125-17b2a903a5cc,chambers.gifts,available,36.99,36.99,high,low,8,namesilo,,,08/09/2026 06:47
+25dbf0eb-5285-4326-86dd-5cbec4cac2cd,armless.gifts,available,14.99,46.99,high,low,7,name.com,,,06/08/2026 19:54
+0879ad75-0fc7-41b5-875d-9df98c1fb6ec,interstate.gifts,available,9.99,,high,low,10,name.com,,,
