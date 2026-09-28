@@ -11,13 +11,13 @@ a04c4fd7-7da0-4ac2-a12c-fa6e0b915b9e,bookstore.gifts,available,36.99,36.99,high,
 bfd14ffe-0760-4350-8abc-fb97e93e6584,sat.gifts,premium,78.54,78.54,high,low,3,namesilo,,,
 31ba3801-b119-47db-911c-6c440fe5d6e6,intolerant.gifts,available,14.99,46.99,medium,low,10,name.com,,,21/08/2026 20:02
 b72905e4-5890-4f46-93bc-26aa6c8640cc,larboard.gifts,available,14.99,46.99,medium,low,8,name.com,,,22/08/2026 19:51
-a4f85630-af69-4043-9419-83fd3ba46f0c,selfish.gifts,available,9.99,,high,low,7,name.com,,,
+a4f85630-af69-4043-9419-83fd3ba46f0c,selfish.gifts,available,29.18,29.18,medium,low,7,spaceship,,,27/09/2026 19:59
 88d45f70-5eeb-403c-8dd2-f058c391b56c,renovation.gifts,available,36.99,36.99,high,low,10,namesilo,,,23/09/2026 02:47
 160e019f-4675-4a2b-872e-2cd0ab020151,eastwards.gifts,available,14.99,46.99,medium,low,9,name.com,,,14/08/2026 23:00
 d2976f29-bf34-444b-8084-7341e01c23bc,stints.gifts,available,36.99,36.99,medium,low,6,namesilo,,,20/09/2026 14:23
 88743015-fcea-4554-bff1-987a4c0ad3bf,offspring.gifts,available,9.99,,high,low,9,name.com,,,
 5f48512a-62bc-4fbb-8c48-321193f206e1,empowering.gifts,premium,38.94,38.94,high,low,10,namesilo,,,
-b215a299-c32e-46cf-9485-7d9ec75a19f0,scrub.gifts,available,9.99,,high,low,5,name.com,,,
+b215a299-c32e-46cf-9485-7d9ec75a19f0,scrub.gifts,available,38.48,47.48,high,low,5,namecheap,,,27/09/2026 18:50
 580d9e43-2810-41e3-a88b-bcaec301b41e,xxvi.gifts,available,36.99,36.99,medium,low,4,namesilo,,,21/09/2026 12:52
 ea2349e9-5b19-4e39-9324-463614d7fdde,orchis.gifts,available,36.99,36.99,medium,low,6,namesilo,,,21/09/2026 23:07
 acafebf4-fb8d-46a7-937f-86df23cc7c4a,etcetera.gifts,available,38.48,47.48,high,low,8,namecheap,,,13/09/2026 19:52
@@ -37,12 +37,13 @@ aebb4380-98d5-4987-8ed5-42b5c61ab451,belching.gifts,available,36.99,36.99,medium
 0d617c10-3000-4e22-86bb-769b4f68bd26,ackee.gifts,available,36.99,36.99,medium,low,5,namesilo,,,17/09/2026 01:52
 51813057-c471-417e-9389-253d60ba6616,fanged.gifts,available,14.99,46.99,medium,low,6,name.com,,,17/08/2026 22:05
 4cdc4b15-a197-4e1d-9a9d-3252d18c3a8e,pathetic.gifts,available,14.99,46.99,medium,low,8,name.com,,,20/08/2026 23:50
-140f8a62-aecc-4e54-b7e1-b5933a173c9c,taint.gifts,available,36.99,36.99,high,low,5,namesilo,,,24/09/2026 17:39
+140f8a62-aecc-4e54-b7e1-b5933a173c9c,taint.gifts,available,36.99,36.99,medium,low,5,namesilo,,,24/09/2026 17:39
 df406868-c2c1-4c3f-a245-549a005e7284,junk.gifts,available,38.48,47.48,medium,low,4,namecheap,,,24/09/2026 21:06
 58554275-7781-4055-9ece-6c380e020104,languorous.gifts,available,14.99,46.99,medium,low,10,name.com,,,22/08/2026 18:05
+90353839-3bcd-4714-995c-d6d98033ae03,buchanan.gifts,available,29.18,29.18,high,low,8,spaceship,,,28/09/2026 01:11
 8d06e6ca-4717-47c8-9bd7-81da38bc71aa,ammonium.gifts,available,38.48,47.48,high,low,8,namecheap,,,18/09/2026 22:10
 b2676f7c-524f-41d2-ba63-c2ad24993820,depot.gifts,available,36.99,36.99,high,low,5,namesilo,,,11/09/2026 11:49
-c0dd0abf-f0fe-412e-9e60-2171c5ff89b1,perfective.gifts,available,14.99,46.99,high,low,10,name.com,,,08/09/2026 16:27
+c0dd0abf-f0fe-412e-9e60-2171c5ff89b1,perfective.gifts,available,14.99,46.99,medium,low,10,name.com,,,08/09/2026 16:27
 c84dbb7f-102f-48de-8202-a5e6917a29f1,kelvin.gifts,available,14.99,46.99,high,low,6,name.com,,,22/08/2026 15:02
 267760d5-794f-4e2c-9659-79e012f20ba5,theistic.gifts,available,36.99,36.99,medium,low,8,namesilo,,,11/09/2026 12:41
 648d4c68-1c21-4a2a-a442-840df176626d,virtuous.gifts,available,36.99,36.99,high,low,8,namesilo,,,13/09/2026 06:06
@@ -62,7 +63,7 @@ ab6c3017-92e8-4488-aced-d533601a2645,stat.gifts,available,9.99,,high,low,4,name.
 bae9339f-15ee-4b14-b7b4-8e8dd69cd36b,daly.gifts,available,36.99,36.99,high,low,4,namesilo,,,25/09/2026 13:04
 b414c6ef-5e20-48b9-8d74-387de35e8951,beaumont.gifts,premium,78.54,78.54,high,low,8,namesilo,,,22/09/2026 22:14
 3a7873da-ac7f-4792-aebb-c54e02d42f0f,mold.gifts,available,36.99,36.99,high,low,4,namesilo,,,24/09/2026 15:22
-e529ca7a-9e84-4cc5-9561-116ccff478af,gita.gifts,available,36.99,36.99,high,low,4,namesilo,,,23/09/2026 12:33
+e529ca7a-9e84-4cc5-9561-116ccff478af,gita.gifts,available,36.99,36.99,medium,low,4,namesilo,,,23/09/2026 12:33
 dc4e6b63-c3e9-497f-8891-8bff18f47128,rattled.gifts,available,14.99,46.99,medium,low,7,name.com,,,18/08/2026 09:33
 0fc76a7b-7a1c-4826-9d8e-9e4317a8dcce,omen.gifts,available,36.99,36.99,high,low,4,namesilo,,,27/09/2026 07:13
 2581237b-0565-4c04-9ed2-65bb4c2b35a8,ataractic.gifts,available,14.99,46.99,low,low,9,name.com,,,07/08/2026 12:44
@@ -75,6 +76,7 @@ e5b09d39-5f62-4009-af06-dd61c1eda659,musing.gifts,available,14.99,46.99,high,low
 5ea61c48-48ca-4a0a-b285-92acb0970642,operable.gifts,available,36.99,36.99,medium,low,8,namesilo,,,04/09/2026 16:20
 96ee23b5-991e-4166-8055-4a1d72bdafb8,follow.gifts,available,36.99,36.99,high,low,6,namesilo,,,25/09/2026 10:05
 5445442a-80ea-4d63-92d2-5cb1cd04b65d,lumber.gifts,available,36.99,36.99,high,low,6,namesilo,,,22/09/2026 10:02
+cabcd814-75fe-49e0-9924-bcb20fca1e19,nations.gifts,available,28.2,28.2,medium,low,7,cloudflare,,,27/09/2026 22:54
 e8e8c246-de45-49a5-b40d-1c3d1b1c40b3,autistic.gifts,available,14.99,46.99,high,low,8,name.com,,,07/08/2026 19:22
 8b215117-a460-452f-8ac2-db765de3ff7d,routinely.gifts,available,14.99,46.99,medium,low,9,name.com,,,16/09/2026 00:11
 fdd9da00-4b6f-49f3-b2d2-573a750f770b,pour.gifts,available,9.99,,high,low,4,name.com,,,
@@ -88,7 +90,7 @@ f2169cc3-2241-4104-9ae0-4e7c68064bac,redstart.gifts,available,14.99,46.99,high,l
 91b66931-c211-4bea-8c4b-054d2c7a4154,leads.gifts,available,38.48,47.48,high,low,5,namecheap,,,25/09/2026 20:21
 04fd94e4-9fb0-4430-bc9b-c4987138fed9,cable.gifts,available,38.48,47.48,high,low,5,namecheap,,,24/09/2026 11:34
 e6799352-8da9-4aa2-889d-252785053b97,opponent.gifts,available,14.99,46.99,high,low,8,name.com,,,04/09/2026 16:36
-cfb0c50f-6993-40fb-96c8-8c3a9ad99c6c,grouped.gifts,available,14.99,46.99,high,low,7,name.com,,,20/08/2026 20:22
+cfb0c50f-6993-40fb-96c8-8c3a9ad99c6c,grouped.gifts,available,14.99,46.99,medium,low,7,name.com,,,20/08/2026 20:22
 d29ccbe4-ba66-43d6-bb4a-52e2c168fb16,temperature.gifts,available,9.99,,high,low,11,name.com,,,
 5e3b08a8-9ece-4f44-8d38-d6bb11420507,notice.gifts,available,36.99,36.99,high,low,6,namesilo,,,24/09/2026 16:29
 c29b226f-9f49-4a4c-b3b7-e3a8c33ba149,unchecked.gifts,available,36.99,36.99,medium,low,9,namesilo,,,12/09/2026 04:32
@@ -105,7 +107,7 @@ f2aadc04-4136-43f0-bd6d-07f5b39f3c78,canasta.gifts,available,38.48,47.48,high,lo
 6c1f47d1-ea3c-43b2-a863-7f13fffc671f,cancerous.gifts,available,14.99,46.99,medium,low,9,name.com,,,11/08/2026 16:33
 d7d1ccae-dccf-4593-a55f-98c88deb34af,subscribed.gifts,available,36.99,36.99,high,low,10,namesilo,,,11/09/2026 00:41
 8ea6eac3-ed47-4e79-b0d4-89abc6ee1447,shut.gifts,available,14.99,46.99,high,low,4,name.com,,,12/08/2026 12:10
-9694f5bc-78ef-4089-939a-ca8867e8ae48,lacy.gifts,available,14.99,46.99,high,low,4,name.com,,,22/08/2026 17:47
+9694f5bc-78ef-4089-939a-ca8867e8ae48,lacy.gifts,available,14.99,46.99,medium,low,4,name.com,,,22/08/2026 17:47
 b3983436-db9a-4696-ab05-995c23e8bdf2,welcoming.gifts,premium,78.54,78.54,high,low,9,namesilo,,,13/09/2026 10:14
 6bbd8fc8-178a-4dff-8768-a45cffd544cc,struggle.gifts,available,9.99,,high,low,8,name.com,,,
 ce810636-5dfe-406f-a641-1b251e245ab0,fortified.gifts,available,14.99,46.99,high,low,9,name.com,,,09/08/2026 00:17
@@ -131,7 +133,7 @@ db2ae498-1958-4fa0-a693-9bdd009922b2,warring.gifts,available,36.99,36.99,medium,
 643c7e0e-080d-4436-a08b-53b4a2f02c91,adjectives.gifts,available,36.99,36.99,medium,low,10,namesilo,,,18/09/2026 16:11
 5edfe7c7-4c7b-4f0f-828d-4e6ef833537a,disrepute.gifts,available,36.99,36.99,medium,low,9,namesilo,,,24/09/2026 22:34
 3bc07ed4-42aa-4072-9f21-dcae5321667a,stricken.gifts,available,14.99,46.99,high,low,8,name.com,,,
-2024fa55-393b-435c-a0b1-d260e088e564,grandkids.gifts,available,38.48,47.48,high,low,9,namecheap,,,19/09/2026 23:28
+2024fa55-393b-435c-a0b1-d260e088e564,grandkids.gifts,available,38.48,47.48,medium,low,9,namecheap,,,19/09/2026 23:28
 141c7e14-ecd5-4092-9951-d75cf9f4c4bf,since.gifts,available,9.99,,high,low,5,name.com,,,
 d56a746b-0e22-4175-b809-76e99f9f9f67,aluminium.gifts,available,36.99,36.99,high,low,9,namesilo,,,18/09/2026 00:20
 5389af7e-fa61-4702-bcda-0cd36ffe51dd,catarrhine.gifts,available,14.99,46.99,medium,low,10,name.com,,,11/08/2026 21:11
@@ -173,13 +175,13 @@ ea2385b1-15c5-47f2-8ff2-aefe68408c75,lendable.gifts,available,14.99,46.99,medium
 925ddc55-2395-4843-aa21-15591f4dd670,adequate.gifts,available,38.48,47.48,high,low,8,namecheap,,,21/09/2026 18:22
 2e073d18-60e9-4654-89cc-643771f11c51,lava.gifts,available,9.99,,high,low,4,name.com,,,
 94deda24-eebe-4b7e-9c5e-d789573866c5,dicks.gifts,available,9.99,,medium,low,5,name.com,,,
-f6201f33-6496-49a0-8f03-10e5946dd492,reverting.gifts,available,36.99,36.99,high,low,9,namesilo,,,09/09/2026 15:58
+f6201f33-6496-49a0-8f03-10e5946dd492,reverting.gifts,available,36.99,36.99,medium,low,9,namesilo,,,09/09/2026 15:58
 4faf3255-39ec-4273-afab-a530e17bdad2,aol.gifts,available,,,high,high,3,,,,
 db7594f3-a069-42ac-91de-86ef1af7676c,issues.gifts,available,38.48,47.48,medium,low,6,namecheap,,,25/09/2026 21:11
 b14f0741-353f-48e2-a9aa-ca2247c80daa,anglomania.gifts,available,36.99,36.99,medium,low,10,namesilo,,,19/09/2026 06:51
 dc4030db-cb3e-4e6a-bb58-75fae5c23a78,vladimir.gifts,available,36.99,36.99,high,low,8,namesilo,,,25/09/2026 14:40
 e5469ddf-2810-4081-993b-46e78bf88d7e,remainder.gifts,available,14.99,46.99,high,low,9,name.com,,,09/09/2026 15:03
-77238407-1675-4df9-9be1-360fb5151e24,outrageous.gifts,available,14.99,46.99,high,low,10,name.com,,,17/08/2026 17:38
+77238407-1675-4df9-9be1-360fb5151e24,outrageous.gifts,available,14.99,46.99,medium,low,10,name.com,,,17/08/2026 17:38
 ad128d79-2d55-4117-bc23-af4c055fc8eb,ringed.gifts,available,36.99,36.99,high,low,6,namesilo,,,
 eb661828-168f-4f30-a441-aaeed43cc7f2,autonomy.gifts,available,36.99,36.99,high,low,8,namesilo,,,21/09/2026 07:27
 d51743f6-c90d-409c-b462-9a41f4c0d1b8,defunct.gifts,available,14.99,46.99,medium,low,7,name.com,,,13/08/2026 23:55
@@ -191,10 +193,10 @@ f08cbaf7-1810-4a1c-b058-55722fbcdb42,bulgarian.gifts,premium,242,242,high,low,9,
 77281263-1f2a-46dc-88bf-512998efc45f,farthest.gifts,available,36.99,36.99,medium,low,8,namesilo,,,24/09/2026 17:05
 92c94d1a-079f-45d1-ae3b-70364bf50810,lxxi.gifts,available,14.99,46.99,medium,low,4,name.com,,,
 db11f8fe-2c41-4047-b449-1c5a25440c25,climb.gifts,available,36.99,36.99,high,low,5,namesilo,,,16/09/2026 22:41
-fc75f4ec-05d0-45a2-8bc6-82d600224546,neither.gifts,available,36.99,36.99,high,low,7,namesilo,,,03/09/2026 15:18
-6bf0b074-14e1-4048-b98a-8ac27aadab59,thou.gifts,available,36.99,36.99,high,low,4,namesilo,,,21/09/2026 11:11
+fc75f4ec-05d0-45a2-8bc6-82d600224546,neither.gifts,available,36.99,36.99,medium,low,7,namesilo,,,03/09/2026 15:18
+6bf0b074-14e1-4048-b98a-8ac27aadab59,thou.gifts,available,36.99,36.99,medium,low,4,namesilo,,,21/09/2026 11:11
 96b62911-e785-4f3d-b6ff-1059fe3ad6bf,reclusive.gifts,available,36.99,36.99,medium,low,9,namesilo,,,09/09/2026 11:40
-a91e4447-6b58-44fa-bceb-5fe60e297252,isosceles.gifts,available,14.99,46.99,high,low,9,name.com,,,22/08/2026 11:16
+a91e4447-6b58-44fa-bceb-5fe60e297252,isosceles.gifts,available,14.99,46.99,medium,low,9,name.com,,,22/08/2026 11:16
 90430bdb-e180-48ad-8c00-a02d89d1bfbe,aggressor.gifts,available,36.99,36.99,medium,low,9,namesilo,,,17/09/2026 17:41
 c5f9ae83-206e-4fbe-ac6f-2204469a254e,arroba.gifts,available,36.99,36.99,medium,low,6,namesilo,,,20/09/2026 09:18
 166a64c0-8853-444e-8bae-f4349b7605f9,oceangoing.gifts,available,36.99,36.99,medium,low,10,namesilo,,,04/09/2026 00:20
@@ -213,7 +215,7 @@ faa9ad68-015d-4837-81a1-c964f6aed24f,tauten.gifts,available,14.99,46.99,medium,l
 7f33dc82-cdb2-4d1c-862b-4697a60af883,expedience.gifts,available,36.99,36.99,medium,low,10,namesilo,,,10/09/2026 02:11
 9ed85f10-e007-4927-a788-6bee7655ca3f,manganese.gifts,available,36.99,36.99,medium,low,9,namesilo,,,20/09/2026 22:40
 f91e7674-dc79-461b-b748-17fa6109278b,herbal.gifts,available,14.99,46.99,high,low,6,name.com,,,21/08/2026 06:58
-fcf83769-fbd1-45d3-8d1b-3c587560919d,loyalist.gifts,available,38.48,47.48,high,low,8,namecheap,,,10/09/2026 18:31
+fcf83769-fbd1-45d3-8d1b-3c587560919d,loyalist.gifts,available,38.48,47.48,medium,low,8,namecheap,,,10/09/2026 18:31
 b9fc3cd1-83ab-4672-8aa1-68a14ccc5d13,alibi.gifts,available,36.99,36.99,high,low,5,namesilo,,,18/09/2026 07:24
 b52fde49-9ec0-4038-96f8-1ad42b2696ed,inhabited.gifts,available,14.99,46.99,high,low,9,name.com,,,22/08/2026 04:59
 7eb2db37-bd62-41df-8579-de00fd518db1,gobsmacked.gifts,available,14.99,46.99,high,low,10,name.com,,,20/08/2026 16:00
@@ -231,7 +233,7 @@ b1c361a5-2096-4deb-9d2d-9af1be0d6c10,effect.gifts,available,9.99,,high,low,6,nam
 22e29720-8b79-4a85-bd49-babc50426f93,speckless.gifts,available,14.99,46.99,medium,low,9,name.com,,,21/08/2026 20:42
 b8bb668f-d86f-484b-bc70-3b5bc88d882e,part.gifts,available,38.48,47.48,high,low,4,namecheap,,,15/09/2026 19:03
 c6dc7608-7419-4ccd-8cca-f3a5e047588e,ballast.gifts,available,36.99,36.99,high,low,7,namesilo,,,21/09/2026 22:46
-3c1b8d86-2c7e-4747-abe7-7ab4598b53fe,stocked.gifts,available,38.48,47.48,high,low,7,namecheap,,,10/09/2026 20:54
+3c1b8d86-2c7e-4747-abe7-7ab4598b53fe,stocked.gifts,available,38.48,47.48,medium,low,7,namecheap,,,10/09/2026 20:54
 715f9765-a541-4666-a99b-0112904fa91d,ajuga.gifts,available,36.99,36.99,medium,low,5,namesilo,,,17/09/2026 23:42
 3eda3d43-8092-46df-976d-8197e2e8c3bb,planate.gifts,available,14.99,46.99,medium,low,7,name.com,,,18/08/2026 06:53
 800f2b91-35d5-4971-a500-caef42e1382a,paired.gifts,available,14.99,46.99,high,low,6,name.com,,,04/09/2026 23:11
@@ -246,13 +248,13 @@ e093526f-a5f5-41b7-8eb8-a3e86897b847,stars.gifts,premium,242,242,high,low,5,name
 edc14628-e43b-444c-9fa6-3a390332ef8c,megan.gifts,available,36.99,36.99,medium,low,5,namesilo,,,26/09/2026 03:31
 6a7968f5-b2f5-4c7d-abcb-4eafde5ca79c,platitude.gifts,available,14.99,46.99,medium,low,9,name.com,,,12/08/2026 19:12
 152bd3eb-e2d4-4ac9-868f-c0302e5f8af8,chore.gifts,available,9.99,,high,low,5,name.com,,,
-8bac1c93-99ae-436d-a3be-0afe7352a5ee,christians.gifts,available,36.99,36.99,high,low,10,namesilo,,,16/09/2026 12:24
+8bac1c93-99ae-436d-a3be-0afe7352a5ee,christians.gifts,available,36.99,36.99,medium,low,10,namesilo,,,16/09/2026 12:24
 e5e2f83e-575c-40b2-8bd8-5e16aca9f57a,slut.gifts,available,36.99,36.99,high,low,4,namesilo,,,17/09/2026 10:21
 a7465d6e-1507-427d-969b-450f6bcd1862,valued.gifts,available,9.99,,high,low,6,name.com,,,
 d67ffbfc-0749-42a6-82fe-178e740eab45,beheading.gifts,available,36.99,36.99,medium,low,9,namesilo,,,23/09/2026 03:20
 18fbd3c6-bcc9-45c0-9578-7024f3edc203,bine.gifts,available,36.99,36.99,medium,low,4,namesilo,,,23/09/2026 17:13
 b4ad58a2-4150-4574-98b5-1ab87c1f7e14,twenty.gifts,available,36.99,36.99,high,low,6,namesilo,,,21/09/2026 12:24
-bcf7031e-9c0d-456e-ad15-283ecd8cff2f,glinting.gifts,available,14.99,46.99,high,low,8,name.com,,,
+bcf7031e-9c0d-456e-ad15-283ecd8cff2f,glinting.gifts,available,14.99,46.99,medium,low,8,name.com,,,
 2fc74eaf-afa7-444b-b668-4b21abcf5dc5,unpopular.gifts,available,14.99,46.99,medium,low,9,name.com,,,12/09/2026 17:11
 1d7042c3-d884-46e0-aca3-a81c0d8ec73a,bargello.gifts,available,36.99,36.99,medium,low,8,namesilo,,,22/09/2026 05:48
 1245e73a-1bfa-4680-b58e-0889ebea9cc6,undone.gifts,available,36.99,36.99,medium,low,6,namesilo,,,11/09/2026 01:55
@@ -266,18 +268,20 @@ fe3b1cb8-5801-45cf-a66f-4f315a9f766c,whitener.gifts,available,36.99,36.99,medium
 aea47a31-ab03-4c69-81a9-31e99f8c6980,hoagie.gifts,available,38.48,47.48,high,low,6,namecheap,,,24/09/2026 20:04
 7002e3b5-a813-4b72-a9fb-ba88c486b81a,totals.gifts,available,38.48,47.48,medium,low,6,namecheap,,,20/09/2026 12:03
 9ee81305-2430-4ae9-9fb0-39f4720fe1ed,pompon.gifts,available,36.99,36.99,medium,low,6,namesilo,,,19/09/2026 09:36
-f4087152-0abf-4e84-932e-34bc277b5443,agonizing.gifts,available,14.99,46.99,high,low,9,name.com,,,
+f4087152-0abf-4e84-932e-34bc277b5443,agonizing.gifts,available,14.99,46.99,medium,low,9,name.com,,,
 24ecfcc4-5342-47fb-aa51-54039f47f039,seize.gifts,available,38.48,47.48,high,low,5,namecheap,,,23/09/2026 20:08
 e4c60b5f-b488-41ee-80c0-555079c53f7f,histrionic.gifts,available,14.99,46.99,medium,low,10,name.com,,,21/08/2026 09:57
+25680e46-c024-4415-8460-e2a0e3141f57,explaining.gifts,available,29.18,29.18,high,low,10,spaceship,,,27/09/2026 22:18
 ae264307-7cfd-45d4-b441-f5f7652d7132,disorders.gifts,available,36.99,36.99,medium,low,9,namesilo,,,20/09/2026 00:40
 a4f1fd70-fd12-4f5d-8dd6-114a83cdbefb,bilgewater.gifts,available,36.99,36.99,medium,low,10,namesilo,,,21/09/2026 23:46
-902472c3-2ac3-41ce-871e-41775591b60d,accounting.gifts,available,36.99,36.99,high,low,10,namesilo,,,26/09/2026 03:06
+902472c3-2ac3-41ce-871e-41775591b60d,accounting.gifts,available,29.18,29.18,high,low,10,spaceship,,,28/09/2026 02:35
 a6256c17-f197-4558-9e41-314e2fe668d7,azygos.gifts,available,14.99,46.99,medium,low,6,name.com,,,08/08/2026 03:32
 9f4bcc6f-6e34-47ce-b9bd-42d911e4ff6e,skill.gifts,available,9.99,,high,medium,5,name.com,,,
 3193f675-002e-45c6-86e1-ed5dd73f9785,moonshine.gifts,available,14.99,46.99,high,low,9,name.com,,,10/08/2026 19:35
 09fe5383-af29-4f11-beee-888103983216,stacked.gifts,available,14.99,46.99,high,low,7,name.com,,,10/08/2026 20:37
 f6df1193-c8c9-4ce0-b657-1193051d9305,aeolus.gifts,available,36.99,36.99,medium,low,6,namesilo,,,17/09/2026 12:36
 12029590-83e4-41f3-a2bb-36c2c39700e3,gooney.gifts,available,36.99,36.99,medium,low,6,namesilo,,,23/09/2026 23:44
+af04cb5b-fa8f-4361-b388-63831caf2d37,replaced.gifts,available,36.99,36.99,medium,low,8,namesilo,,,27/09/2026 22:59
 3cc96b9c-c3b9-47ef-8bc8-2028b571b258,chancel.gifts,available,36.99,36.99,high,low,7,namesilo,,,23/09/2026 07:13
 074b86e1-b2eb-4343-a527-a244ede0878b,alimental.gifts,available,14.99,46.99,medium,low,9,name.com,,,
 027672e7-09d6-42d0-b4b1-1ed772cc6612,albany.gifts,premium,78.54,78.54,high,low,6,namesilo,,,18/09/2026 02:27
@@ -312,7 +316,7 @@ e633bcf3-c70c-42ce-bd4f-ed4624f3bade,parisian.gifts,available,36.99,36.99,high,l
 aeb7b905-de2c-4dba-ba2d-8542411fb7a5,gordon.gifts,available,36.99,36.99,high,low,6,namesilo,,,25/09/2026 11:43
 225a2c8c-f312-4a9c-8e9d-84c63af2c62e,vestigial.gifts,available,14.99,46.99,medium,low,9,name.com,,,13/09/2026 04:54
 39ad4cf2-8186-4a81-9fa4-c0c62278b191,pedal.gifts,available,36.99,36.99,high,low,5,namesilo,,,08/09/2026 12:17
-70cdded0-c66e-43d2-bfe0-c5c9422699b3,bowen.gifts,available,36.99,36.99,high,low,5,namesilo,,,25/09/2026 12:42
+70cdded0-c66e-43d2-bfe0-c5c9422699b3,bowen.gifts,available,36.99,36.99,medium,low,5,namesilo,,,25/09/2026 12:42
 5d08fac8-81d9-40bd-97ab-99493f259cb6,concrete.gifts,available,38.48,47.48,high,low,8,namecheap,,,23/09/2026 19:16
 4a81b1e8-7a9a-4c61-ba0a-5f90b32475e2,going.gifts,available,36.99,36.99,high,low,5,namesilo,,,24/09/2026 22:35
 b1d16c8e-4804-4bbd-8ec0-51ce9d97ab30,ovular.gifts,available,36.99,36.99,medium,low,6,namesilo,,,04/09/2026 22:12
@@ -332,7 +336,7 @@ cf409456-409b-4ab0-9a1a-160669ac265e,villain.gifts,available,36.99,36.99,high,lo
 bdc5257e-b32a-4d6e-b4d1-045f21602d52,allure.gifts,available,36.99,36.99,high,low,6,namesilo,,,18/09/2026 12:11
 d715da21-a888-4a16-9cee-720f1d9d3817,daring.gifts,available,14.99,46.99,high,low,6,name.com,,,07/08/2026 21:39
 0d626dd9-bea9-41f3-bbd0-e7dbe90d08ee,nauseating.gifts,available,14.99,46.99,medium,low,10,name.com,,,24/08/2026 08:23
-e86eefca-a28b-4610-acd6-e5f169970ceb,extinction.gifts,available,9.99,,high,low,10,name.com,,,
+e86eefca-a28b-4610-acd6-e5f169970ceb,extinction.gifts,available,9.99,,medium,low,10,name.com,,,
 ed875e31-1198-4f08-a57c-c5de03fd8026,conductor.gifts,available,9.99,,high,low,9,name.com,,,
 99adea0b-7bc0-4482-9c4f-d7c5b24afd8e,cottage.gifts,premium,38.94,38.94,high,low,7,namesilo,,,24/09/2026 11:16
 644dd115-7bfd-4378-a948-c6b6398804e9,biretta.gifts,available,36.99,36.99,medium,low,7,namesilo,,,23/09/2026 10:06
@@ -348,12 +352,12 @@ ec36ce2c-3277-450f-8fad-71928a8d3337,analyst.gifts,available,9.99,,high,low,7,na
 88253ed2-7348-4857-99be-d9f34047508f,academics.gifts,available,36.99,36.99,high,low,9,namesilo,,,24/09/2026 02:34
 8077fd6b-5b1a-487b-89b8-a6c36abbc074,awake.gifts,available,36.99,36.99,high,low,5,namesilo,,,22/09/2026 14:37
 53443dcd-4a42-40c8-9fe8-add4feab89ce,hardened.gifts,available,14.99,46.99,high,low,8,name.com,,,11/08/2026 20:01
-c46fc9c1-b614-4cde-bdea-2ad39a8c903b,orgy.gifts,available,36.99,36.99,high,low,4,namesilo,,,23/09/2026 17:17
+c46fc9c1-b614-4cde-bdea-2ad39a8c903b,orgy.gifts,available,36.99,36.99,medium,low,4,namesilo,,,23/09/2026 17:17
 13b1f630-9adb-49b0-a4ab-5934bd9c8447,smartly.gifts,available,9.99,,high,low,7,name.com,,,
 650eeb48-1c57-4007-a656-73eb7a98f3f5,blunted.gifts,available,14.99,46.99,medium,low,7,name.com,,,10/08/2026 16:17
 6c256905-0ecb-4edf-89d1-b10fc7f10edf,shh.gifts,available,9.99,,high,low,3,name.com,,,
 1d463075-43dc-4358-8aec-d3e502a3b01c,instyle.gifts,available,38.48,47.48,high,low,8,namecheap,,,17/09/2026 05:05
-4634ea59-bd8f-4e2d-bbf0-47ad7d50cbaf,earthbound.gifts,available,14.99,46.99,high,low,10,name.com,,,14/08/2026 22:37
+4634ea59-bd8f-4e2d-bbf0-47ad7d50cbaf,earthbound.gifts,available,14.99,46.99,medium,low,10,name.com,,,14/08/2026 22:37
 12e7ec07-dde0-422c-a691-9ab749f01dc7,rest.gifts,premium,85.8,85.8,high,low,4,namecheap,,,27/09/2026 12:11
 96525d3a-27f7-412b-a98e-82a33705515d,ohio.gifts,premium,242,242,high,low,4,namesilo,,,
 b11a9c0d-55ed-4cc7-ba46-ca56398d1cdc,compulsory.gifts,available,38.48,47.48,high,low,10,namecheap,,,23/09/2026 18:17
@@ -368,7 +372,7 @@ de3d3e86-7d98-4a6a-a0da-842a90b20e09,overfond.gifts,available,36.99,36.99,medium
 e0cc7cb4-70e8-4920-bf10-fc29ba23c615,jacques.gifts,available,36.99,36.99,high,low,7,namesilo,,,25/09/2026 13:47
 0dec1f53-f87c-4cf7-b3f5-2eb13003d26f,exulting.gifts,available,14.99,46.99,high,low,8,name.com,,,17/08/2026 19:44
 d90333a8-cd7d-4f2b-894d-c612eb2e36d3,doob.gifts,available,38.48,47.48,medium,low,4,namecheap,,,21/09/2026 18:37
-3ecf3926-a83c-4e7c-adb9-11d676716fee,shouted.gifts,available,9.99,,high,low,7,name.com,,,
+3ecf3926-a83c-4e7c-adb9-11d676716fee,shouted.gifts,available,29.18,29.18,high,low,7,spaceship,,,27/09/2026 21:20
 5c745e46-0d8c-44f4-b9e5-efa5d3effd6e,omnivorous.gifts,available,36.99,36.99,medium,low,10,namesilo,,,04/09/2026 13:56
 4f0fd429-e66d-4fc3-ace1-77d823051c4e,vaporous.gifts,available,14.99,46.99,medium,low,8,name.com,,,12/08/2026 14:34
 65116eea-21c5-4ecf-8468-1c0ee03b291d,sneak.gifts,available,36.99,36.99,high,low,5,namesilo,,,23/09/2026 12:44
@@ -378,7 +382,7 @@ ea560d31-163c-4445-bf0d-79efbd429807,sites.gifts,available,38.48,47.48,high,low,
 fcd97b1a-5d1a-49fa-9d04-f48326492c0d,dicey.gifts,available,14.99,46.99,medium,low,5,name.com,,,12/08/2026 01:44
 c92661eb-5944-4cf4-a8e2-8a0ec8236755,victor.gifts,available,,,high,medium,6,,,,
 2ba9936d-3f29-4952-9407-ee8cc45dd387,leasing.gifts,available,9.99,,high,low,7,name.com,,,
-f65fb30b-043e-4bae-93f8-cf8047df5029,allegedly.gifts,available,14.99,46.99,high,low,9,name.com,,,13/09/2026 19:04
+f65fb30b-043e-4bae-93f8-cf8047df5029,allegedly.gifts,available,14.99,46.99,medium,low,9,name.com,,,13/09/2026 19:04
 58aefcd7-8f55-474f-a286-0c496e5ca89d,astral.gifts,available,14.99,46.99,high,low,6,name.com,,,07/08/2026 09:57
 77ae09e5-9484-4f0d-b4aa-2048b833e11a,gaur.gifts,available,36.99,36.99,medium,low,4,namesilo,,,23/09/2026 13:04
 f2500184-699e-40c3-a6c0-b2040472684d,bernoulli.gifts,available,36.99,36.99,medium,low,9,namesilo,,,23/09/2026 09:57
@@ -391,7 +395,7 @@ df3e4c2c-ba49-4bf6-afcd-b9275c82a596,bandstand.gifts,available,36.99,36.99,high,
 d8c834c1-2d5c-498d-9ce2-e064d35555f0,cove.gifts,available,38.48,47.48,high,low,4,namecheap,,,24/09/2026 18:51
 c81772bc-6e9c-419b-907c-9159e49e150a,jeweled.gifts,available,14.99,46.99,high,low,7,name.com,,,18/08/2026 21:10
 9565e993-2589-476d-a1bd-067a8bb438ad,berk.gifts,available,36.99,36.99,medium,low,4,namesilo,,,23/09/2026 09:31
-9bcb2305-6094-4bdc-99fc-80ef7f53bf37,detached.gifts,available,36.99,36.99,high,low,8,namesilo,,,24/09/2026 07:07
+9bcb2305-6094-4bdc-99fc-80ef7f53bf37,detached.gifts,available,36.99,36.99,medium,low,8,namesilo,,,24/09/2026 07:07
 10134d5b-7255-473d-a19e-610029976239,amicably.gifts,available,38.48,47.48,medium,low,8,namecheap,,,13/09/2026 19:29
 40e25ede-d4e6-4758-b861-86ad755c7a54,applique.gifts,available,38.48,47.48,medium,low,8,namecheap,,,19/09/2026 21:57
 95602566-7790-4d55-a7a5-56206038258a,imagined.gifts,available,36.99,36.99,high,low,8,namesilo,,,27/09/2026 09:43
@@ -401,7 +405,7 @@ c23e503d-4e45-4475-abcc-d1266fda604b,guarneri.gifts,available,36.99,36.99,medium
 bc71d625-3644-406d-a2d7-22203d2b5325,multilevel.gifts,available,36.99,36.99,medium,low,10,namesilo,,,03/09/2026 10:46
 0cccb83a-2811-41e3-b965-29db873d4819,ataturk.gifts,available,36.99,36.99,high,low,7,namesilo,,,20/09/2026 19:44
 fe041c7c-d90f-40ad-96d1-4eb4bb6ba22b,sensuous.gifts,premium,78.54,78.54,high,low,8,namesilo,,,10/09/2026 03:48
-43a2f803-e2d1-4fc5-a0a5-f8e5c1efd9eb,shivaree.gifts,available,36.99,36.99,high,low,8,namesilo,,,23/09/2026 06:07
+43a2f803-e2d1-4fc5-a0a5-f8e5c1efd9eb,shivaree.gifts,available,36.99,36.99,medium,low,8,namesilo,,,23/09/2026 06:07
 0fed5711-6355-4bd5-812c-a942afa95f8e,acting.gifts,available,36.99,36.99,high,low,6,namesilo,,,21/09/2026 16:22
 5373b6a8-bca5-45be-a158-31b37fd462c4,faint.gifts,available,14.99,46.99,high,low,5,name.com,,,17/08/2026 21:01
 3796c156-0ab5-4ca1-945a-0e9a7af3a6eb,waste.gifts,available,36.99,36.99,high,low,5,namesilo,,,22/09/2026 17:29
@@ -426,7 +430,7 @@ ae5da76c-edab-485f-9d93-75af7c2cc92b,rentable.gifts,available,36.99,36.99,high,l
 0b4aa363-22c9-4c63-a518-afd064b83ad7,germy.gifts,available,14.99,46.99,medium,low,5,name.com,,,18/08/2026 22:53
 ff5b921f-6ffd-401b-8699-91d3af0684c4,anthyllis.gifts,available,38.48,47.48,medium,low,9,namecheap,,,19/09/2026 14:04
 4f81170d-405f-4487-8e01-5c7e77b45a4b,animated.gifts,available,36.99,36.99,high,low,8,namesilo,,,22/09/2026 05:00
-f5126b64-993a-4bb4-a929-a08ac1c8855b,figurative.gifts,available,36.99,36.99,high,low,10,namesilo,,,19/09/2026 14:22
+f5126b64-993a-4bb4-a929-a08ac1c8855b,figurative.gifts,available,36.99,36.99,medium,low,10,namesilo,,,19/09/2026 14:22
 ba838b25-4e68-4634-8c54-862a0c26bef7,focussed.gifts,available,14.99,46.99,high,low,8,name.com,,,18/08/2026 09:47
 57fce36e-873c-4d92-9790-0866632fe1c6,undesigned.gifts,available,14.99,46.99,medium,low,10,name.com,,,12/09/2026 07:46
 9aff461f-a853-4812-b517-7608804eae55,avoidance.gifts,available,36.99,36.99,medium,low,9,namesilo,,,21/09/2026 09:49
@@ -439,6 +443,7 @@ fae95157-9680-41aa-a5b7-9d8cc1f1419e,healthier.gifts,available,38.48,47.48,high,
 456b3a6d-1a46-411d-82f8-8e0ff5c0d660,infectious.gifts,available,14.99,46.99,medium,low,10,name.com,,,22/08/2026 04:12
 d183ffc4-00d0-41f0-81b9-5cd36e8dcdc0,benighted.gifts,available,36.99,36.99,low,low,9,namesilo,,,08/09/2026 09:10
 651ad1c4-57a1-4c58-b56f-ee2b965de606,arithmancy.gifts,available,36.99,36.99,medium,low,10,namesilo,,,20/09/2026 06:00
+200539cd-ddf2-4315-a9b9-9984d1d3b6d3,farewell.gifts,premium,34.36,34.36,high,low,8,spaceship,,,28/09/2026 01:53
 db157eab-3778-4a69-879a-a6c713da3144,bivalent.gifts,available,14.99,46.99,high,low,8,name.com,,,10/08/2026 08:58
 524e808d-c391-4ccb-b772-c88c977824bc,uncharged.gifts,available,36.99,36.99,medium,low,9,namesilo,,,12/09/2026 05:06
 d194181e-72a1-46e5-899d-676c29cb304b,sumptuous.gifts,available,14.99,46.99,high,low,9,name.com,,,14/08/2026 01:02
@@ -447,7 +452,7 @@ e3794d73-4584-4632-9544-555b25f5cdb6,famously.gifts,available,36.99,36.99,high,l
 2ecfd7f6-ce71-4232-9932-d4c9de544afc,brazilian.gifts,premium,78.54,78.54,high,low,9,namesilo,,,11/08/2026 02:57
 678e255e-d254-4f61-896c-bf2f202d4120,built.gifts,available,38.48,47.48,high,low,5,namecheap,,,23/09/2026 10:20
 af13c161-54e1-4225-b734-df9dc5acebd1,heracles.gifts,available,36.99,36.99,high,low,8,namesilo,,,18/09/2026 04:03
-ad8394a6-8e5f-4faa-87f8-da0acc423acc,muffled.gifts,available,36.99,36.99,high,low,7,namesilo,,,03/09/2026 10:26
+ad8394a6-8e5f-4faa-87f8-da0acc423acc,muffled.gifts,available,36.99,36.99,medium,low,7,namesilo,,,03/09/2026 10:26
 ed6e9cc3-0f9a-4cff-aef6-b29ae3c1ce3e,churlish.gifts,available,14.99,46.99,medium,low,8,name.com,,,12/08/2026 07:49
 71410393-5e1d-4e45-aa45-b98bd4bea078,stentorian.gifts,available,38.48,47.48,medium,low,10,namecheap,,,10/09/2026 20:07
 e35c4501-d2cf-4144-9293-a256061f099d,each.gifts,available,38.48,47.48,high,low,4,namecheap,,,24/09/2026 12:45
@@ -490,7 +495,7 @@ de8f9be9-0337-43db-ab6a-39b72b461092,inevitable.gifts,available,38.48,47.48,high
 0793e78c-6a78-4a5e-aba9-1d50b209bdb4,halab.gifts,available,36.99,36.99,medium,low,5,namesilo,,,18/09/2026 05:12
 a847cc96-c576-4fb5-a4b7-1c558d779bd8,feast.gifts,available,36.99,36.99,high,low,5,namesilo,,,22/09/2026 03:01
 4d3a3a10-fa9b-4d3d-99e1-c3bcbc033319,allice.gifts,available,38.48,47.48,medium,low,6,namecheap,,,18/09/2026 11:05
-8d4e3391-d38a-4f98-981a-1ae09befa239,slav.gifts,available,36.99,36.99,high,low,4,namesilo,,,10/09/2026 10:28
+8d4e3391-d38a-4f98-981a-1ae09befa239,slav.gifts,available,36.99,36.99,medium,low,4,namesilo,,,10/09/2026 10:28
 50179335-01a3-490b-ba6d-1dc49f59ad2c,berserk.gifts,available,14.99,46.99,medium,low,7,name.com,,,
 aad0c682-6438-4985-b620-266a03022df7,promised.gifts,available,36.99,36.99,high,low,8,namesilo,,,17/09/2026 11:24
 40a3d45e-16fb-4e71-8faa-b8002a0e6957,conducted.gifts,available,9.99,,medium,low,9,name.com,,,
@@ -522,7 +527,7 @@ abab8ce1-fb7d-4536-9bf2-e7410e28eb7f,payoff.gifts,available,9.99,,high,low,7,nam
 6eff6849-34a9-46dc-8524-e1fbbefbe5f7,lie.gifts,premium,38.94,38.94,high,low,3,namesilo,,,
 e09af7fe-a895-4ac3-8cb8-88c255edf3ec,osmanli.gifts,available,36.99,36.99,medium,low,7,namesilo,,,04/09/2026 18:41
 406187ab-d69a-496d-910c-c1d4ba618de4,insouciant.gifts,available,14.99,46.99,medium,low,10,name.com,,,11/08/2026 20:34
-dd56f9b5-ac07-45ac-9eb1-61dd64da0f94,coiling.gifts,available,14.99,46.99,high,low,7,name.com,,,12/08/2026 16:09
+dd56f9b5-ac07-45ac-9eb1-61dd64da0f94,coiling.gifts,available,14.99,46.99,medium,low,7,name.com,,,12/08/2026 16:09
 aa253018-90f3-45c3-a1f1-8ed4d14563cc,cannibal.gifts,available,36.99,36.99,medium,low,8,namesilo,,,19/09/2026 13:56
 c699a536-b2aa-440d-a5a3-21c056060672,thieves.gifts,available,36.99,36.99,medium,low,7,namesilo,,,16/09/2026 11:41
 8178585d-a9b8-4311-850e-894dfa6dc279,boreal.gifts,available,14.99,46.99,high,low,6,name.com,,,10/08/2026 19:55
@@ -550,6 +555,7 @@ fcf164a6-aeaa-468c-9d47-724d52e7d9ff,betrayal.gifts,available,36.99,36.99,medium
 8bf5a80e-53c8-4f6c-8b8c-995361360489,rhythm.gifts,available,36.99,36.99,high,low,6,namesilo,,,25/09/2026 22:02
 b392fd38-4054-4ad2-84c2-0c83c179cec2,despicable.gifts,available,14.99,46.99,medium,low,10,name.com,,,14/08/2026 04:00
 5c843532-b77e-4bec-8493-182703e99af1,aguacate.gifts,available,14.99,46.99,medium,low,8,name.com,,,07/08/2026 23:46
+38fea891-297e-4384-957f-c29962ef7a15,mack.gifts,available,28.2,28.2,high,low,4,cloudflare,,,28/09/2026 02:18
 d71a5b2a-9f10-47da-a132-7b34ff9f3488,falsetto.gifts,available,14.99,46.99,high,low,8,name.com,,,17/08/2026 21:33
 07569e8e-7b88-482a-9bd8-2acc189220a9,attenuate.gifts,available,14.99,46.99,medium,low,9,name.com,,,07/08/2026 15:21
 5eb01a08-a3b2-4dae-bc09-bbf858cdd26d,invitation.gifts,available,9.99,,high,low,10,name.com,,,
@@ -581,10 +587,11 @@ a155d500-e1c6-4159-b5a4-5995b384232e,formalise.gifts,available,9.99,,high,low,9,
 6cef3c05-43a7-4cd2-bb41-9e2e219c2143,bestial.gifts,available,14.99,46.99,medium,low,7,name.com,,,09/08/2026 17:57
 a40fe82f-9aa9-430f-b2ec-ba362b0ab31a,basketball.gifts,premium,242,242,high,low,10,namesilo,,,
 cc8ae7bd-d5b4-4985-a0f0-f063f51389c8,contents.gifts,available,9.99,,high,low,8,name.com,,,
-726770c8-dcef-4a45-becd-17efda9a889d,mime.gifts,available,14.99,46.99,high,low,4,name.com,,,24/08/2026 23:33
+726770c8-dcef-4a45-becd-17efda9a889d,mime.gifts,available,14.99,46.99,medium,low,4,name.com,,,24/08/2026 23:33
 d3e5e5ef-ed5d-443b-8f16-3f0937a725e6,abdication.gifts,available,36.99,36.99,medium,low,10,namesilo,,,16/09/2026 14:43
 5d7521a1-9e84-4a28-8e41-1a18a977cfe3,customary.gifts,available,14.99,46.99,high,low,9,name.com,,,13/08/2026 12:29
 623fef30-7c92-44eb-ace6-f548926e26dd,abutter.gifts,available,38.48,47.48,medium,low,7,namecheap,,,16/09/2026 19:36
+1e8c7053-279f-44cd-9b00-8b0c231a54c8,porter.gifts,available,36.99,36.99,high,low,6,namesilo,,,28/09/2026 01:41
 352551ee-7328-448e-97d0-046cf8e180e8,disabled.gifts,available,36.99,36.99,high,low,8,namesilo,,,24/09/2026 10:55
 dfbcaeac-9e0c-42c6-8c74-ef861807e052,albitic.gifts,available,14.99,46.99,medium,low,7,name.com,,,
 7e7efa81-49e3-4ab0-9319-c7a6522e41b1,benchmark.gifts,available,36.99,36.99,high,low,9,namesilo,,,23/09/2026 07:38
@@ -592,7 +599,7 @@ d0d522b7-ace3-4488-b4f2-f958e3ea1c50,carla.gifts,available,36.99,36.99,high,low,
 981224dd-fd8a-4427-98e5-731fbfbe66ff,retain.gifts,available,9.99,,high,low,6,name.com,,,
 c64fef3f-2637-427a-8655-402588409045,kane.gifts,available,36.99,36.99,high,low,4,namesilo,,,27/09/2026 07:59
 08c72779-b37b-4e7f-bdcc-5470f5375646,bionic.gifts,available,14.99,46.99,high,low,6,name.com,,,10/08/2026 02:17
-42ddce54-78c9-4054-8e58-8a077d68d20f,pout.gifts,available,38.48,47.48,high,low,4,namecheap,,,18/09/2026 18:12
+42ddce54-78c9-4054-8e58-8a077d68d20f,pout.gifts,available,38.48,47.48,medium,low,4,namecheap,,,18/09/2026 18:12
 abd1b207-da25-4f9a-9eb4-7e636845ab10,davis.gifts,available,38.48,47.48,high,low,5,namecheap,,,23/09/2026 11:38
 983c23c6-43fd-4620-898c-c8c1d1c24335,hearable.gifts,available,14.99,46.99,medium,low,8,name.com,,,07/08/2026 16:35
 398bbfb3-826d-4127-831c-6c174c93b4e0,sized.gifts,available,14.99,46.99,high,low,5,name.com,,,10/09/2026 09:15
@@ -604,7 +611,7 @@ f8de05af-0b2f-4003-8fb2-d27c205313e7,benet.gifts,available,38.48,47.48,high,low,
 dc0d739a-a659-4d5e-ba5f-63090cf27892,mucky.gifts,available,14.99,46.99,medium,low,5,name.com,,,10/08/2026 17:06
 bcc63809-ec48-445c-9419-0add7ff517af,reflex.gifts,available,38.48,47.48,high,low,6,namecheap,,,27/09/2026 11:10
 cd892828-bbd9-4dae-88f7-4f2e20d2e1bc,was.gifts,premium,78.54,78.54,medium,low,3,namesilo,,,
-47636ba0-5921-4dd2-a1f3-acee5793bb14,antifreeze.gifts,available,36.99,36.99,high,low,10,namesilo,,,19/09/2026 14:23
+47636ba0-5921-4dd2-a1f3-acee5793bb14,antifreeze.gifts,available,36.99,36.99,medium,low,10,namesilo,,,19/09/2026 14:23
 194b8961-db5f-46af-bcd1-d469fdec6141,anklet.gifts,available,38.48,47.48,high,low,6,namecheap,,,19/09/2026 09:41
 db1c2cc0-33b6-4191-8e09-22f5d264a6ec,uncreative.gifts,available,36.99,36.99,medium,low,10,namesilo,,,12/09/2026 06:24
 a87ea77b-35f0-421a-a079-f60ee6c73f9b,indie.gifts,available,14.99,46.99,high,medium,5,name.com,,,22/08/2026 03:00
@@ -619,21 +626,21 @@ d56ef78f-4f3a-4975-ac43-b5851081bb24,puissant.gifts,available,36.99,36.99,medium
 0673479d-9c8b-48d9-b030-0d9b5a1f5e4e,miracle.gifts,available,9.99,,high,low,7,name.com,,,
 2d3d4535-02e6-4f19-a3bb-af49f18c7485,thematic.gifts,available,36.99,36.99,high,low,8,namesilo,,,11/09/2026 12:43
 9cc3f2f9-f25e-4f05-a83c-5dd9953145bc,alpinia.gifts,available,36.99,36.99,medium,low,7,namesilo,,,18/09/2026 14:02
-ce014f48-4756-478b-8c79-7ccf734ff31c,revised.gifts,available,9.99,,high,low,7,name.com,,,
+ce014f48-4756-478b-8c79-7ccf734ff31c,revised.gifts,available,28.2,28.2,high,low,7,cloudflare,,,27/09/2026 14:32
 8457716c-f759-4bcc-8b99-055565a8772a,low.gifts,premium,38.94,38.94,high,low,3,namesilo,,,21/09/2026 13:54
 1d320403-6f77-4822-be92-81fd16613f1c,proofed.gifts,available,36.99,36.99,medium,low,7,namesilo,,,09/09/2026 03:24
 58e3db1e-06e6-401f-9673-c36bb786ed12,nutriment.gifts,available,36.99,36.99,medium,low,9,namesilo,,,18/09/2026 07:52
-9c41b541-3ad8-4b26-a8c1-3d0bd4cacd7a,rumbling.gifts,available,14.99,46.99,high,low,8,name.com,,,20/08/2026 20:34
+9c41b541-3ad8-4b26-a8c1-3d0bd4cacd7a,rumbling.gifts,available,14.99,46.99,medium,low,8,name.com,,,20/08/2026 20:34
 6f602666-c6dd-4d00-be7b-1e964ba8edea,funnily.gifts,available,38.48,47.48,medium,low,7,namecheap,,,14/09/2026 20:40
 ac75604f-2efa-4ae6-bc6c-9af75cab86d8,plaguey.gifts,available,14.99,46.99,medium,low,7,name.com,,,
 e3259c47-65d8-41ed-82a1-ea5d5bb85a04,husbandry.gifts,available,14.99,46.99,high,low,9,name.com,,,17/08/2026 22:35
-ccd70224-c466-4061-a1d4-8ae7047c013d,distribute.gifts,available,9.99,,high,low,10,name.com,,,
+ccd70224-c466-4061-a1d4-8ae7047c013d,distribute.gifts,available,29.18,29.18,high,low,10,spaceship,,,28/09/2026 00:20
 e6582133-9895-46ca-a05d-47259575a8be,susquehanna.gifts,available,36.99,36.99,medium,low,11,namesilo,,,27/09/2026 01:59
 c5d036fc-e031-4cf6-942e-ad487813b613,luminous.gifts,available,14.99,46.99,high,low,8,name.com,,,
-5152523a-ef8a-4579-a4cb-f27f7565bff3,ambrosial.gifts,available,14.99,46.99,high,low,9,name.com,,,
+5152523a-ef8a-4579-a4cb-f27f7565bff3,ambrosial.gifts,available,14.99,46.99,medium,low,9,name.com,,,
 0555d80a-77af-4279-9401-c6c6a0018ca8,cxxxv.gifts,available,14.99,46.99,medium,low,5,name.com,,,
 b816b07c-45e8-4258-9ff1-1b68c68720cf,epos.gifts,available,14.99,46.99,high,low,4,name.com,,,17/08/2026 10:28
-fada5386-aff8-44b5-a0c1-0cf5b05ce2de,rhythmic.gifts,available,9.99,,high,low,8,name.com,,,
+fada5386-aff8-44b5-a0c1-0cf5b05ce2de,rhythmic.gifts,available,28.2,28.2,high,low,8,cloudflare,,,27/09/2026 14:50
 8cfed750-1ee9-4dfd-b36d-2e3468318e4a,resemblance.gifts,available,9.99,,high,low,11,name.com,,,
 ea050e34-67b9-43c6-afbf-b8e60fdf5bff,communal.gifts,available,36.99,36.99,high,low,8,namesilo,,,23/09/2026 16:10
 02301454-766f-4a96-b545-bb9f016115d3,affray.gifts,available,36.99,36.99,medium,low,6,namesilo,,,17/09/2026 14:43
@@ -661,7 +668,7 @@ ff2013dc-801e-441e-872d-6694460f4089,tow.gifts,premium,38.94,38.94,high,low,3,na
 11c03de2-7c3d-487a-a841-dcee997e92b6,compeer.gifts,available,14.99,46.99,medium,low,7,name.com,,,17/08/2026 11:35
 26760abd-18af-414b-a16f-ff5a7b44da5c,sinless.gifts,available,14.99,46.99,medium,low,7,name.com,,,21/08/2026 21:57
 daf82c50-9986-4425-8dd5-422dcadbb2e1,ahab.gifts,available,38.48,47.48,medium,low,4,namecheap,,,17/09/2026 20:17
-7c591c33-aaad-4943-936c-91f5f1d2c3ea,sighted.gifts,available,9.99,,high,low,7,name.com,,,
+7c591c33-aaad-4943-936c-91f5f1d2c3ea,sighted.gifts,available,8.24,30.18,high,low,7,dynadot,,,27/09/2026 21:56
 c3cf9efd-3840-4c9e-825f-0fd6d82a3854,techniques.gifts,available,36.99,36.99,medium,low,10,namesilo,,,19/09/2026 01:18
 d06cc8ee-07dd-44ce-a556-e1ccb50d4538,bpm.gifts,available,36.99,36.99,high,low,3,namesilo,,,22/09/2026 21:53
 e99cabd8-12a7-4c29-a880-e3ce961f1aeb,convolute.gifts,available,14.99,46.99,medium,low,9,name.com,,,12/08/2026 23:57
@@ -679,12 +686,12 @@ ab98d6eb-786b-4b9b-9a03-6976f69bff04,ahead.gifts,available,36.99,36.99,high,low,
 5a3dc8cc-1071-4524-becf-08710a9073cc,rightness.gifts,available,36.99,36.99,high,low,9,namesilo,,,19/09/2026 22:23
 fd275d99-5aef-4187-a02b-3c9ea768b571,threat.gifts,available,9.99,,high,low,6,name.com,,,
 3ae29b5e-99ce-4796-acc2-fae3e210d7a1,dealing.gifts,available,36.99,36.99,high,low,7,namesilo,,,25/09/2026 04:50
-e9fcdadf-c88c-4215-9e10-69750e907d4c,hem.gifts,available,38.48,47.48,high,low,3,namecheap,,,17/09/2026 20:18
+e9fcdadf-c88c-4215-9e10-69750e907d4c,hem.gifts,available,38.48,47.48,medium,low,3,namecheap,,,17/09/2026 20:18
 4ed3caef-db81-4155-a805-438e37c5fdc4,moonlit.gifts,available,14.99,46.99,high,low,7,name.com,,,25/08/2026 05:56
 8973377c-b5a0-45d7-965b-9c6ceb88c99c,teaching.gifts,available,36.99,36.99,high,low,8,namesilo,,,24/09/2026 22:15
 9c66a41a-ee1a-41d3-8d6e-d18f3f7dcd37,arrive.gifts,available,9.99,,high,low,6,name.com,,,
 cd2ce0e5-f8ec-4e4d-b119-2473d2bc57a6,asterion.gifts,available,38.48,47.48,medium,low,8,namecheap,,,20/09/2026 17:10
-0f6d2507-8045-4927-a137-2ca276633f18,willy.gifts,available,36.99,36.99,high,low,5,namesilo,,,27/09/2026 06:19
+0f6d2507-8045-4927-a137-2ca276633f18,willy.gifts,available,36.99,36.99,medium,low,5,namesilo,,,27/09/2026 06:19
 5b617ef3-ef45-494e-ae12-2c3f1f0cf1a3,parietal.gifts,available,36.99,36.99,medium,low,8,namesilo,,,08/09/2026 01:33
 97f77356-b03f-41c1-ae20-05b49509c191,kendall.gifts,available,38.48,47.48,high,low,7,namecheap,,,25/09/2026 05:14
 6fdb7749-2666-4140-a644-48ca5302e6c6,coalition.gifts,available,36.99,36.99,high,low,9,namesilo,,,18/09/2026 07:45
@@ -724,7 +731,7 @@ c672b69a-88be-4406-88c5-fc94473f7d53,nerve.gifts,available,36.99,36.99,high,low,
 a0625f69-a042-4779-8311-43381e49804d,reported.gifts,available,38.48,47.48,high,low,8,namecheap,,,27/09/2026 11:56
 9e6ed395-29a2-45c3-8281-585496fb4be0,bendable.gifts,available,14.99,46.99,medium,low,8,name.com,,,09/08/2026 14:07
 ed84b84f-b448-4302-a908-af2928a5e6b0,cryogenic.gifts,available,14.99,46.99,medium,low,9,name.com,,,13/08/2026 09:35
-0418670a-bfba-4712-afc7-9cfc068d34fa,neandertal.gifts,available,14.99,46.99,high,low,10,name.com,,,10/08/2026 19:30
+0418670a-bfba-4712-afc7-9cfc068d34fa,neandertal.gifts,available,14.99,46.99,medium,low,10,name.com,,,10/08/2026 19:30
 c66ca42a-a4b2-4c77-91a3-1131c21694bd,proudly.gifts,available,36.99,36.99,high,low,7,namesilo,,,15/09/2026 21:48
 c0f805e1-e5ee-4be7-89f0-62c885c2c128,ham.gifts,premium,78.54,78.54,high,low,3,namesilo,,,
 4ce613d9-a7a7-4887-91a6-9fb2e5ab241f,mcleod.gifts,available,36.99,36.99,high,low,6,namesilo,,,27/09/2026 06:53
@@ -734,7 +741,7 @@ fc483fb3-24c1-40a7-8f54-2096c50bff3c,clifford.gifts,available,36.99,36.99,high,l
 eeb47fed-e04f-4140-ad38-676a39b4b15e,import.gifts,available,38.48,47.48,high,low,6,namecheap,,,25/09/2026 18:33
 dc4d24e8-9106-4cd4-b4b7-4e4bae14d370,commonsense.gifts,available,9.99,,high,low,12,name.com,,,
 694737f6-7f60-43ec-bc8b-81b93939ba88,neolithic.gifts,available,36.99,36.99,medium,low,9,namesilo,,,03/09/2026 15:25
-89f1beb4-db13-4170-b062-80120482258f,akkadian.gifts,available,36.99,36.99,high,low,8,namesilo,,,18/09/2026 00:10
+89f1beb4-db13-4170-b062-80120482258f,akkadian.gifts,available,36.99,36.99,medium,low,8,namesilo,,,18/09/2026 00:10
 7d4e6016-e08d-4fc1-a097-02184ecdaffc,dilettante.gifts,available,14.99,46.99,medium,low,10,name.com,,,14/08/2026 07:38
 d2e3e2b0-b5d2-4da5-8e38-fee1e97617ea,acres.gifts,available,38.48,47.48,high,low,5,namecheap,,,17/09/2026 02:56
 12086ee9-1886-4976-b2c1-36915ad4c6da,criticize.gifts,available,9.99,,high,low,9,name.com,,,
@@ -751,17 +758,18 @@ df806fc4-2a16-4a7c-ad7e-6e40c4c60a28,labial.gifts,available,14.99,46.99,medium,l
 476ec6ae-cacf-40a1-b36c-9fb4eb13c8f6,barbate.gifts,available,14.99,46.99,medium,low,7,name.com,,,08/08/2026 16:10
 6c30ff4a-7c7f-4784-a96f-5e82e627b1bf,altaic.gifts,available,14.99,46.99,medium,low,6,name.com,,,
 827d94d0-42b7-4ef3-9ebb-35202bc9f4bf,credibly.gifts,available,36.99,36.99,medium,low,8,namesilo,,,14/09/2026 09:26
+0864b441-2989-41fd-af4e-f52e7459ec04,tops.gifts,available,8.24,30.18,high,low,4,dynadot,,,27/09/2026 21:56
 966e08c0-4904-40ea-9896-e9f66163e519,perfection.gifts,available,36.99,36.99,high,low,10,namesilo,,,22/09/2026 22:03
 ff83c990-31bd-4227-9ca0-e19ff9b9cf1b,witness.gifts,available,38.48,47.48,high,low,7,namecheap,,,21/09/2026 01:35
 0175beb4-403e-4d88-afb0-1965ef9dc82b,marred.gifts,available,14.99,46.99,medium,low,6,name.com,,,24/08/2026 16:28
 8ad89585-9432-43de-959a-56d0b3c3929c,learnt.gifts,available,9.99,,medium,low,6,name.com,,,
 b8ef9303-b3ef-4a3c-b2ab-eccef3440e75,montreal.gifts,premium,45.99,,high,low,8,name.com,,,
-9b394018-7d55-4856-b309-07c50e29be21,extempore.gifts,available,14.99,46.99,high,low,9,name.com,,,
+9b394018-7d55-4856-b309-07c50e29be21,extempore.gifts,available,14.99,46.99,medium,low,9,name.com,,,
 8c3f8161-bc6a-4c53-a4f8-7d8335dded3e,enraptured.gifts,available,14.99,46.99,high,low,10,name.com,,,14/08/2026 23:46
 fa1773df-b041-4827-9b28-dbe742c4e8e6,barker.gifts,available,36.99,36.99,high,low,6,namesilo,,,22/09/2026 06:27
 72c5dcf6-7fab-4fe8-9fd3-fe771e6e82f2,greene.gifts,available,36.99,36.99,high,low,6,namesilo,,,25/09/2026 06:41
 c6e31709-da6d-421e-8730-ed64ca8bb745,balkans.gifts,available,36.99,36.99,medium,low,7,namesilo,,,21/09/2026 22:15
-0676b33c-7b8c-48e9-ac2d-dc67efb2b150,opinions.gifts,available,36.99,36.99,high,low,8,namesilo,,,17/09/2026 07:35
+0676b33c-7b8c-48e9-ac2d-dc67efb2b150,opinions.gifts,available,36.99,36.99,medium,low,8,namesilo,,,17/09/2026 07:35
 2a77dfd9-6029-4510-876b-8a26765cd1a4,touching.gifts,available,14.99,46.99,high,low,8,name.com,,,
 48ee1237-7c9d-412b-8a52-935cab6aa1c7,diluvian.gifts,available,14.99,46.99,medium,low,8,name.com,,,14/08/2026 07:51
 dd8d1a32-993c-4f6e-b10d-8624f4cdc5f7,contour.gifts,available,38.48,47.48,high,low,7,namecheap,,,24/09/2026 17:43
@@ -791,7 +799,7 @@ a0887951-55b9-42b2-adbf-6355a3c0e798,pavlovian.gifts,available,36.99,36.99,mediu
 1ff06802-ab6d-438b-912b-8749336c1d77,year.gifts,available,9.99,,high,low,4,name.com,,,
 91d3a107-cc77-4ca4-ac2a-0a1fa747100f,inaugural.gifts,available,14.99,46.99,high,low,9,name.com,,,22/08/2026 00:37
 97c3bda5-9f9b-4a1e-ac8b-ecc570e0ee3f,uncooked.gifts,available,14.99,46.99,medium,low,8,name.com,,,12/09/2026 06:09
-edcdaa6d-96c9-4cbc-81cc-8bc277e15382,combative.gifts,available,14.99,46.99,high,low,9,name.com,,,
+edcdaa6d-96c9-4cbc-81cc-8bc277e15382,combative.gifts,available,14.99,46.99,medium,low,9,name.com,,,
 3692bf10-fd7a-4b39-8e3e-b2003dd7e50e,cyclic.gifts,available,14.99,46.99,high,low,6,name.com,,,13/08/2026 13:31
 eae16658-aa8a-4187-a097-7a4ef51627b8,dominos.gifts,available,36.99,36.99,high,low,7,namesilo,,,24/09/2026 23:28
 0ded8c70-91bb-4e45-bc8e-94893c0861d0,brazen.gifts,available,14.99,46.99,high,low,6,name.com,,,11/08/2026 02:54
@@ -804,7 +812,7 @@ eae16658-aa8a-4187-a097-7a4ef51627b8,dominos.gifts,available,36.99,36.99,high,lo
 df7f9553-92af-4283-8ab7-71dd015faa39,gentle.gifts,available,,,high,low,6,,,,
 5d1c3758-8cf8-436c-a713-e0ecf4e9e928,couth.gifts,available,14.99,46.99,medium,low,5,name.com,,,13/08/2026 03:54
 e39e26f7-dc51-4553-ae53-fe9344a78700,ambystoma.gifts,available,36.99,36.99,medium,low,9,namesilo,,,18/09/2026 17:36
-f1588c7a-e942-4fb0-b1f0-da377d8edff5,beggar.gifts,available,36.99,36.99,high,low,6,namesilo,,,23/09/2026 02:08
+f1588c7a-e942-4fb0-b1f0-da377d8edff5,beggar.gifts,available,36.99,36.99,medium,low,6,namesilo,,,23/09/2026 02:08
 9f35e57e-ad38-441c-9b27-d259ea0b996c,candidate.gifts,available,9.99,,high,low,9,name.com,,,
 17a2c3b9-eb50-4a24-a4ea-8c96858b3d5d,agrostemma.gifts,available,38.48,47.48,medium,low,10,namecheap,,,17/09/2026 19:51
 43795104-9bc8-436d-8a8a-017f64a1d825,bayesian.gifts,available,14.99,46.99,medium,low,8,name.com,,,09/08/2026 03:13
@@ -812,7 +820,7 @@ f1588c7a-e942-4fb0-b1f0-da377d8edff5,beggar.gifts,available,36.99,36.99,high,low
 e66488eb-9e0a-425d-bb14-017ee21e79eb,professional.gifts,premium,242,242,high,low,12,namesilo,,,25/09/2026 11:40
 a89b154e-38e9-40cc-98d3-ff3b3e6dd177,numeric.gifts,available,14.99,46.99,high,low,7,name.com,,,03/09/2026 22:54
 a6b3663b-f6b6-4afc-af80-49bdaa53541d,elderly.gifts,available,36.99,36.99,high,low,7,namesilo,,,21/09/2026 22:30
-93cd9ea4-e82e-444b-888d-b36e10514be7,flammable.gifts,available,14.99,46.99,high,low,9,name.com,,,18/08/2026 06:32
+93cd9ea4-e82e-444b-888d-b36e10514be7,flammable.gifts,available,14.99,46.99,medium,low,9,name.com,,,18/08/2026 06:32
 08ceb7ff-d8f6-46b8-b832-59122f42592d,boringly.gifts,available,36.99,36.99,medium,low,8,namesilo,,,14/09/2026 01:08
 5144c643-f9ac-434b-af78-8f915c51ecd8,barterer.gifts,available,14.99,46.99,medium,low,8,name.com,,,22/09/2026 08:58
 990b981f-4339-4f01-ac0e-71e501e33b0d,laboured.gifts,available,14.99,46.99,medium,low,8,name.com,,,22/08/2026 17:40
@@ -823,7 +831,7 @@ fd5a611d-6227-4c9a-863e-716aaa0057df,avid.gifts,available,14.99,46.99,high,low,4
 ee4aebb4-010f-4628-b4d7-b4b2a61f73a2,alca.gifts,available,36.99,36.99,high,low,4,namesilo,,,18/09/2026 03:36
 9b68436c-bca7-4dec-9f6d-91abb22182c6,suspense.gifts,available,9.99,,high,low,8,name.com,,,
 33e53087-40a5-44ad-b84e-73ffc5f581c0,jacobs.gifts,available,9.99,,high,low,6,name.com,,,
-56a865f6-8f77-495a-b35b-a7477e09d0e6,aborigine.gifts,available,14.99,46.99,high,low,9,name.com,,,
+56a865f6-8f77-495a-b35b-a7477e09d0e6,aborigine.gifts,available,14.99,46.99,medium,low,9,name.com,,,
 de25347a-9b1c-4887-a2c4-940397308c4a,sidewalks.gifts,available,36.99,36.99,medium,low,9,namesilo,,,21/09/2026 06:21
 7d0b1755-7d2c-4486-b00e-3dce8c64d94e,arrester.gifts,available,36.99,36.99,medium,low,8,namesilo,,,20/09/2026 09:09
 c8f598f6-8533-4149-9eec-87cccccbbbcc,genuinely.gifts,available,9.99,,high,low,9,name.com,,,
@@ -831,13 +839,13 @@ c8f598f6-8533-4149-9eec-87cccccbbbcc,genuinely.gifts,available,9.99,,high,low,9,
 6ce6e66a-3b7b-428c-97bc-68a30577fde6,intensify.gifts,available,14.99,46.99,high,low,9,name.com,,,12/08/2026 19:29
 6ed7ecd9-d51e-44d7-a5b0-913fe1453930,dactylic.gifts,available,14.99,46.99,medium,low,8,name.com,,,13/08/2026 15:27
 fe16bcea-80b9-46a0-9a3b-e60ed568edef,eulogy.gifts,available,36.99,36.99,high,low,6,namesilo,,,05/09/2026 00:43
-e844200c-9b7c-44ff-88f0-05b442efead2,starlit.gifts,available,14.99,46.99,high,low,7,name.com,,,10/09/2026 18:56
+e844200c-9b7c-44ff-88f0-05b442efead2,starlit.gifts,available,14.99,46.99,medium,low,7,name.com,,,10/09/2026 18:56
 a8474278-f77e-42da-89ea-14caaa78279a,alnus.gifts,available,36.99,36.99,medium,low,5,namesilo,,,18/09/2026 12:53
 3f7a6ddb-0141-4e0f-9150-68a8acd65917,probative.gifts,available,36.99,36.99,medium,low,9,namesilo,,,09/09/2026 02:27
 de88d12a-8278-4f58-a2c1-3a087a0d323d,mantrap.gifts,available,14.99,46.99,medium,low,7,name.com,,,22/08/2026 16:50
 a4ca12a3-5307-4557-a227-6d3e7098ff08,html.gifts,available,9.99,,high,low,4,name.com,,,
 3f9791f5-a48a-4913-857e-fb2ac3561bb1,yucky.gifts,available,14.99,46.99,medium,low,5,name.com,,,14/08/2026 10:51
-fa45bea4-3912-4c16-aed4-01e44996fec1,birthmark.gifts,available,38.48,47.48,high,low,9,namecheap,,,23/09/2026 21:13
+fa45bea4-3912-4c16-aed4-01e44996fec1,birthmark.gifts,available,38.48,47.48,medium,low,9,namecheap,,,23/09/2026 21:13
 6b888ff6-ef12-420b-b557-aae819fe309c,unmapped.gifts,available,14.99,46.99,medium,low,8,name.com,,,12/08/2026 02:55
 dec5c847-2db9-4c27-bb58-4bad53440fed,baize.gifts,available,38.48,47.48,medium,low,5,namecheap,,,21/09/2026 19:59
 811139f2-418e-4e95-8066-233a27e9fb66,appellant.gifts,available,14.99,46.99,medium,low,9,name.com,,,06/08/2026 06:23
@@ -860,12 +868,13 @@ bc15b889-2d5c-464c-b681-bee71aaec726,snakebird.gifts,available,36.99,36.99,mediu
 482879cb-132a-41c6-9a3d-8dfb254d6c87,jittery.gifts,available,14.99,46.99,medium,low,7,name.com,,,15/08/2026 08:41
 25006064-d60b-4517-b4f3-32e4f9aa1303,flint.gifts,available,14.99,46.99,high,low,5,name.com,,,18/08/2026 08:20
 3b337196-9070-430b-ae9e-494374033897,abdominal.gifts,available,36.99,36.99,high,low,9,namesilo,,,21/09/2026 13:47
+ca38c147-ed29-4ce2-b841-cf9a98f8720e,cas.gifts,available,38.48,47.48,high,low,3,namecheap,,,27/09/2026 23:14
 9a9d7b18-7d06-40e7-a24a-27c990653603,harmonic.gifts,available,14.99,46.99,high,low,8,name.com,,,12/08/2026 22:46
 2b01e6b7-35da-4ba0-a21d-c87f6e27bf22,asparagus.gifts,available,36.99,36.99,high,low,9,namesilo,,,20/09/2026 14:40
 16e3811f-5117-4114-89c2-ed369b92016b,appointee.gifts,available,36.99,36.99,medium,low,9,namesilo,,,19/09/2026 21:58
 38b6d3d5-3582-44be-bc09-9e7a6445e2f0,bellwether.gifts,available,38.48,47.48,high,low,10,namecheap,,,23/09/2026 06:30
 e4a13408-5c4b-48ad-8fc4-39defb898246,opts.gifts,available,14.99,46.99,medium,low,4,name.com,,,18/09/2026 13:57
-c7d7b8e1-3f03-4010-94d5-e4f1f7397ee9,ironed.gifts,available,14.99,46.99,high,low,6,name.com,,,22/08/2026 10:04
+c7d7b8e1-3f03-4010-94d5-e4f1f7397ee9,ironed.gifts,available,14.99,46.99,medium,low,6,name.com,,,22/08/2026 10:04
 6d7ee12d-14c9-4a95-8935-f046e92a6be6,madly.gifts,available,36.99,36.99,medium,low,5,namesilo,,,14/09/2026 09:19
 887c8743-c4ee-4552-8a7f-8e0823356537,motherlike.gifts,available,14.99,46.99,medium,low,10,name.com,,,25/08/2026 07:04
 637690e2-732d-42d9-a00f-6a41200c7bd3,nike.gifts,available,,,high,high,4,,,,
@@ -878,7 +887,7 @@ c7d7b8e1-3f03-4010-94d5-e4f1f7397ee9,ironed.gifts,available,14.99,46.99,high,low
 1d3c57f5-98c6-4542-b9bf-301eb4c8e6c6,mile.gifts,available,9.99,,high,low,4,name.com,,,
 85888242-c731-41a3-802d-8690d0f7ff5a,overeasy.gifts,available,14.99,46.99,medium,low,9,name.com,,,16/09/2026 17:44
 9410761a-c574-45d5-83d7-35e2071fceb5,blaster.gifts,available,36.99,36.99,high,low,7,namesilo,,,24/09/2026 04:22
-78ab74cf-a568-485a-b0a2-4ff9825047c6,anyway.gifts,available,9.99,,high,low,6,name.com,,,
+78ab74cf-a568-485a-b0a2-4ff9825047c6,anyway.gifts,available,36.99,36.99,medium,low,6,namesilo,,,27/09/2026 22:14
 c0115da5-3d71-42b7-8364-4fa1b7a3237f,civic.gifts,available,14.99,46.99,high,low,5,name.com,,,12/08/2026 09:01
 c3a5ba63-e756-45af-b457-c376bcdc9d44,hydroponic.gifts,available,14.99,46.99,medium,low,10,name.com,,,06/08/2026 10:34
 3d206157-6c52-4d45-a3bf-597dd2097a1c,tempered.gifts,available,36.99,36.99,high,low,8,namesilo,,,11/09/2026 10:50
@@ -892,7 +901,7 @@ e9f7a480-d7ba-4c28-803b-604575a7c183,surfboard.gifts,available,9.99,,high,low,9,
 0b7a0033-0f49-4355-8dc6-6d4d4e80e984,duct.gifts,available,38.48,47.48,high,low,4,namecheap,,,25/09/2026 00:18
 0ce9c6e4-6fdf-49ef-a45c-f5c5a9eeff69,mckay.gifts,available,38.48,47.48,high,low,5,namecheap,,,25/09/2026 16:25
 342273ad-67e9-497f-836e-aa99eb4521a1,yemeni.gifts,premium,242,242,high,low,6,namesilo,,,13/09/2026 14:34
-281b9edb-b86d-4056-a383-101309512ad1,enormously.gifts,available,36.99,36.99,high,low,10,namesilo,,,14/09/2026 15:47
+281b9edb-b86d-4056-a383-101309512ad1,enormously.gifts,available,36.99,36.99,medium,low,10,namesilo,,,14/09/2026 15:47
 1e1be27a-af56-443b-a816-84fff4dc816a,hallowed.gifts,available,14.99,46.99,high,low,8,name.com,,,20/08/2026 22:52
 156091f3-cb0a-4557-b0a4-799cede3ec0d,uncoated.gifts,available,14.99,46.99,medium,low,8,name.com,,,12/09/2026 05:35
 3ba77959-4218-425a-8b67-0fe012e60ebb,situation.gifts,available,9.99,,high,low,9,name.com,,,
@@ -928,8 +937,8 @@ eff4df2d-ecc4-461f-aaeb-130407e21c87,hassium.gifts,available,36.99,36.99,medium,
 9298b6e7-6f5a-440d-9ebf-3770f4f751d9,unpackaged.gifts,available,36.99,36.99,medium,low,10,namesilo,,,12/09/2026 16:23
 b14417fd-d5ad-43c9-8311-f7e02000303c,congratulations.gifts,premium,42.9,42.9,high,low,15,namecheap,,,27/09/2026 04:43
 eed9f2c2-e222-4bdc-bf77-3cf037e3390b,inert.gifts,available,14.99,46.99,high,low,5,name.com,,,22/08/2026 03:57
-01708519-ce57-4418-8edb-fb6e40afe68d,rarely.gifts,available,14.99,46.99,high,low,6,name.com,,,15/09/2026 22:32
-5ec26f31-abab-4be5-9d23-84ddfa33182c,earliest.gifts,available,36.99,36.99,high,low,8,namesilo,,,24/09/2026 12:55
+01708519-ce57-4418-8edb-fb6e40afe68d,rarely.gifts,available,14.99,46.99,medium,low,6,name.com,,,15/09/2026 22:32
+5ec26f31-abab-4be5-9d23-84ddfa33182c,earliest.gifts,available,36.99,36.99,medium,low,8,namesilo,,,24/09/2026 12:55
 7f35e012-868f-4151-beaa-124a2f2eba29,fledgeling.gifts,available,14.99,46.99,medium,low,10,name.com,,,18/08/2026 07:32
 df85ac2b-4803-4b4e-86ba-3670d20b8d99,donkey.gifts,available,9.99,,high,low,6,name.com,,,
 ebce1427-e5e2-42a3-b793-d5d1e27e8b59,trader.gifts,premium,242,242,high,low,6,namesilo,,,
@@ -959,12 +968,14 @@ b44d21c4-3823-4206-9558-780e382081cd,unchanged.gifts,available,14.99,46.99,high,
 d8278331-ae02-4c72-8a69-3bf2cfe3b6d9,bathymetry.gifts,available,36.99,36.99,medium,low,10,namesilo,,,22/09/2026 13:55
 ac6be512-f668-4649-88ed-b4aa26180d0e,cheeky.gifts,available,14.99,46.99,high,low,6,name.com,,,11/08/2026 02:26
 497291e5-3277-4f5e-a0af-cb46cec9cb2c,almandine.gifts,available,36.99,36.99,medium,low,9,namesilo,,,18/09/2026 12:29
-64c4d9a3-1e5a-4f79-8f5b-9f8410a6b3f1,trickster.gifts,available,36.99,36.99,high,low,9,namesilo,,,23/09/2026 02:57
+64c4d9a3-1e5a-4f79-8f5b-9f8410a6b3f1,trickster.gifts,available,36.99,36.99,medium,low,9,namesilo,,,23/09/2026 02:57
+e9794d4e-aac9-4e03-a892-9a33ad4fb089,floors.gifts,available,28.2,28.2,medium,low,6,cloudflare,,,27/09/2026 22:02
 272d144c-c982-4b1f-8837-ae08a116f588,linda.gifts,available,36.99,36.99,high,low,5,namesilo,,,25/09/2026 14:03
-53b6046d-8d52-4d4d-ac4b-24db22cf306a,asceticism.gifts,available,36.99,36.99,high,low,10,namesilo,,,20/09/2026 13:08
+53b6046d-8d52-4d4d-ac4b-24db22cf306a,asceticism.gifts,available,36.99,36.99,medium,low,10,namesilo,,,20/09/2026 13:08
 fee8c8d8-5c08-4ae5-8a6f-0b8c700fcb1f,indifferent.gifts,available,9.99,,high,low,11,name.com,,,
 7f2050c6-530d-47af-974a-dd3bd9b2a023,seen.gifts,available,9.99,,high,low,4,name.com,,,
 d4377738-05b9-4809-b4a9-5b3e056e1abb,granville.gifts,available,36.99,36.99,medium,low,9,namesilo,,,27/09/2026 01:40
+a293246a-1779-4724-944a-f4ae051d7354,doctrine.gifts,available,36.99,36.99,high,low,8,namesilo,,,28/09/2026 02:40
 911a7f3e-b7df-427d-87e7-6b24f673627f,ataraxia.gifts,available,38.48,47.48,high,low,8,namecheap,,,20/09/2026 19:35
 f8ab6e23-0b4c-4e72-a009-c81171c4ced1,classical.gifts,available,14.99,46.99,high,low,9,name.com,,,12/08/2026 09:42
 9d4cddad-b04e-4ad8-a6ee-d03b9416d01a,amour.gifts,available,36.99,36.99,high,low,5,namesilo,,,17/09/2026 14:07
@@ -980,22 +991,11 @@ ad2ef504-8b8b-4155-ae2f-c89a2453c17b,farmer.gifts,available,14.99,46.99,high,low
 92bb3f3b-647f-4e9b-9914-05636a40762a,cerise.gifts,available,14.99,46.99,medium,low,6,name.com,,,10/08/2026 15:04
 7b12c2ed-1be6-4629-b24d-ab19eb65e663,baggage.gifts,available,9.99,,high,low,7,name.com,,,
 7f724c44-9482-4023-8fd1-52552c5470d8,shallot.gifts,available,36.99,36.99,medium,low,7,namesilo,,,18/09/2026 11:16
-9e30a7aa-1fdc-4e9f-bc25-1aedad1a88a6,gratuitous.gifts,available,14.99,46.99,high,low,10,name.com,,,13/08/2026 03:14
+9e30a7aa-1fdc-4e9f-bc25-1aedad1a88a6,gratuitous.gifts,available,14.99,46.99,medium,low,10,name.com,,,13/08/2026 03:14
 9c041854-9f36-48cd-9ef6-608a8496fc28,creating.gifts,available,9.99,,high,low,8,name.com,,,
 b899a3e6-707c-4640-8214-e2fa21dc002a,fleshy.gifts,available,14.99,46.99,medium,low,6,name.com,,,18/08/2026 08:02
 bc12010b-e472-4767-86cf-4d977423bc9c,stuffy.gifts,available,14.99,46.99,high,low,6,name.com,,,
 3a53f7b7-1794-4ca6-90ff-94cd57d02b84,mogul.gifts,available,36.99,36.99,high,low,5,namesilo,,,23/09/2026 14:17
 1fc1b1a7-1036-4672-a31d-1c5a517f5e60,gaslit.gifts,available,36.99,36.99,medium,low,6,namesilo,,,17/09/2026 16:25
 be96c23d-fd0c-46f0-87d1-38a780e6eed2,nutrify.gifts,available,38.48,47.48,medium,low,7,namecheap,,,18/09/2026 07:57
-34f679e8-27e9-40c4-a827-bbdf4f97087a,revered.gifts,available,9.99,,high,low,7,name.com,,,
-1cd044fb-eacf-49a4-8ba9-896571f8df05,wilsonian.gifts,available,36.99,36.99,medium,low,9,namesilo,,,13/09/2026 12:02
-97414896-6223-47ba-a515-4a66f5f8ef80,participant.gifts,available,9.99,,high,low,11,name.com,,,
-4127cf7e-30e9-4952-95f8-beb143ee8fe4,mousy.gifts,available,14.99,46.99,medium,low,5,name.com,,,25/08/2026 08:42
-cdafae79-bb4c-468a-9f43-b4b3d438c351,grave.gifts,available,14.99,46.99,high,low,5,name.com,,,20/08/2026 18:38
-2fcd727d-9e2c-4c69-8a1e-a5be98aa24c4,ornate.gifts,available,38.48,47.48,high,low,6,namecheap,,,04/09/2026 17:59
-8603b4b1-b05f-4730-9649-9280b82f71c8,abbess.gifts,available,36.99,36.99,medium,low,6,namesilo,,,16/09/2026 14:23
-db20a2d3-6766-4fee-aa2d-18ec2fd61330,tree.gifts,premium,42.9,42.9,high,low,4,namecheap,,,
-d4ca7a70-1d0a-4b85-86b0-66e40ce78741,brave.gifts,available,36.99,36.99,high,medium,5,namesilo,,,22/09/2026 12:10
-56a9babc-2a9b-4e77-b1eb-2784e4a03353,ardeb.gifts,available,36.99,36.99,medium,low,5,namesilo,,,20/09/2026 03:06
-1ef5ec9c-a77e-42e8-a10f-8d4441b44f4a,nash.gifts,available,9.99,,high,low,4,name.com,,,
-29c89743-a4e8-4067-8a12-a9de14f85d70,amnion.gifts,available,36.99,36.99,medium,low,6,namesilo,,,18/09/2026 22:24
+34f679e8-27e9-40c4-a827-bbdf4f97087a,revered.gifts,available,36.99,36.99,high,low,7,namesilo,,,27/09/2026 14:02
