@@ -1,10 +1,10 @@
-# Available .GIFTS One-Word Domains (28,524)
+# Available .GIFTS One-Word Domains (30,947)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C524%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C947%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .gifts one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **28,524 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **30,947 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 28,524 domains · **Median ask:** $34.33 · **High-demand under $2,500:** 5
+**Public extract:** 1,000 rows · **Live catalog:** 30,947 domains · **Median ask:** $34.41 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/gifts`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,7 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| bor.gifts       | available | $28.20    | $28.20        | high           | low    | 3      | cloudflare  |
+| bor.gifts       | available | $28.20    | $28.20        | medium         | low    | 3      | cloudflare  |
 | super.gifts     | resell    | —         | —             | high           | medium | 5      | Dynadot Inc |
 | aaa.gifts       | premium   | $512      | $512          | high           | medium | 3      | namesilo    |
 | bpm.gifts       | available | $36.99    | $36.99        | high           | low    | 3      | namesilo    |
@@ -73,17 +73,17 @@ print(df.head())
 | cdp.gifts       | available | $29.18    | $29.18        | high           | low    | 3      | spaceship   |
 | gardening.gifts | resell    | —         | —             | high           | low    | 9      | —           |
 | ces.gifts       | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo    |
-| dai.gifts       | available | $36.99    | $36.99        | high           | low    | 3      | namesilo    |
+| chp.gifts       | available | $36.99    | $36.99        | medium         | low    | 3      | namesilo    |
 | ent.gifts       | premium   | $34.36    | $34.36        | high           | low    | 3      | spaceship   |
-| dio.gifts       | available | $36.99    | $36.99        | high           | low    | 3      | namesilo    |
+| dai.gifts       | available | $36.99    | $36.99        | high           | low    | 3      | namesilo    |
 | ham.gifts       | premium   | $68.51    | $68.51        | high           | low    | 3      | spaceship   |
-| fda.gifts       | available | $38.48    | $47.48        | high           | low    | 3      | namecheap   |
+| dio.gifts       | available | $36.99    | $36.99        | medium         | low    | 3      | namesilo    |
 | hog.gifts       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo    |
-| hem.gifts       | available | $38.48    | $47.48        | high           | low    | 3      | namecheap   |
+| fda.gifts       | available | $38.48    | $47.48        | high           | low    | 3      | namecheap   |
 | jot.gifts       | premium   | $34.36    | $34.36        | high           | low    | 3      | spaceship   |
-| iis.gifts       | available | $29.18    | $29.18        | high           | low    | 3      | spaceship   |
+| fsb.gifts       | available | $36.99    | $36.99        | high           | low    | 3      | namesilo    |
 | lie.gifts       | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo    |
-| isi.gifts       | available | $28.20    | $28.20        | high           | low    | 3      | cloudflare  |
+| hem.gifts       | available | $38.48    | $47.48        | medium         | low    | 3      | namecheap   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 28,524 live domains                        |
+| 1,000-row public sample | 30,947 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 5 high-demand names under $2,500           |
+| Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GIFTS One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GIFTS One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
